@@ -1,0 +1,1160 @@
+  Date: 12/21/21 11:19:26                     Microbiology Detailed Line Listing Report                     Id: GUNOSKEJ            
+  Sequence: HUP Micro Detailed Line Listing                                                                 Page:   1               
+                                                                                                                                    
+  Filter:                                                             Sort(s):                                                      
+  1: Date/Time - Complete - 12/13/21 00:00  -  12/21/21 23:59         1: Name [A]                                                   
+  2: Service Resource - HUP Lab                                                                                                     
+  3: Task - Susceptibility Panel - GP67                                                                                             
+  4: Task Result - Report Organism/Response - MRSA 1, MRSA 2,                                                                       
+                                              MRSAscv, MRSA                                                                         
+ =========================================================================================================================          
+ Name: Benson, Antoinette                                          Provider:     Mull, Nikhil MD                                    
+ MRN/Age/Sex:  055517189 HUP/82 years/Female                       Admit Date: 11/04/21 15:36                                       
+ Enc Type: (I) Inpatient                                           Discharge Date:                                                  
+ Location: HUP/HUP/HEONC P14Center/H1420/H1420                                                                                      
+-------------------------------------------------------------------------------------------------------------------------           
+ Procedure:  C BC                                   Source: BL P                            Collect Date: 12/09/21 05:34            
+ Accession:  21-343-03288                           Body Site:                              Receive Date: 12/09/21 08:39            
+ Serv Res: HUP Bactec 1                             Ft Source:                              Start Date:   12/09/21 08:39            
+ Order Location: HUP/HEONC P14Center                Antibiotics:                            Pathogens:                              
+-------------------------------------------------------------------------------------------------------------------------           
+ Date Time      Tech     # Task          Results                                                                                    
+ -------------------------------------------------------------------------------------------------------------------------          
+ 12/10/21 09:28 KEPNERK    GS Cult#2                                                                                                
+                           Gram Positive Cocci in clusters From One Vial                                                            
+                           Initial Positive Results Phoned To And Readback By: Lintz, Rachel E, PA-C  12/10/2021                    
+                           09:28:54                                                                                                 
+                           Telephone Notification Is Made For First-time Positive Cultures Only.  Multiple Blood                    
+                           Cultures With The Same Organism Will Not Be Phoned Unless Greater Than 4 Days Have Elapsed               
+                           Since The Initial Notification Was Made.                                                                 
+ 12/15/21 15:51 MILLERK    Final                                                                                                    
+                           Methicillin-Resistant Staphylococcus aureus detected by molecular assay.                                 
+                           Methicillin-Resistant Staphylococcus aureus From One Vial Confirmed by culture.                          
+                           Staphylococcus aureus bacteremia is associated with significant morbidity and mortality.                 
+                           Infectious Diseases consultation is recommended.                                                         
+ 12/12/21 08:59 DULLW      MIC           Organism: MRSA      Panel: GP67        ID#: 21343032881                                    
+                  MIC Dilution                         MIC Interpretation                                                           
+ Amp-sul          %xxx      Ver 12/12/21 08:59 DULLW   R         Ver 12/12/21 08:59 DULLW                                           
+ Cefazolin        %xxx      Ver 12/12/21 08:59 DULLW   R         Ver 12/12/21 08:59 DULLW                                           
+ Cefoxitin-screen %Pos      Ver 12/12/21 08:59 DULLW   %Pos      Ver 12/12/21 08:59 DULLW                                           
+ Pen              %>=0.5    Ver 12/12/21 08:59 DULLW   R         Ver 12/12/21 08:59 DULLW                                           
+ Ox               %>=4      Ver 12/12/21 08:59 DULLW   R         Ver 12/12/21 08:59 DULLW                                           
+ Gent             %<=0.5    Ver 12/12/21 08:59 DULLW   %S        Ver 12/12/21 08:59 DULLW                                           
+ Cipro            %>=8      Ver 12/12/21 08:59 DULLW   %R        Ver 12/12/21 08:59 DULLW                                           
+ Levo             %>=8      Ver 12/12/21 08:59 DULLW   %R        Ver 12/12/21 08:59 DULLW                                           
+ Moxi             %>=8      Ver 12/12/21 08:59 DULLW   %R        Ver 12/12/21 08:59 DULLW                                           
+ Clinda-R         %Neg      Ver 12/12/21 08:59 DULLW   %Neg      Ver 12/12/21 08:59 DULLW                                           
+ Eryth            %>=8      Ver 12/12/21 08:59 DULLW   %R        Ver 12/12/21 08:59 DULLW                                           
+ Clinda           %>=8      Ver 12/12/21 08:59 DULLW   %R        Ver 12/12/21 08:59 DULLW                                           
+ Quin-dal         %0.5      Ver 12/12/21 08:59 DULLW   %S        Ver 12/12/21 08:59 DULLW                                           
+ Linezolid        %2        Ver 12/12/21 08:59 DULLW   %xxx      Ver 12/12/21 08:59 DULLW                                           
+ Vanc             %1        Ver 12/12/21 08:59 DULLW   S         Ver 12/12/21 08:59 DULLW                                           
+ Tetra            %<=1      Ver 12/12/21 08:59 DULLW   %S        Ver 12/12/21 08:59 DULLW                                           
+ Tigec            %<=0.12   Ver 12/12/21 08:59 DULLW   %S        Ver 12/12/21 08:59 DULLW                                           
+ Nitro            %32       Ver 12/12/21 08:59 DULLW   %S        Ver 12/12/21 08:59 DULLW                                           
+ Rif              %<=0.5    Ver 12/12/21 08:59 DULLW   %S        Ver 12/12/21 08:59 DULLW                                           
+ SXT              %<=10     Ver 12/12/21 08:59 DULLW   S         Ver 12/12/21 08:59 DULLW                                           
+
+                                                                                                                                   
+  Date: 12/21/21 11:19:26                     Microbiology Detailed Line Listing Report                     Id: GUNOSKEJ            
+  Sequence: HUP Micro Detailed Line Listing                                                                 Page:   2               
+ =========================================================================================================================          
+ Name: Bergman, Nicole L                                           Provider:     Kawut, Steven M MD                                 
+ MRN/Age/Sex:  040699696 HUP/40 years/Female                       Admit Date: 12/14/21 16:09                                       
+ Enc Type: (I) Inpatient                                           Discharge Date: 12/18/21 15:45                                   
+ Location: HUP/HUP/S11/1106/A                                                                                                       
+-------------------------------------------------------------------------------------------------------------------------           
+ Procedure:  C TISS                                 Source: Biopsy                          Collect Date: 12/16/21 17:22            
+ Accession:  21-350-15410                           Body Site: Lung                         Receive Date: 12/16/21 17:47            
+ Serv Res: HUP Micro Wound                          Ft Source: Lung  LUL nodule TBNA BIOPSY Start Date:   12/16/21 17:47            
+ Order Location: HUP/HPOR HUP Operat                Antibiotics:                            Pathogens:                              
+-------------------------------------------------------------------------------------------------------------------------           
+ Date Time      Tech     # Task          Results                                                                                    
+ -------------------------------------------------------------------------------------------------------------------------          
+ 12/17/21 01:34 BERGMANA   GS                                                                                                       
+                           Gram Stain Result:                                                                                       
+                           Rare Gram Positive Cocci                                                                                 
+                           No White Blood Cells Seen                                                                                
+ 12/19/21 10:50 CASSOND    Final                                                                                                    
+                           Moderate Methicillin-Resistant Staphylococcus aureus                                                     
+ 12/19/21 07:59 ASTERINJ   MIC           Organism: MRSA      Panel: GP67        ID#: 21350154101                                    
+                  MIC Dilution                         MIC Interpretation                                                           
+ Amp-sul          %xxx      Ver 12/19/21 07:59 ASTERI  R         Ver 12/19/21 07:59 ASTERI                                          
+ Cefazolin        %xxx      Ver 12/19/21 07:59 ASTERI  R         Ver 12/19/21 07:59 ASTERI                                          
+ Cefoxitin-screen %Pos      Ver 12/19/21 07:59 ASTERI  %Pos      Ver 12/19/21 07:59 ASTERI                                          
+ Pen              %>=0.5    Ver 12/19/21 07:59 ASTERI  R         Ver 12/19/21 07:59 ASTERI                                          
+ Ox               %>=4      Ver 12/19/21 07:59 ASTERI  R         Ver 12/19/21 07:59 ASTERI                                          
+ Gent             %<=0.5    Ver 12/19/21 07:59 ASTERI  %S        Ver 12/19/21 07:59 ASTERI                                          
+ Cipro            %>=8      Ver 12/19/21 07:59 ASTERI  %R        Ver 12/19/21 07:59 ASTERI                                          
+ Levo             %>=8      Ver 12/19/21 07:59 ASTERI  %R        Ver 12/19/21 07:59 ASTERI                                          
+ Moxi             %4        Ver 12/19/21 07:59 ASTERI  %R        Ver 12/19/21 07:59 ASTERI                                          
+ Clinda-R         %Neg      Ver 12/19/21 07:59 ASTERI  %Neg      Ver 12/19/21 07:59 ASTERI                                          
+ Eryth            %>=8      Ver 12/19/21 07:59 ASTERI  R         Ver 12/19/21 07:59 ASTERI                                          
+ Clinda           %>=8      Ver 12/19/21 07:59 ASTERI  R         Ver 12/19/21 07:59 ASTERI                                          
+ Quin-dal         %<=0.25   Ver 12/19/21 07:59 ASTERI  %S        Ver 12/19/21 07:59 ASTERI                                          
+ Linezolid        %2        Ver 12/19/21 07:59 ASTERI  %xxx      Ver 12/19/21 07:59 ASTERI                                          
+ Vanc             %<=0.5    Ver 12/19/21 07:59 ASTERI  S         Ver 12/19/21 07:59 ASTERI                                          
+ Tetra            %8        Ver 12/19/21 07:59 ASTERI  I         Ver 12/19/21 07:59 ASTERI                                          
+ Tigec            %0.5      Ver 12/19/21 07:59 ASTERI  %S        Ver 12/19/21 07:59 ASTERI                                          
+ Nitro            %<=16     Ver 12/19/21 07:59 ASTERI  %S        Ver 12/19/21 07:59 ASTERI                                          
+ Rif              %<=0.5    Ver 12/19/21 07:59 ASTERI  %S        Ver 12/19/21 07:59 ASTERI                                          
+ SXT              %<=10     Ver 12/19/21 07:59 ASTERI  S         Ver 12/19/21 07:59 ASTERI                                          
+ 12/19/21 08:56 ASTERINJ   KB            Organism: MRSA      Panel: Ceftaroline ID#:                                                
+                  Kirby-Bauer Zone Size                Kirby-Bauer Interpretation                                                   
+ Ceftaroline      %27mm     Ver 12/19/21 08:56 ASTERI  S         Ver 12/19/21 08:56 ASTERI                                          
+
+                                                                                                                                   
+  Date: 12/21/21 11:19:26                     Microbiology Detailed Line Listing Report                     Id: GUNOSKEJ            
+  Sequence: HUP Micro Detailed Line Listing                                                                 Page:   3               
+=========================================================================================================================          
+ Name: Carson, James E                                             Provider:     Binkley, Mark D MD                                 
+ MRN/Age/Sex:  000762692 PMC/62 years/Male                         Admit Date: 12/14/21 20:05                                       
+ Enc Type: _(O) Outpatient                                         Discharge Date:                                                  
+ Location: PPMC/PPMC CUPP/WCUC Wound Care                                                                                           
+-------------------------------------------------------------------------------------------------------------------------           
+ Procedure:  C ROUTINE                              Source: Wound                           Collect Date: 12/14/21 20:05            
+ Accession:  21-348-17585                           Body Site:                              Receive Date: 12/14/21 21:44            
+ Serv Res: HUP Micro Wound                          Ft Source:                              Start Date:   12/14/21 21:44            
+ Order Location: PPMC/WCUC Wound Care               Antibiotics:                            Pathogens:                              
+-------------------------------------------------------------------------------------------------------------------------           
+ Date Time      Tech     # Task          Results                                                                                    
+ -------------------------------------------------------------------------------------------------------------------------          
+ 12/15/21 00:49 GEBREMAF   GS                                                                                                       
+                           Gram Stain Result:                                                                                       
+                           Few Gram Negative Rods                                                                                   
+                           No White Blood Cells Seen                    Date: 12/21/21 11:19:26                     Microbiology Detailed Line Listing Report                     Id: GUNOSKEJ            
+  Sequence: HUP Micro Detailed Line Listing                                                                 Page:   4               
+ =========================================================================================================================          
+ Name: Carson, James E                Accession:  21-348-17585             Procedure:C ROUTINE                                      
+-------------------------------------------------------------------------------------------------------------------------           
+ Date Time      Tech     # Task          Results                                                                                    
+-------------------------------------------------------------------------------------------------------------------------           
+ 12/18/21 09:27 ASTERINJ   Amend                                                                                                    
+                           Many Pseudomonas aeruginosa                                                                              
+                           Moderate Methicillin-Resistant Staphylococcus aureus                                                     
+ 12/17/21 08:52 ANDREACK   MIC           Organism: PA        Panel: OX81        ID#: 21348175851                                    
+                  MIC Dilution                         MIC Interpretation                                                           
+ Pip-tazo         %8        Ver 12/17/21 08:52 ANDREA  S         Ver 12/17/21 08:52 ANDREA                                          
+ Ceftazidime      %4        Ver 12/17/21 08:52 ANDREA  S         Ver 12/17/21 08:52 ANDREA                                          
+ Cefepime         %4        Ver 12/17/21 08:52 ANDREA  S         Ver 12/17/21 08:52 ANDREA                                          
+ Meropenem        %<=0.25   Ver 12/17/21 08:52 ANDREA  S         Ver 12/17/21 08:52 ANDREA                                          
+ Amik             %<=2      Ver 12/17/21 08:52 ANDREA  S         Ver 12/17/21 08:52 ANDREA                                          
+ Gent             %2        Ver 12/17/21 08:52 ANDREA  S         Ver 12/17/21 08:52 ANDREA                                          
+ Tobra            %<=1      Ver 12/17/21 08:52 ANDREA  S         Ver 12/17/21 08:52 ANDREA                                          
+ Cipro            %<=0.25   Ver 12/17/21 08:52 ANDREA  %S        Ver 12/17/21 08:52 ANDREA                                          
+ Levo             %1        Ver 12/17/21 08:52 ANDREA  S         Ver 12/17/21 08:52 ANDREA                                          
+ 12/18/21 09:27 ASTERINJ   MIC           Organism: MRSA      Panel: GP67        ID#: 21348175852                                    
+                  MIC Dilution                         MIC Interpretation                                                           
+ Amp-sul          %xxx      Ver 12/18/21 09:27 ASTERI  R         Ver 12/18/21 09:27 ASTERI                                          
+ Cefazolin        %xxx      Ver 12/18/21 09:27 ASTERI  R         Ver 12/18/21 09:27 ASTERI                                          
+ Cefoxitin-screen %Pos      Ver 12/18/21 09:27 ASTERI  %Pos      Ver 12/18/21 09:27 ASTERI                                          
+ Pen              %>=0.5    Ver 12/18/21 09:27 ASTERI  R         Ver 12/18/21 09:27 ASTERI                                          
+ Ox               %>=4      Ver 12/18/21 09:27 ASTERI  R         Ver 12/18/21 09:27 ASTERI                                          
+ Gent             %<=0.5    Ver 12/18/21 09:27 ASTERI  %S        Ver 12/18/21 09:27 ASTERI                                          
+ Cipro            %>=8      Ver 12/18/21 09:27 ASTERI  %R        Ver 12/18/21 09:27 ASTERI                                          
+ Levo             %>=8      Ver 12/18/21 09:27 ASTERI  %R        Ver 12/18/21 09:27 ASTERI                                          
+ Moxi             %4        Ver 12/18/21 09:27 ASTERI  %R        Ver 12/18/21 09:27 ASTERI                                          
+ Clinda-R         %Pos      Ver 12/18/21 09:27 ASTERI  %Pos      Ver 12/18/21 09:27 ASTERI                                          
+ Eryth            %>=8      Ver 12/18/21 09:27 ASTERI  R         Ver 12/18/21 09:27 ASTERI                                          
+ Clinda           %<=0.25   Ver 12/18/21 09:27 ASTERI  R         Ver 12/18/21 09:27 ASTERI                                          
+ Quin-dal         %<=0.25   Ver 12/18/21 09:27 ASTERI  %S        Ver 12/18/21 09:27 ASTERI                                          
+ Linezolid        %2        Ver 12/18/21 09:27 ASTERI  %xxx      Ver 12/18/21 09:27 ASTERI                                          
+ Vanc             %<=0.5    Ver 12/18/21 09:27 ASTERI  S         Ver 12/18/21 09:27 ASTERI                                          
+ Tetra            %<=1      Ver 12/18/21 09:27 ASTERI  S         Ver 12/18/21 09:27 ASTERI                                          
+ Tigec            %<=0.12   Ver 12/18/21 09:27 ASTERI  %S        Ver 12/18/21 09:27 ASTERI                                          
+ Nitro            %<=16     Ver 12/18/21 09:27 ASTERI  %S        Ver 12/18/21 09:27 ASTERI                                          
+ Rif              %<=0.5    Ver 12/18/21 09:27 ASTERI  %S        Ver 12/18/21 09:27 ASTERI                                          
+ SXT              %<=10     Ver 12/18/21 09:27 ASTERI  S         Ver 12/18/21 09:27 ASTERI                                          
+
+                                                                                                                                   
+  Date: 12/21/21 11:19:26                     Microbiology Detailed Line Listing Report                     Id: GUNOSKEJ            
+  Sequence: HUP Micro Detailed Line Listing                                                                 Page:   5               
+ =========================================================================================================================          
+ Name: Cochrane, James M                                           Provider:     Lee, Gwo-Chin MD                                   
+ MRN/Age/Sex:  362552895 PMC/78 years/Male                         Admit Date: 12/05/21 15:34                                       
+ Enc Type: (I) Inpatient                                           Discharge Date: 12/11/21 13:45                                   
+ Location: PPMC/PPMC CUPP/CP5E/C518/A                                                                                               
+-------------------------------------------------------------------------------------------------------------------------           
+ Procedure:  C ANA                                  Source: Tissue                          Collect Date: 12/06/21 10:49            
+ Accession:  21-340-10702                           Body Site: Knee R                       Receive Date: 12/06/21 17:29            
+ Serv Res: HUP Micro Anaer                          Ft Source: #1 - RIGHT KNEE CULTURE      Start Date:   12/06/21 17:29            
+ Order Location: PPMC/PMOR PPMC Opera               Antibiotics:                            Pathogens:                              
+-------------------------------------------------------------------------------------------------------------------------           
+ Date Time      Tech     # Task          Results                                                                                    
+ -------------------------------------------------------------------------------------------------------------------------          
+ 12/17/21 12:16 DULLW      Final                                                                                                    
+                           Few Methicillin-Resistant Staphylococcus aureus                                                          
+                           Moderate Finegoldia magna                                                                                
+                           Antimicrobial Susceptibility of Some Anaerobic Bacteria Is Not Predictable, Depending On The             
+                           Drug Used. Please Call The Laboratory To Inquire About The Utility Of Susceptibility                     
+                           Testing, If Clinically Indicated.                                                                        
+ 12/13/21 09:56 ASTERINJ   KB-Check      Organism: MRSA      Panel: GP67-check  ID#:                                                
+                  Kirby-Bauer Zone Size                Check Kirby-Bauer Interpretation                                             
+ Cefoxitin                  Ver 12/13/21 09:56 ASTERI  %xxx      Ver 12/13/21 09:56 ASTERI                                          
+ SXT              %6mm      Ver 12/13/21 09:56 ASTERI  %R        Ver 12/13/21 09:56 ASTERI                                          
+ 12/13/21 09:56 ASTERINJ   MIC           Organism: MRSA      Panel: GP67        ID#: 21340107023                                    
+                  MIC Dilution                         MIC Interpretation                                                           
+ Amp-sul          %xxx      Ver 12/12/21 08:47 DULLW   R         Ver 12/12/21 08:47 DULLW                                           
+ Cefazolin        %xxx      Ver 12/12/21 08:47 DULLW   R         Ver 12/12/21 08:47 DULLW                                           
+ Cefoxitin-screen %Pos      Ver 12/12/21 08:47 DULLW   %Pos      Ver 12/12/21 08:47 DULLW                                           
+ Pen              %>=0.5    Ver 12/12/21 08:47 DULLW   R         Ver 12/12/21 08:47 DULLW                                           
+ Ox               %>=4      Ver 12/12/21 08:47 DULLW   R         Ver 12/12/21 08:47 DULLW                                           
+ Gent             %<=0.5    Ver 12/12/21 08:47 DULLW   %S        Ver 12/12/21 08:47 DULLW                                           
+ Cipro            %>=8      Ver 12/12/21 08:47 DULLW   %R        Ver 12/12/21 08:47 DULLW                                           
+ Levo             %>=8      Ver 12/12/21 08:47 DULLW   %R        Ver 12/12/21 08:47 DULLW                                           
+ Moxi             %>=8      Ver 12/12/21 08:47 DULLW   %R        Ver 12/12/21 08:47 DULLW                                           
+ Clinda-R         %Neg      Ver 12/12/21 08:47 DULLW   %Neg      Ver 12/12/21 08:47 DULLW                                           
+ Eryth            %>=8      Ver 12/12/21 08:47 DULLW   R         Ver 12/12/21 08:47 DULLW                                           
+ Clinda           %<=0.25   Ver 12/12/21 08:47 DULLW   S         Ver 12/12/21 08:47 DULLW                                           
+ Quin-dal         %<=0.25   Ver 12/12/21 08:47 DULLW   %S        Ver 12/12/21 08:47 DULLW                                           
+ Linezolid        %4        Ver 12/12/21 08:47 DULLW   %xxx      Ver 12/12/21 08:47 DULLW                                           
+ Vanc             %1        Ver 12/12/21 08:47 DULLW   S         Ver 12/12/21 08:47 DULLW                                           
+ Tetra            %<=1      Ver 12/12/21 08:47 DULLW   S         Ver 12/12/21 08:47 DULLW                                           
+ Tigec            %<=0.12   Ver 12/12/21 08:47 DULLW   %S        Ver 12/12/21 08:47 DULLW                                           
+ Nitro            %<=16     Ver 12/12/21 08:47 DULLW   %S        Ver 12/12/21 08:47 DULLW                                           
+ Rif              %<=0.5    Ver 12/12/21 08:47 DULLW   %S        Ver 12/12/21 08:47 DULLW                                           
+ SXT              %>=320    Ver 12/12/21 08:47 DULLW   R         Ver 12/13/21 09:56 ASTERI                                          
+
+                                                                                                                                   
+  Date: 12/21/21 11:19:26                     Microbiology Detailed Line Listing Report                     Id: GUNOSKEJ            
+  Sequence: HUP Micro Detailed Line Listing                                                                 Page:   6               
+ =========================================================================================================================          
+ Name: Cramer, Barbara G                                           Provider:     Sobanko, Joseph MD                                 
+ MRN/Age/Sex:  003282522 HUP/73 years/Female                       Admit Date: 12/16/21 19:41                                       
+ Enc Type: _(O) Outpatient                                         Discharge Date:                                                  
+ Location: HUP/HUP/DERS Dermatolog                                                                                                  
+-------------------------------------------------------------------------------------------------------------------------           
+ Procedure:  C ROUTINE                              Source: Wound                           Collect Date: 12/16/21 19:41            
+ Accession:  21-350-16611                           Body Site: Cheek                        Receive Date: 12/16/21 20:22            
+ Serv Res: HUP Micro Wound                          Ft Source: left cheek                   Start Date:   12/16/21 20:22            
+ Order Location: HUP/DERS Dermatolog                Antibiotics:                            Pathogens:                              
+-------------------------------------------------------------------------------------------------------------------------           
+ Date Time      Tech     # Task          Results                                                                                    
+ -------------------------------------------------------------------------------------------------------------------------          
+ 12/17/21 01:32 DESEIGNJ   GS                                                                                                       
+                           Gram Stain Result:                                                                                       
+                           Moderate Gram Positive Cocci                                                                             
+                           Moderate White Blood Cells                                                                               
+ 12/19/21 13:30 CASSOND    Final                                                                                                    
+                           Few Enterobacter cloacae complex , Susceptibility Test Is Not Performed Because Clinical                 
+                           Significance Of This Finding Is Unclear.                                                                 
+                           Few Klebsiella oxytoca , Susceptibility Test Is Not Performed Because Clinical Significance              
+                           Of This Finding Is Unclear.                                                                              
+                           Moderate Methicillin-Resistant Staphylococcus aureus                                                     
+ 12/19/21 08:16 ASTERINJ   MIC           Organism: MRSA      Panel: GP67        ID#: 21350166113                                    
+                  MIC Dilution                         MIC Interpretation                                                           
+ Amp-sul          %xxx      Ver 12/19/21 08:16 ASTERI  R         Ver 12/19/21 08:16 ASTERI                                          
+ Cefazolin        %xxx      Ver 12/19/21 08:16 ASTERI  R         Ver 12/19/21 08:16 ASTERI                                          
+ Cefoxitin-screen %Pos      Ver 12/19/21 08:16 ASTERI  %Pos      Ver 12/19/21 08:16 ASTERI                                          
+ Pen              %>=0.5    Ver 12/19/21 08:16 ASTERI  R         Ver 12/19/21 08:16 ASTERI                                          
+ Ox               %>=4      Ver 12/19/21 08:16 ASTERI  R         Ver 12/19/21 08:16 ASTERI                                          
+ Gent             %<=0.5    Ver 12/19/21 08:16 ASTERI  %S        Ver 12/19/21 08:16 ASTERI                                          
+ Cipro            %>=8      Ver 12/19/21 08:16 ASTERI  %R        Ver 12/19/21 08:16 ASTERI                                          
+ Levo             %4        Ver 12/19/21 08:16 ASTERI  %R        Ver 12/19/21 08:16 ASTERI                                          
+ Moxi             %2        Ver 12/19/21 08:16 ASTERI  %R        Ver 12/19/21 08:16 ASTERI                                          
+ Clinda-R         %Neg      Ver 12/19/21 08:16 ASTERI  %Neg      Ver 12/19/21 08:16 ASTERI                                          
+ Eryth            %>=8      Ver 12/19/21 08:16 ASTERI  R         Ver 12/19/21 08:16 ASTERI                                          
+ Clinda           %<=0.25   Ver 12/19/21 08:16 ASTERI  S         Ver 12/19/21 08:16 ASTERI                                          
+ Quin-dal         %<=0.25   Ver 12/19/21 08:16 ASTERI  %S        Ver 12/19/21 08:16 ASTERI                                          
+ Linezolid        %2        Ver 12/19/21 08:16 ASTERI  %xxx      Ver 12/19/21 08:16 ASTERI                                          
+ Vanc             %<=0.5    Ver 12/19/21 08:16 ASTERI  S         Ver 12/19/21 08:16 ASTERI                                          
+ Tetra            %<=1      Ver 12/19/21 08:16 ASTERI  S         Ver 12/19/21 08:16 ASTERI                                          
+ Tigec            %<=0.12   Ver 12/19/21 08:16 ASTERI  %S        Ver 12/19/21 08:16 ASTERI                                          
+ Nitro            %<=16     Ver 12/19/21 08:16 ASTERI  %S        Ver 12/19/21 08:16 ASTERI                                          
+ Rif              %<=0.5    Ver 12/19/21 08:16 ASTERI  %S        Ver 12/19/21 08:16 ASTERI                                          
+ SXT              %<=10     Ver 12/19/21 08:16 ASTERI  S         Ver 12/19/21 08:16 ASTERI                                          
+
+                                                                                                                                   
+  Date: 12/21/21 11:19:26                     Microbiology Detailed Line Listing Report                     Id: GUNOSKEJ            
+  Sequence: HUP Micro Detailed Line Listing                                                                 Page:   7               
+ =========================================================================================================================          
+ Name: Damico, Frank J                                             Provider:     Hecht, Todd MD                                     
+ MRN/Age/Sex:  005479266 HUP/65 years/Male                         Admit Date: 12/13/21 13:12                                       
+ Enc Type: (I) Inpatient                                           Discharge Date: 12/17/21 17:14                                   
+ Location: HUP/HUP/FP14/1462/B                                                                                                      
+-------------------------------------------------------------------------------------------------------------------------           
+ Procedure:  C ROUTINE                              Source: Wound Open                      Collect Date: 12/14/21 23:45            
+ Accession:  21-347-19528                           Body Site:                              Receive Date: 12/14/21 23:55            
+ Serv Res: HUP Micro Wound                          Ft Source:                              Start Date:   12/14/21 05:46            
+ Order Location: HUP/EDOU Transition                Antibiotics:                            Pathogens:                              
+-------------------------------------------------------------------------------------------------------------------------           
+ Date Time      Tech     # Task          Results                                                                                    
+ -------------------------------------------------------------------------------------------------------------------------          
+ 12/14/21 10:52 ROSTIM     GS                                                                                                       
+                           Rare Budding Yeast                                                                                       
+                           Few Gram Negative Rods                                                                                   
+                           Moderate Gram Positive Cocci                                                                             
+                           No White Blood Cells Seen                                                                                
+ 12/17/21 08:50 PALLIESA   Final                                                                                                    
+                           Many Escherichia coli                                                                                    
+                           Many Enterococcus faecalis                                                                               
+                           Many Methicillin-Resistant Staphylococcus aureus                                                         
+                           Few Stenotrophomonas maltophilia                                                                         
+ 12/17/21 08:26 ANDREACK   MIC           Organism: EC        Panel: GN81        ID#: 21347195281                                    
+                  MIC Dilution                         MIC Interpretation                                                           
+ Amp              %4        Ver 12/17/21 08:26 ANDREA  S         Ver 12/17/21 08:26 ANDREA                                          
+ Amox-clav        %<=2      Ver 12/17/21 08:26 ANDREA  S         Ver 12/17/21 08:26 ANDREA                                          
+ Pip-tazo         %<=4      Ver 12/17/21 08:26 ANDREA  S         Ver 12/17/21 08:26 ANDREA                                          
+ Cefazolin        %<=4      Ver 12/17/21 08:26 ANDREA  NT        Ver 12/17/21 08:26 ANDREA                                          
+ Cefoxitin        %<=4      Ver 12/17/21 08:26 ANDREA  %S        Ver 12/17/21 08:26 ANDREA                                          
+ Ceftazidime      %<=1      Ver 12/17/21 08:26 ANDREA  S         Ver 12/17/21 08:26 ANDREA                                          
+ Ceftriaxone      %<=1      Ver 12/17/21 08:26 ANDREA  S         Ver 12/17/21 08:26 ANDREA                                          
+ Cefepime         %<=1      Ver 12/17/21 08:26 ANDREA  S         Ver 12/17/21 08:26 ANDREA                                          
+ Ertapenem        %<=0.5    Ver 12/17/21 08:26 ANDREA  %S        Ver 12/17/21 08:26 ANDREA                                          
+ Meropenem        %<=0.25   Ver 12/17/21 08:26 ANDREA  S         Ver 12/17/21 08:26 ANDREA                                          
+ Amik             %<=2      Ver 12/17/21 08:26 ANDREA  S         Ver 12/17/21 08:26 ANDREA                                          
+ Gent             %<=1      Ver 12/17/21 08:26 ANDREA  S         Ver 12/17/21 08:26 ANDREA                                          
+ Tobra            %<=1      Ver 12/17/21 08:26 ANDREA  S         Ver 12/17/21 08:26 ANDREA                                          
+ Cipro            %<=0.25   Ver 12/17/21 08:26 ANDREA  %S        Ver 12/17/21 08:26 ANDREA                                          
+ Levo             %<=0.12   Ver 12/17/21 08:26 ANDREA  S         Ver 12/17/21 08:26 ANDREA                                          
+ Tetra            %<=1      Ver 12/17/21 08:26 ANDREA  %S        Ver 12/17/21 08:26 ANDREA                                          
+ Nitro            %<=16     Ver 12/17/21 08:26 ANDREA  %S        Ver 12/17/21 08:26 ANDREA                                          
+ SXT              %<=20     Ver 12/17/21 08:26 ANDREA  S         Ver 12/17/21 08:26 ANDREA                                          
+ 12/18/21 09:23 ASTERINJ   MIC           Organism: Entfaeca  Panel: ECOC        ID#: 21347195282                                    
+                  MIC Dilution                         MIC Interpretation                                                           
+ Amp              %<=2      Ver 12/18/21 09:23 ASTERI  S         Ver 12/18/21 09:23 ASTERI                                          
+ Eryth            %1        Ver 12/18/21 09:23 ASTERI  %I        Ver 12/18/21 09:23 ASTERI                                          
+ Gent-HL          %Syn-S    Ver 12/18/21 09:23 ASTERI  %S        Ver 12/18/21 09:23 ASTERI                                          
+ Levo             %0.5      Ver 12/18/21 09:23 ASTERI  %S        Ver 12/18/21 09:23 ASTERI                                          
+ Linezolid        %2        Ver 12/18/21 09:23 ASTERI  %S        Ver 12/18/21 09:23 ASTERI                                          
+ Nitro            %<=16     Ver 12/18/21 09:23 ASTERI  %S        Ver 12/18/21 09:23 ASTERI                                          
+ Pen              %2        Ver 12/18/21 09:23 ASTERI  %S        Ver 12/18/21 09:23 ASTERI                                          
+ Quin-dal         %4        Ver 12/18/21 09:23 ASTERI  %xxx      Ver 12/18/21 09:23 ASTERI                                          
+ Strep-HL         %Syn-S    Ver 12/18/21 09:23 ASTERI  %S        Ver 12/18/21 09:23 ASTERI                                          
+ Tetra            %>=16     Ver 12/18/21 09:23 ASTERI  %R        Ver 12/18/21 09:23 ASTERI                                          
+ Vanc             %1        Ver 12/18/21 09:23 ASTERI  S         Ver 12/18/21 09:23 ASTERI                                          
+
+                                                                                                                                   
+  Date: 12/21/21 11:19:26                     Microbiology Detailed Line Listing Report                     Id: GUNOSKEJ            
+  Sequence: HUP Micro Detailed Line Listing                                                                 Page:   8               
+ =========================================================================================================================          
+ Name: Damico, Frank J                Accession:  21-347-19528             Procedure:C ROUTINE                                      
+-------------------------------------------------------------------------------------------------------------------------           
+ Date Time      Tech     # Task          Results                                                                                    
+-------------------------------------------------------------------------------------------------------------------------           
+ 12/17/21 08:26 ANDREACK   MIC           Organism: MRSA      Panel: GP67        ID#: 21347195283                                    
+                  MIC Dilution                         MIC Interpretation                                                           
+ Amp-sul          %xxx      Ver 12/17/21 08:26 ANDREA  R         Ver 12/17/21 08:26 ANDREA                                          
+ Cefazolin        %xxx      Ver 12/17/21 08:26 ANDREA  R         Ver 12/17/21 08:26 ANDREA                                          
+ Cefoxitin-screen %Pos      Ver 12/17/21 08:26 ANDREA  %Pos      Ver 12/17/21 08:26 ANDREA                                          
+ Pen              %>=0.5    Ver 12/17/21 08:26 ANDREA  R         Ver 12/17/21 08:26 ANDREA                                          
+ Ox               %>=4      Ver 12/17/21 08:26 ANDREA  R         Ver 12/17/21 08:26 ANDREA                                          
+ Gent             %<=0.5    Ver 12/17/21 08:26 ANDREA  %S        Ver 12/17/21 08:26 ANDREA                                          
+ Cipro            %<=0.5    Ver 12/17/21 08:26 ANDREA  %S        Ver 12/17/21 08:26 ANDREA                                          
+ Levo             %0.25     Ver 12/17/21 08:26 ANDREA  %S        Ver 12/17/21 08:26 ANDREA                                          
+ Moxi             %<=0.25   Ver 12/17/21 08:26 ANDREA  %S        Ver 12/17/21 08:26 ANDREA                                          
+ Clinda-R         %Neg      Ver 12/17/21 08:26 ANDREA  %Neg      Ver 12/17/21 08:26 ANDREA                                          
+ Eryth            %<=0.25   Ver 12/17/21 08:26 ANDREA  S         Ver 12/17/21 08:26 ANDREA                                          
+ Clinda           %<=0.25   Ver 12/17/21 08:26 ANDREA  S         Ver 12/17/21 08:26 ANDREA                                          
+ Quin-dal         %<=0.25   Ver 12/17/21 08:26 ANDREA  %S        Ver 12/17/21 08:26 ANDREA                                          
+ Linezolid        %2        Ver 12/17/21 08:26 ANDREA  %xxx      Ver 12/17/21 08:26 ANDREA                                          
+ Vanc             %1        Ver 12/17/21 08:26 ANDREA  S         Ver 12/17/21 08:26 ANDREA                                          
+ Tetra            %>=16     Ver 12/17/21 08:26 ANDREA  R         Ver 12/17/21 08:26 ANDREA                                          
+ Tigec            %0.25     Ver 12/17/21 08:26 ANDREA  %S        Ver 12/17/21 08:26 ANDREA                                          
+ Nitro            %<=16     Ver 12/17/21 08:26 ANDREA  %S        Ver 12/17/21 08:26 ANDREA                                          
+ Rif              %<=0.5    Ver 12/17/21 08:26 ANDREA  %S        Ver 12/17/21 08:26 ANDREA                                          
+ SXT              %<=10     Ver 12/17/21 08:26 ANDREA  S         Ver 12/17/21 08:26 ANDREA                                          
+ 12/17/21 08:25 ANDREACK   KB            Organism: Stemal    Panel: XM-KB       ID#:                                                
+                  Kirby-Bauer Zone Size                Kirby-Bauer Interpretation                                                   
+ Levo             %31mm     Ver 12/17/21 08:25 ANDREA  %S        Ver 12/17/21 08:25 ANDREA                                          
+ Mino             %30mm     Ver 12/17/21 08:25 ANDREA  %S        Ver 12/17/21 08:25 ANDREA                                          
+ SXT              %30mm     Ver 12/17/21 08:25 ANDREA  S         Ver 12/17/21 08:25 ANDREA                                          
+ =========================================================================================================================          
+ Name: Defrank, Mourey                                             Provider:     Cohen, Adam D MD                                   
+ MRN/Age/Sex:  471695676 HUP/21 years/Male                         Admit Date: 12/07/21 01:14                                       
+ Enc Type: (I) Inpatient                                           Discharge Date:                                                  
+ Location: HUP/HUP/HETON P12 City/H1207/H1207                                                                                       
+-------------------------------------------------------------------------------------------------------------------------           
+ Procedure:  C BC                                   Source: BL P                            Collect Date: 12/13/21 22:00            
+ Accession:  21-348-18055                           Body Site:                              Receive Date: 12/15/21 01:06            
+ Serv Res: HUP Bactec 1                             Ft Source:                              Start Date:   12/15/21 01:07            
+ Order Location: HUP/HUONI P14CtyICU                Antibiotics:                            Pathogens:                              
+-------------------------------------------------------------------------------------------------------------------------           
+ Date Time      Tech     # Task          Results                                                                                    
+ -------------------------------------------------------------------------------------------------------------------------          
+ 12/16/21 07:28 DIAKITEF   GS Cult#3                                                                                                
+                           Gram Positive Cocci in clusters From Both Vials                                                          
+                           Telephone Notification Is Made For First-time Positive Cultures Only.  Multiple Blood                    
+                           Cultures With The Same Organism Will Not Be Phoned Unless Greater Than 4 Days Have Elapsed               
+                           Since The Initial Notification Was Made.                                                                 
+                           Initial Positive Results Phoned To And Readback By: Chandler, Steven  RN 12/16 0728am                    
+ 12/17/21 09:12 KEPNERK    Final                                                                                                    
+                           Methicillin-Resistant Staphylococcus aureus detected by molecular assay.                                 
+                           Methicillin-Resistant Staphylococcus aureus From Both Vials Confirmed by culture.                        
+                           Staphylococcus aureus bacteremia is associated with significant morbidity and mortality.                 
+                           Infectious Diseases consultation is recommended.                                                         
+
+                                                                                                                                   
+  Date: 12/21/21 11:19:26                     Microbiology Detailed Line Listing Report                     Id: GUNOSKEJ            
+  Sequence: HUP Micro Detailed Line Listing                                                                 Page:   9               
+ =========================================================================================================================          
+ Name: Defrank, Mourey                Accession:  21-348-18055             Procedure:C BC                                           
+-------------------------------------------------------------------------------------------------------------------------           
+ Date Time      Tech     # Task          Results                                                                                    
+-------------------------------------------------------------------------------------------------------------------------           
+ 12/17/21 08:54 ANDREACK   MIC           Organism: MRSA      Panel: GP67        ID#: 21348180551                                    
+                  MIC Dilution                         MIC Interpretation                                                           
+ Amp-sul          %xxx      Ver 12/17/21 08:54 ANDREA  R         Ver 12/17/21 08:54 ANDREA                                          
+ Cefazolin        %xxx      Ver 12/17/21 08:54 ANDREA  R         Ver 12/17/21 08:54 ANDREA                                          
+ Cefoxitin-screen %Pos      Ver 12/17/21 08:54 ANDREA  %Pos      Ver 12/17/21 08:54 ANDREA                                          
+ Pen              %>=0.5    Ver 12/17/21 08:54 ANDREA  R         Ver 12/17/21 08:54 ANDREA                                          
+ Ox               %>=4      Ver 12/17/21 08:54 ANDREA  R         Ver 12/17/21 08:54 ANDREA                                          
+ Gent             %<=0.5    Ver 12/17/21 08:54 ANDREA  %S        Ver 12/17/21 08:54 ANDREA                                          
+ Cipro            %>=8      Ver 12/17/21 08:54 ANDREA  %R        Ver 12/17/21 08:54 ANDREA                                          
+ Levo             %4        Ver 12/17/21 08:54 ANDREA  %R        Ver 12/17/21 08:54 ANDREA                                          
+ Moxi             %1        Ver 12/17/21 08:54 ANDREA  %I        Ver 12/17/21 08:54 ANDREA                                          
+ Clinda-R         %Neg      Ver 12/17/21 08:54 ANDREA  %Neg      Ver 12/17/21 08:54 ANDREA                                          
+ Eryth            %>=8      Ver 12/17/21 08:54 ANDREA  %R        Ver 12/17/21 08:54 ANDREA                                          
+ Clinda           %<=0.25   Ver 12/17/21 08:54 ANDREA  %S        Ver 12/17/21 08:54 ANDREA                                          
+ Quin-dal         %<=0.25   Ver 12/17/21 08:54 ANDREA  %S        Ver 12/17/21 08:54 ANDREA                                          
+ Linezolid        %2        Ver 12/17/21 08:54 ANDREA  %xxx      Ver 12/17/21 08:54 ANDREA                                          
+ Vanc             %<=0.5    Ver 12/17/21 08:54 ANDREA  S         Ver 12/17/21 08:54 ANDREA                                          
+ Tetra            %<=1      Ver 12/17/21 08:54 ANDREA  %S        Ver 12/17/21 08:54 ANDREA                                          
+ Tigec            %<=0.12   Ver 12/17/21 08:54 ANDREA  %S        Ver 12/17/21 08:54 ANDREA                                          
+ Nitro            %<=16     Ver 12/17/21 08:54 ANDREA  %S        Ver 12/17/21 08:54 ANDREA                                          
+ Rif              %<=0.5    Ver 12/17/21 08:54 ANDREA  %S        Ver 12/17/21 08:54 ANDREA                                          
+ SXT              %<=10     Ver 12/17/21 08:54 ANDREA  S         Ver 12/17/21 08:54 ANDREA                                          
+ 12/18/21 08:11 ASTERINJ   ETEST         Organism: MRSA      Panel: Dap         ID#:                                                
+                  E Test Dilution                      E Test Interpretation                                                        
+ Dap              1         Ver 12/18/21 08:11 ASTERI  S         Ver 12/18/21 08:11 ASTERI                                          
+ =========================================================================================================================          
+ Name: Desanctis, Paul                                             Provider:     Krain, Alysa MD                                    
+ MRN/Age/Sex:  442901286 PMC/82 years/Male                         Admit Date: 12/14/21 18:57                                       
+ Enc Type: (I) Inpatient                                           Discharge Date:                                                  
+ Location: PPMC/PPMC SCHEIE/SEI3/S320/B                                                                                             
+-------------------------------------------------------------------------------------------------------------------------           
+ Procedure:  C UC                                   Source: Urine                           Collect Date: 12/14/21 23:59            
+ Accession:  21-348-17424                           Body Site:                              Receive Date: 12/15/21 07:25            
+ Serv Res: HUP Micro UR/ST                          Ft Source:                              Start Date:   12/15/21 07:25            
+ Order Location: PPMC/ER4 non-Bedded                Antibiotics:                            Pathogens:                              
+-------------------------------------------------------------------------------------------------------------------------           
+ Date Time      Tech     # Task          Results                                                                                    
+ -------------------------------------------------------------------------------------------------------------------------          
+ 12/18/21 09:25 ASTERINJ   Amend                                                                                                    
+                           Greater Than Or Equal to 1,000 CFU/ml Methicillin-Resistant Staphylococcus aureus                        
+                           This Represents A Significant Count.                                                                     
+ 12/18/21 09:25 ASTERINJ   MIC           Organism: MRSA      Panel: GP67        ID#: 21348174241                                    
+                  MIC Dilution                         MIC Interpretation                                                           
+ Amp-sul          %xxx      Ver 12/18/21 09:25 ASTERI  R         Ver 12/18/21 09:25 ASTERI                                          
+ Cefazolin        %xxx      Ver 12/18/21 09:25 ASTERI  R         Ver 12/18/21 09:25 ASTERI                                          
+ Cefoxitin-screen %Pos      Ver 12/18/21 09:25 ASTERI  %Pos      Ver 12/18/21 09:25 ASTERI                                          
+ Pen              %>=0.5    Ver 12/18/21 09:25 ASTERI  R         Ver 12/18/21 09:25 ASTERI                                          
+ Ox               %>=4      Ver 12/18/21 09:25 ASTERI  R         Ver 12/18/21 09:25 ASTERI                                          
+ Gent             %<=0.5    Ver 12/18/21 09:25 ASTERI  %S        Ver 12/18/21 09:25 ASTERI                                          
+ Cipro            %>=8      Ver 12/18/21 09:25 ASTERI  %R        Ver 12/18/21 09:25 ASTERI                                          
+ Levo             %4        Ver 12/18/21 09:25 ASTERI  R         Ver 12/18/21 09:25 ASTERI                                          
+ Moxi             %1        Ver 12/18/21 09:25 ASTERI  %I        Ver 12/18/21 09:25 ASTERI                                          
+
+                                                                                                                                   
+  Date: 12/21/21 11:19:26                     Microbiology Detailed Line Listing Report                     Id: GUNOSKEJ            
+  Sequence: HUP Micro Detailed Line Listing                                                                 Page:  10               
+ =========================================================================================================================          
+ Name: Desanctis, Paul                Accession:  21-348-17424             Procedure:C UC                                           
+-------------------------------------------------------------------------------------------------------------------------           
+ Date Time      Tech     # Task          Results                                                                                    
+-------------------------------------------------------------------------------------------------------------------------           
+ 12/18/21 09:25 ASTERINJ   MIC           MRSA                Panel: GP67        ID#: 21348174241                                    
+                  MIC Dilution                         MIC Interpretation                                                           
+ Clinda-R         %Neg      Ver 12/18/21 09:25 ASTERI  %Neg      Ver 12/18/21 09:25 ASTERI                                          
+ Eryth            %>=8      Ver 12/18/21 09:25 ASTERI  %R        Ver 12/18/21 09:25 ASTERI                                          
+ Clinda           %<=0.25   Ver 12/18/21 09:25 ASTERI  %S        Ver 12/18/21 09:25 ASTERI                                          
+ Quin-dal         %<=0.25   Ver 12/18/21 09:25 ASTERI  %S        Ver 12/18/21 09:25 ASTERI                                          
+ Linezolid        %2        Ver 12/18/21 09:25 ASTERI  %xxx      Ver 12/18/21 09:25 ASTERI                                          
+ Vanc             %<=0.5    Ver 12/18/21 09:25 ASTERI  S         Ver 12/18/21 09:25 ASTERI                                          
+ Tetra            %<=1      Ver 12/18/21 09:25 ASTERI  %S        Ver 12/18/21 09:25 ASTERI                                          
+ Tigec            %<=0.12   Ver 12/18/21 09:25 ASTERI  %S        Ver 12/18/21 09:25 ASTERI                                          
+ Nitro            %<=16     Ver 12/18/21 09:25 ASTERI  S         Ver 12/18/21 09:25 ASTERI                                          
+ Rif              %<=0.5    Ver 12/18/21 09:25 ASTERI  %S        Ver 12/18/21 09:25 ASTERI                                          
+ SXT              %<=10     Ver 12/18/21 09:25 ASTERI  S         Ver 12/18/21 09:25 ASTERI                                          
+ =========================================================================================================================          
+ Name: Desanctis, Paul                                             Provider:     Krain, Alysa MD                                    
+ MRN/Age/Sex:  442901286 PMC/82 years/Male                         Admit Date: 12/14/21 18:57                                       
+ Enc Type: (I) Inpatient                                           Discharge Date:                                                  
+ Location: PPMC/PPMC SCHEIE/SEI3/S320/B                                                                                             
+-------------------------------------------------------------------------------------------------------------------------           
+ Procedure:  C GUIDE                                Source: Aspirate                        Collect Date: 12/15/21 15:20            
+ Accession:  21-349-14440                           Body Site:                              Receive Date: 12/15/21 19:57            
+ Serv Res: HUP Micro Wound                          Ft Source: PELVIC ABSCESS - LEFT        Start Date:   12/15/21 19:58            
+ Order Location: PPMC/SEI3                          Antibiotics:                            Pathogens:                              
+-------------------------------------------------------------------------------------------------------------------------           
+ Date Time      Tech     # Task          Results                                                                                    
+ -------------------------------------------------------------------------------------------------------------------------          
+ 12/15/21 22:35 MAHOA      GS                                                                                                       
+                           Gram Stain Result:                                                                                       
+                           Few Gram Positive Cocci                                                                                  
+                           Moderate Polymorphonuclear Leukocytes                                                                    
+ 12/17/21 09:12 PALLIESA   Final                                                                                                    
+                           Many Methicillin-Resistant Staphylococcus aureus                                                         
+ 12/17/21 09:08 ANDREACK   MIC           Organism: MRSA      Panel: GP67        ID#: 21349144401                                    
+                  MIC Dilution                         MIC Interpretation                                                           
+ Amp-sul          %xxx      Ver 12/17/21 09:08 ANDREA  R         Ver 12/17/21 09:08 ANDREA                                          
+ Cefazolin        %xxx      Ver 12/17/21 09:08 ANDREA  R         Ver 12/17/21 09:08 ANDREA                                          
+ Cefoxitin-screen %Pos      Ver 12/17/21 09:08 ANDREA  %Pos      Ver 12/17/21 09:08 ANDREA                                          
+ Pen              %>=0.5    Ver 12/17/21 09:08 ANDREA  R         Ver 12/17/21 09:08 ANDREA                                          
+ Ox               %>=4      Ver 12/17/21 09:08 ANDREA  R         Ver 12/17/21 09:08 ANDREA                                          
+ Gent             %<=0.5    Ver 12/17/21 09:08 ANDREA  %S        Ver 12/17/21 09:08 ANDREA                                          
+ Cipro            %>=8      Ver 12/17/21 09:08 ANDREA  %R        Ver 12/17/21 09:08 ANDREA                                          
+ Levo             %4        Ver 12/17/21 09:08 ANDREA  %R        Ver 12/17/21 09:08 ANDREA                                          
+ Moxi             %1        Ver 12/17/21 09:08 ANDREA  %I        Ver 12/17/21 09:08 ANDREA                                          
+ Clinda-R         %Neg      Ver 12/17/21 09:08 ANDREA  %Neg      Ver 12/17/21 09:08 ANDREA                                          
+ Eryth            %>=8      Ver 12/17/21 09:08 ANDREA  R         Ver 12/17/21 09:08 ANDREA                                          
+ Clinda           %<=0.25   Ver 12/17/21 09:08 ANDREA  S         Ver 12/17/21 09:08 ANDREA                                          
+ Quin-dal         %<=0.25   Ver 12/17/21 09:08 ANDREA  %S        Ver 12/17/21 09:08 ANDREA                                          
+ Linezolid        %2        Ver 12/17/21 09:08 ANDREA  %xxx      Ver 12/17/21 09:08 ANDREA                                          
+ Vanc             %<=0.5    Ver 12/17/21 09:08 ANDREA  S         Ver 12/17/21 09:08 ANDREA                                          
+ Tetra            %<=1      Ver 12/17/21 09:08 ANDREA  S         Ver 12/17/21 09:08 ANDREA                                          
+ Tigec            %<=0.12   Ver 12/17/21 09:08 ANDREA  %S        Ver 12/17/21 09:08 ANDREA                                          
+ Nitro            %<=16     Ver 12/17/21 09:08 ANDREA  %S        Ver 12/17/21 09:08 ANDREA                                          
+
+                                                                                                                                   
+  Date: 12/21/21 11:19:26                     Microbiology Detailed Line Listing Report                     Id: GUNOSKEJ            
+  Sequence: HUP Micro Detailed Line Listing                                                                 Page:  11               
+ =========================================================================================================================          
+ Name: Desanctis, Paul                Accession:  21-349-14440             Procedure:C GUIDE                                        
+-------------------------------------------------------------------------------------------------------------------------           
+ Date Time      Tech     # Task          Results                                                                                    
+-------------------------------------------------------------------------------------------------------------------------           
+ 12/17/21 09:08 ANDREACK   MIC           MRSA                Panel: GP67        ID#: 21349144401                                    
+                  MIC Dilution                         MIC Interpretation                                                           
+ Rif              %<=0.5    Ver 12/17/21 09:08 ANDREA  %S        Ver 12/17/21 09:08 ANDREA                                          
+ SXT              %<=10     Ver 12/17/21 09:08 ANDREA  S         Ver 12/17/21 09:08 ANDREA                                          
+ 12/19/21 09:11 ASTERINJ   ETEST         Organism: MRSA      Panel: Dap         ID#:                                                
+                  E Test Dilution                      E Test Interpretation                                                        
+ Dap              0.38      Ver 12/19/21 09:11 ASTERI  S         Ver 12/19/21 09:11 ASTERI                                          
+ =========================================================================================================================          
+ Name: Gallucci, Frank J                                           Provider:     Scott, Michael James MD                            
+ MRN/Age/Sex:  332023704 PMC/80 years/Male                         Admit Date: 12/09/21 00:08                                       
+ Enc Type: (I) Inpatient                                           Discharge Date: 12/16/21 15:03                                   
+ Location: PPMC/PPMC CUPP/PC5B PAC North/5009/A                                                                                     
+-------------------------------------------------------------------------------------------------------------------------           
+ Procedure:  C BC                                   Source: BL P                            Collect Date: 12/12/21 00:06            
+ Accession:  21-346-00144                           Body Site:                              Receive Date: 12/12/21 05:03            
+ Serv Res: HUP Bactec 1                             Ft Source:                              Start Date:   12/12/21 05:03            
+ Order Location: PPMC/PC5B PAC North                Antibiotics:                            Pathogens:                              
+-------------------------------------------------------------------------------------------------------------------------           
+ Date Time      Tech     # Task          Results                                                                                    
+ -------------------------------------------------------------------------------------------------------------------------          
+ 12/13/21 02:22 PERUMPOA   GS Cult                                                                                                  
+                           Gram Positive Cocci in clusters From One Vial                                                            
+                           Telephone Notification Is Made For First-time Positive Cultures Only.  Multiple Blood                    
+                           Cultures With The Same Organism Will Not Be Phoned Unless Greater Than 4 Days Have Elapsed               
+                           Since The Initial Notification Was Made.                                                                 
+ 12/18/21 16:09 KEPNERK    Final                                                                                                    
+                           Methicillin-Resistant Staphylococcus aureus From One Vial                                                
+                           Staphylococcus aureus bacteremia is associated with significant morbidity and mortality.                 
+                           Infectious Diseases consultation is recommended.                                                         
+ 12/15/21 07:56 ASTERINJ   MIC           Organism: MRSA      Panel: GP67        ID#: 21346001441                                    
+                  MIC Dilution                         MIC Interpretation                                                           
+ Amp-sul          %xxx      Ver 12/15/21 07:56 ASTERI  R         Ver 12/15/21 07:56 ASTERI                                          
+ Cefazolin        %xxx      Ver 12/15/21 07:56 ASTERI  R         Ver 12/15/21 07:56 ASTERI                                          
+ Cefoxitin-screen %Pos      Ver 12/15/21 07:56 ASTERI  %Pos      Ver 12/15/21 07:56 ASTERI                                          
+ Pen              %>=0.5    Ver 12/15/21 07:56 ASTERI  R         Ver 12/15/21 07:56 ASTERI                                          
+ Ox               %>=4      Ver 12/15/21 07:56 ASTERI  R         Ver 12/15/21 07:56 ASTERI                                          
+ Gent             %<=0.5    Ver 12/15/21 07:56 ASTERI  %S        Ver 12/15/21 07:56 ASTERI                                          
+ Cipro            %<=0.5    Ver 12/15/21 07:56 ASTERI  %S        Ver 12/15/21 07:56 ASTERI                                          
+ Levo             %<=0.12   Ver 12/15/21 07:56 ASTERI  %S        Ver 12/15/21 07:56 ASTERI                                          
+ Moxi             %<=0.25   Ver 12/15/21 07:56 ASTERI  %S        Ver 12/15/21 07:56 ASTERI                                          
+ Clinda-R         %Neg      Ver 12/15/21 07:56 ASTERI  %Neg      Ver 12/15/21 07:56 ASTERI                                          
+ Eryth            %>=8      Ver 12/15/21 07:56 ASTERI  %R        Ver 12/15/21 07:56 ASTERI                                          
+ Clinda           %<=0.25   Ver 12/15/21 07:56 ASTERI  %S        Ver 12/15/21 07:56 ASTERI                                          
+ Quin-dal         %<=0.25   Ver 12/15/21 07:56 ASTERI  %S        Ver 12/15/21 07:56 ASTERI                                          
+ Linezolid        %2        Ver 12/15/21 07:56 ASTERI  %xxx      Ver 12/15/21 07:56 ASTERI                                          
+ Vanc             %<=0.5    Ver 12/15/21 07:56 ASTERI  S         Ver 12/15/21 07:56 ASTERI                                          
+ Tetra            %<=1      Ver 12/15/21 07:56 ASTERI  %S        Ver 12/15/21 07:56 ASTERI                                          
+ Tigec            %<=0.12   Ver 12/15/21 07:56 ASTERI  %S        Ver 12/15/21 07:56 ASTERI                                          
+ Nitro            %<=16     Ver 12/15/21 07:56 ASTERI  %S        Ver 12/15/21 07:56 ASTERI                                          
+ Rif              %<=0.5    Ver 12/15/21 07:56 ASTERI  %S        Ver 12/15/21 07:56 ASTERI                                          
+ SXT              %<=10     Ver 12/15/21 07:56 ASTERI  S         Ver 12/15/21 07:56 ASTERI                                          
+
+                                                                                                                                   
+  Date: 12/21/21 11:19:26                     Microbiology Detailed Line Listing Report                     Id: GUNOSKEJ            
+  Sequence: HUP Micro Detailed Line Listing                                                                 Page:  12               
+ =========================================================================================================================          
+ Name: Gallucci, Frank J              Accession:  21-346-00144             Procedure:C BC                                           
+-------------------------------------------------------------------------------------------------------------------------           
+ Date Time      Tech     # Task          Results                                                                                    
+-------------------------------------------------------------------------------------------------------------------------           
+ 12/16/21 08:13 ASTERINJ   ETEST         Organism: MRSA      Panel: Dap         ID#:                                                
+                  E Test Dilution                      E Test Interpretation                                                        
+ Dap              0.19      Ver 12/16/21 08:13 ASTERI  S         Ver 12/16/21 08:13 ASTERI                                          
+ =========================================================================================================================          
+ Name: Kukoda, Terri                                               Provider:     Rooney, David G                                    
+ MRN/Age/Sex:  444884340 HUP/61 years/Female                       Admit Date: 12/15/21 03:51                                       
+ Enc Type: _(O) Outpatient                                         Discharge Date:                                                  
+ Location: CCA SCFM Southe/CCA SCFM Southe/CCA SCFM Southe                                                                          
+-------------------------------------------------------------------------------------------------------------------------           
+ Procedure:  C ROUTINE                              Source: Abscess                         Collect Date: 12/15/21 03:51            
+ Accession:  21-349-01916                           Body Site:                              Receive Date: 12/15/21 04:39            
+ Serv Res: HUP Micro Wound                          Ft Source:                              Start Date:   12/15/21 04:39            
+ Order Location: CCA SCFM Southe/CCA SCFM Southe    Antibiotics:                            Pathogens:                              
+-------------------------------------------------------------------------------------------------------------------------           
+ Date Time      Tech     # Task          Results                                                                                    
+ -------------------------------------------------------------------------------------------------------------------------          
+ 12/15/21 07:40 PERUMPOA   Gram Stain                                                                                               
+                           No Bacteria Seen.                                                                                        
+                           Few White Blood Cells                                                                                    
+ 12/17/21 09:05 PALLIESA   Final                                                                                                    
+                           Few Methicillin-Resistant Staphylococcus aureus                                                          
+ 12/17/21 08:59 ANDREACK   MIC           Organism: MRSA      Panel: GP67        ID#: 21349019161                                    
+                  MIC Dilution                         MIC Interpretation                                                           
+ Amp-sul          %xxx      Ver 12/17/21 08:59 ANDREA  R         Ver 12/17/21 08:59 ANDREA                                          
+ Cefazolin        %xxx      Ver 12/17/21 08:59 ANDREA  R         Ver 12/17/21 08:59 ANDREA                                          
+ Cefoxitin-screen %Pos      Ver 12/17/21 08:59 ANDREA  %Pos      Ver 12/17/21 08:59 ANDREA                                          
+ Pen              %>=0.5    Ver 12/17/21 08:59 ANDREA  R         Ver 12/17/21 08:59 ANDREA                                          
+ Ox               %>=4      Ver 12/17/21 08:59 ANDREA  R         Ver 12/17/21 08:59 ANDREA                                          
+ Gent             %<=0.5    Ver 12/17/21 08:59 ANDREA  %S        Ver 12/17/21 08:59 ANDREA                                          
+ Cipro            %>=8      Ver 12/17/21 08:59 ANDREA  %R        Ver 12/17/21 08:59 ANDREA                                          
+ Levo             %4        Ver 12/17/21 08:59 ANDREA  %R        Ver 12/17/21 08:59 ANDREA                                          
+ Moxi             %2        Ver 12/17/21 08:59 ANDREA  %R        Ver 12/17/21 08:59 ANDREA                                          
+ Clinda-R         %Neg      Ver 12/17/21 08:59 ANDREA  %Neg      Ver 12/17/21 08:59 ANDREA                                          
+ Eryth            %>=8      Ver 12/17/21 08:59 ANDREA  R         Ver 12/17/21 08:59 ANDREA                                          
+ Clinda           %<=0.25   Ver 12/17/21 08:59 ANDREA  S         Ver 12/17/21 08:59 ANDREA                                          
+ Quin-dal         %<=0.25   Ver 12/17/21 08:59 ANDREA  %S        Ver 12/17/21 08:59 ANDREA                                          
+ Linezolid        %2        Ver 12/17/21 08:59 ANDREA  %xxx      Ver 12/17/21 08:59 ANDREA                                          
+ Vanc             %<=0.5    Ver 12/17/21 08:59 ANDREA  S         Ver 12/17/21 08:59 ANDREA                                          
+ Tetra            %<=1      Ver 12/17/21 08:59 ANDREA  S         Ver 12/17/21 08:59 ANDREA                                          
+ Tigec            %<=0.12   Ver 12/17/21 08:59 ANDREA  %S        Ver 12/17/21 08:59 ANDREA                                          
+ Nitro            %<=16     Ver 12/17/21 08:59 ANDREA  %S        Ver 12/17/21 08:59 ANDREA                                          
+ Rif              %<=0.5    Ver 12/17/21 08:59 ANDREA  %S        Ver 12/17/21 08:59 ANDREA                                          
+ SXT              %<=10     Ver 12/17/21 08:59 ANDREA  S         Ver 12/17/21 08:59 ANDREA                                          
+
+                                                                                                                                   
+  Date: 12/21/21 11:19:26                     Microbiology Detailed Line Listing Report                     Id: GUNOSKEJ            
+  Sequence: HUP Micro Detailed Line Listing                                                                 Page:  13               
+ =========================================================================================================================          
+ Name: Lanigan, Sean                                               Provider:     Galia, Megan D CRNP                                
+ MRN/Age/Sex:  450811401 HUP/39 years/Male                         Admit Date: 12/13/21 08:51                                       
+ Enc Type: _(O) Outpatient                                         Discharge Date:                                                  
+ Location: PennMedatRadnor/PennMedatRadnor/OTOR Otolaryngo                                                                          
+-------------------------------------------------------------------------------------------------------------------------           
+ Procedure:  C RESP                                 Source: Sinus                           Collect Date: 12/13/21 09:40            
+ Accession:  21-347-06177                           Body Site:                              Receive Date: 12/13/21 15:14            
+ Serv Res: HUP Micro Resp                           Ft Source: Left Septal Defect           Start Date:   12/13/21 15:14            
+ Order Location: PennMedatRadnor/OTOR Otolaryngo    Antibiotics:                            Pathogens:                              
+-------------------------------------------------------------------------------------------------------------------------           
+ Date Time      Tech     # Task          Results                                                                                    
+ -------------------------------------------------------------------------------------------------------------------------          
+ 12/13/21 18:18 MORTONP    GS                                                                                                       
+                           Gram Stain Result:                                                                                       
+                           Rare Gram Positive Cocci                                                                                 
+                           Rare White Blood Cells                                                                                   
+ 12/15/21 09:40 ROSENGRS   Final                                                                                                    
+                           Few Methicillin-Resistant Staphylococcus aureus                                                          
+ 12/15/21 08:01 ASTERINJ   MIC           Organism: MRSA      Panel: GP67        ID#: 21347061771                                    
+                  MIC Dilution                         MIC Interpretation                                                           
+ Amp-sul          %xxx      Ver 12/15/21 08:01 ASTERI  R         Ver 12/15/21 08:01 ASTERI                                          
+ Cefazolin        %xxx      Ver 12/15/21 08:01 ASTERI  R         Ver 12/15/21 08:01 ASTERI                                          
+ Cefoxitin-screen %Pos      Ver 12/15/21 08:01 ASTERI  %Pos      Ver 12/15/21 08:01 ASTERI                                          
+ Pen              %>=0.5    Ver 12/15/21 08:01 ASTERI  R         Ver 12/15/21 08:01 ASTERI                                          
+ Ox               %>=4      Ver 12/15/21 08:01 ASTERI  R         Ver 12/15/21 08:01 ASTERI                                          
+ Gent             %<=0.5    Ver 12/15/21 08:01 ASTERI  %S        Ver 12/15/21 08:01 ASTERI                                          
+ Cipro            %>=8      Ver 12/15/21 08:01 ASTERI  %R        Ver 12/15/21 08:01 ASTERI                                          
+ Levo             %>=8      Ver 12/15/21 08:01 ASTERI  %R        Ver 12/15/21 08:01 ASTERI                                          
+ Moxi             %>=8      Ver 12/15/21 08:01 ASTERI  %R        Ver 12/15/21 08:01 ASTERI                                          
+ Clinda-R         %Neg      Ver 12/15/21 08:01 ASTERI  %Neg      Ver 12/15/21 08:01 ASTERI                                          
+ Eryth            %>=8      Ver 12/15/21 08:01 ASTERI  R         Ver 12/15/21 08:01 ASTERI                                          
+ Clinda           %>=8      Ver 12/15/21 08:01 ASTERI  R         Ver 12/15/21 08:01 ASTERI                                          
+ Quin-dal         %<=0.25   Ver 12/15/21 08:01 ASTERI  %S        Ver 12/15/21 08:01 ASTERI                                          
+ Linezolid        %2        Ver 12/15/21 08:01 ASTERI  %xxx      Ver 12/15/21 08:01 ASTERI                                          
+ Vanc             %1        Ver 12/15/21 08:01 ASTERI  S         Ver 12/15/21 08:01 ASTERI                                          
+ Tetra            %<=1      Ver 12/15/21 08:01 ASTERI  S         Ver 12/15/21 08:01 ASTERI                                          
+ Tigec            %<=0.12   Ver 12/15/21 08:01 ASTERI  %S        Ver 12/15/21 08:01 ASTERI                                          
+ Nitro            %32       Ver 12/15/21 08:01 ASTERI  %S        Ver 12/15/21 08:01 ASTERI                                          
+ Rif              %<=0.5    Ver 12/15/21 08:01 ASTERI  %S        Ver 12/15/21 08:01 ASTERI                                          
+ SXT              %<=10     Ver 12/15/21 08:01 ASTERI  S         Ver 12/15/21 08:01 ASTERI                                          
+
+                                                                                                                                   
+  Date: 12/21/21 11:19:26                     Microbiology Detailed Line Listing Report                     Id: GUNOSKEJ            
+  Sequence: HUP Micro Detailed Line Listing                                                                 Page:  14               
+ =========================================================================================================================          
+ Name: Lapelusa, Marie                                             Provider:     Aizenberg, David MD                                
+ MRN/Age/Sex:  451679229 PMC/82 years/Female                       Admit Date: 12/03/21 06:21                                       
+ Enc Type: (I) Inpatient                                           Discharge Date:                                                  
+ Location: PPMC/PPMC SCHEIE/SEI3/S304/B                                                                                             
+-------------------------------------------------------------------------------------------------------------------------           
+ Procedure:  C BC                                   Source: BL P                            Collect Date: 12/14/21 17:02            
+ Accession:  21-348-15884                           Body Site:                              Receive Date: 12/14/21 23:11            
+ Serv Res: HUP Bactec 1                             Ft Source:                              Start Date:   12/14/21 23:11            
+ Order Location: PPMC/SEI3                          Antibiotics:                            Pathogens:                              
+-------------------------------------------------------------------------------------------------------------------------           
+ Date Time      Tech     # Task          Results                                                                                    
+ -------------------------------------------------------------------------------------------------------------------------          
+ 12/15/21 21:50 ENOSE      GS Cult                                                                                                  
+                           Gram Positive Cocci in clusters From One Vial                                                            
+                           Telephone Notification Is Made For First-time Positive Cultures Only.  Multiple Blood                    
+                           Cultures With The Same Organism Will Not Be Phoned Unless Greater Than 4 Days Have Elapsed               
+                           Since The Initial Notification Was Made.                                                                 
+ 12/20/21 16:17 GIBSOMI    Final                                                                                                    
+                           Methicillin-Resistant Staphylococcus aureus From One Vial                                                
+                           Staphylococcus aureus bacteremia is associated with significant morbidity and mortality.                 
+                           Infectious Diseases consultation is recommended.                                                         
+ 12/17/21 08:40 ANDREACK   MIC           Organism: MRSA      Panel: GP67        ID#: 21348158841                                    
+                  MIC Dilution                         MIC Interpretation                                                           
+ Amp-sul          %xxx      Ver 12/17/21 08:40 ANDREA  R         Ver 12/17/21 08:40 ANDREA                                          
+ Cefazolin        %xxx      Ver 12/17/21 08:40 ANDREA  R         Ver 12/17/21 08:40 ANDREA                                          
+ Cefoxitin-screen %Pos      Ver 12/17/21 08:40 ANDREA  %Pos      Ver 12/17/21 08:40 ANDREA                                          
+ Pen              %>=0.5    Ver 12/17/21 08:40 ANDREA  R         Ver 12/17/21 08:40 ANDREA                                          
+ Ox               %>=4      Ver 12/17/21 08:40 ANDREA  R         Ver 12/17/21 08:40 ANDREA                                          
+ Gent             %<=0.5    Ver 12/17/21 08:40 ANDREA  %S        Ver 12/17/21 08:40 ANDREA                                          
+ Cipro            %>=8      Ver 12/17/21 08:40 ANDREA  %R        Ver 12/17/21 08:40 ANDREA                                          
+ Levo             %>=8      Ver 12/17/21 08:40 ANDREA  %R        Ver 12/17/21 08:40 ANDREA                                          
+ Moxi             %>=8      Ver 12/17/21 08:40 ANDREA  %R        Ver 12/17/21 08:40 ANDREA                                          
+ Clinda-R         %Neg      Ver 12/17/21 08:40 ANDREA  %Neg      Ver 12/17/21 08:40 ANDREA                                          
+ Eryth            %>=8      Ver 12/17/21 08:40 ANDREA  %R        Ver 12/17/21 08:40 ANDREA                                          
+ Clinda           %>=8      Ver 12/17/21 08:40 ANDREA  %R        Ver 12/17/21 08:40 ANDREA                                          
+ Quin-dal         %0.5      Ver 12/17/21 08:40 ANDREA  %S        Ver 12/17/21 08:40 ANDREA                                          
+ Linezolid        %2        Ver 12/17/21 08:40 ANDREA  %xxx      Ver 12/17/21 08:40 ANDREA                                          
+ Vanc             %1        Ver 12/17/21 08:40 ANDREA  S         Ver 12/17/21 08:40 ANDREA                                          
+ Tetra            %<=1      Ver 12/17/21 08:40 ANDREA  %S        Ver 12/17/21 08:40 ANDREA                                          
+ Tigec            %<=0.12   Ver 12/17/21 08:40 ANDREA  %S        Ver 12/17/21 08:40 ANDREA                                          
+ Nitro            %<=16     Ver 12/17/21 08:40 ANDREA  %S        Ver 12/17/21 08:40 ANDREA                                          
+ Rif              %<=0.5    Ver 12/17/21 08:40 ANDREA  %S        Ver 12/17/21 08:40 ANDREA                                          
+ SXT              %<=10     Ver 12/17/21 08:40 ANDREA  S         Ver 12/17/21 08:40 ANDREA                                          
+
+                                                                                                                                   
+  Date: 12/21/21 11:19:26                     Microbiology Detailed Line Listing Report                     Id: GUNOSKEJ            
+  Sequence: HUP Micro Detailed Line Listing                                                                 Page:  15               
+ =========================================================================================================================          
+ Name: Lynch, Thomas                                               Provider:     Bohnenkamp, Martin MD                              
+ MRN/Age/Sex:  352648547 PMC/45 years/Male                         Admit Date: 12/17/21 02:22                                       
+ Enc Type: (I) Inpatient                                           Discharge Date:                                                  
+ Location: PPMC/PPMC CUPP/PMOCS PPMCMobCv/MCU08/A                                                                                   
+-------------------------------------------------------------------------------------------------------------------------           
+ Procedure:  C ROUTINE                              Source: Abscess                         Collect Date: 12/17/21 11:30            
+ Accession:  21-351-10285                           Body Site: Hip R                        Receive Date: 12/17/21 12:29            
+ Serv Res: HUP Micro Wound                          Ft Source:                              Start Date:   12/17/21 18:36            
+ Order Location: PPMC/ER4 non-Bedded                Antibiotics:                            Pathogens:                              
+-------------------------------------------------------------------------------------------------------------------------           
+ Date Time      Tech     # Task          Results                                                                                    
+ -------------------------------------------------------------------------------------------------------------------------          
+ 12/17/21 20:10 DAGADZIK   GS                                                                                                       
+                           Gram Stain Result:                                                                                       
+                           Rare Gram Positive Cocci                                                                                 
+                           Few White Blood Cells                                                                                    
+ 12/20/21 09:41 DOYLEE     Final                                                                                                    
+                           Moderate Methicillin-Resistant Staphylococcus aureus                                                     
+ 12/20/21 11:19 FERNANR    KB-Check      Organism: MRSA      Panel: GP67-check  ID#:                                                
+                  Kirby-Bauer Zone Size                Check Kirby-Bauer Interpretation                                             
+ Cefoxitin                  Ver 12/20/21 11:19 FERNAN  %xxx      Ver 12/20/21 11:19 FERNAN                                          
+ SXT              %26mm     Ver 12/20/21 11:19 FERNAN  %S        Ver 12/20/21 11:19 FERNAN                                          
+ 12/20/21 11:20 FERNANR    MIC           Organism: MRSA      Panel: GP67        ID#: 21351102851                                    
+                  MIC Dilution                         MIC Interpretation                                                           
+ Amp-sul          %xxx      Ver 12/19/21 08:28 ASTERI  R         Ver 12/19/21 08:28 ASTERI                                          
+ Cefazolin        %xxx      Ver 12/19/21 08:28 ASTERI  R         Ver 12/19/21 08:28 ASTERI                                          
+ Cefoxitin-screen %Pos      Ver 12/19/21 08:28 ASTERI  %Pos      Ver 12/19/21 08:28 ASTERI                                          
+ Pen              %>=0.5    Ver 12/19/21 08:28 ASTERI  R         Ver 12/19/21 08:28 ASTERI                                          
+ Ox               %>=4      Ver 12/19/21 08:28 ASTERI  R         Ver 12/19/21 08:28 ASTERI                                          
+ Gent             %<=0.5    Ver 12/19/21 08:28 ASTERI  %S        Ver 12/19/21 08:28 ASTERI                                          
+ Cipro            %>=8      Ver 12/19/21 08:28 ASTERI  %R        Ver 12/19/21 08:28 ASTERI                                          
+ Levo             %4        Ver 12/19/21 08:28 ASTERI  %R        Ver 12/19/21 08:28 ASTERI                                          
+ Moxi             %1        Ver 12/19/21 08:28 ASTERI  %I        Ver 12/19/21 08:28 ASTERI                                          
+ Clinda-R         %Neg      Ver 12/19/21 08:28 ASTERI  %Neg      Ver 12/19/21 08:28 ASTERI                                          
+ Eryth            %>=8      Ver 12/19/21 08:28 ASTERI  R         Ver 12/19/21 08:28 ASTERI                                          
+ Clinda           %>=8      Ver 12/19/21 08:28 ASTERI  R         Ver 12/19/21 08:28 ASTERI                                          
+ Quin-dal         %<=0.25   Ver 12/19/21 08:28 ASTERI  %S        Ver 12/19/21 08:28 ASTERI                                          
+ Linezolid        %2        Ver 12/19/21 08:28 ASTERI  %xxx      Ver 12/19/21 08:28 ASTERI                                          
+ Vanc             %<=0.5    Ver 12/19/21 08:28 ASTERI  S         Ver 12/19/21 08:28 ASTERI                                          
+ Tetra            %<=1      Ver 12/19/21 08:28 ASTERI  S         Ver 12/19/21 08:28 ASTERI                                          
+ Tigec            %<=0.12   Ver 12/19/21 08:28 ASTERI  %S        Ver 12/19/21 08:28 ASTERI                                          
+ Nitro            %<=16     Ver 12/19/21 08:28 ASTERI  %S        Ver 12/19/21 08:28 ASTERI                                          
+ Rif              %<=0.5    Ver 12/19/21 08:28 ASTERI  %S        Ver 12/19/21 08:28 ASTERI                                          
+ SXT              %80       Ver 12/19/21 08:28 ASTERI  S         Ver 12/20/21 11:20 FERNAN                                          
+
+                                                                                                                                   
+  Date: 12/21/21 11:19:26                     Microbiology Detailed Line Listing Report                     Id: GUNOSKEJ            
+  Sequence: HUP Micro Detailed Line Listing                                                                 Page:  16               
+ =========================================================================================================================          
+ Name: Mendez, Faith                                               Provider:     Werth, Victoria MD                                 
+ MRN/Age/Sex:  059989988 HUP/60 years/Female                       Admit Date: 12/17/21 19:00                                       
+ Enc Type: _(O) Outpatient                                         Discharge Date:                                                  
+ Location: HUP/HUP/DERP Dermatolog                                                                                                  
+-------------------------------------------------------------------------------------------------------------------------           
+ Procedure:  C ROUTINE                              Source: Skin                            Collect Date: 12/17/21 19:00            
+ Accession:  21-351-16542                           Body Site:                              Receive Date: 12/17/21 23:44            
+ Serv Res: HUP Micro Wound                          Ft Source:                              Start Date:   12/17/21 23:45            
+ Order Location: HUP/DERP Dermatolog                Antibiotics:                            Pathogens:                              
+-------------------------------------------------------------------------------------------------------------------------           
+ Date Time      Tech     # Task          Results                                                                                    
+ -------------------------------------------------------------------------------------------------------------------------          
+ 12/18/21 00:38 ENOSE      GS                                                                                                       
+                           Gram Stain Result:                                                                                       
+                           Many Gram Positive Cocci                                                                                 
+                           No White Blood Cells                                                                                     
+ 12/20/21 09:50 DOYLEE     Final                                                                                                    
+                           Many Methicillin-Resistant Staphylococcus aureus                                                         
+ 12/20/21 09:07 FERNANR    MIC           Organism: MRSA      Panel: GP67        ID#: 21351165421                                    
+                  MIC Dilution                         MIC Interpretation                                                           
+ Amp-sul          %xxx      Ver 12/20/21 09:07 FERNAN  R         Ver 12/20/21 09:07 FERNAN                                          
+ Cefazolin        %xxx      Ver 12/20/21 09:07 FERNAN  R         Ver 12/20/21 09:07 FERNAN                                          
+ Cefoxitin-screen %Pos      Ver 12/20/21 09:07 FERNAN  %Pos      Ver 12/20/21 09:07 FERNAN                                          
+ Pen              %>=0.5    Ver 12/20/21 09:07 FERNAN  R         Ver 12/20/21 09:07 FERNAN                                          
+ Ox               %>=4      Ver 12/20/21 09:07 FERNAN  R         Ver 12/20/21 09:07 FERNAN                                          
+ Gent             %<=0.5    Ver 12/20/21 09:07 FERNAN  %S        Ver 12/20/21 09:07 FERNAN                                          
+ Cipro            %>=8      Ver 12/20/21 09:07 FERNAN  %R        Ver 12/20/21 09:07 FERNAN                                          
+ Levo             %4        Ver 12/20/21 09:07 FERNAN  %R        Ver 12/20/21 09:07 FERNAN                                          
+ Moxi             %2        Ver 12/20/21 09:07 FERNAN  %R        Ver 12/20/21 09:07 FERNAN                                          
+ Clinda-R         %Neg      Ver 12/20/21 09:07 FERNAN  %Neg      Ver 12/20/21 09:07 FERNAN                                          
+ Eryth            %>=8      Ver 12/20/21 09:07 FERNAN  R         Ver 12/20/21 09:07 FERNAN                                          
+ Clinda           %<=0.25   Ver 12/20/21 09:07 FERNAN  S         Ver 12/20/21 09:07 FERNAN                                          
+ Quin-dal         %<=0.25   Ver 12/20/21 09:07 FERNAN  %S        Ver 12/20/21 09:07 FERNAN                                          
+ Linezolid        %2        Ver 12/20/21 09:07 FERNAN  %xxx      Ver 12/20/21 09:07 FERNAN                                          
+ Vanc             %<=0.5    Ver 12/20/21 09:07 FERNAN  S         Ver 12/20/21 09:07 FERNAN                                          
+ Tetra            %<=1      Ver 12/20/21 09:07 FERNAN  S         Ver 12/20/21 09:07 FERNAN                                          
+ Tigec            %<=0.12   Ver 12/20/21 09:07 FERNAN  %S        Ver 12/20/21 09:07 FERNAN                                          
+ Nitro            %<=16     Ver 12/20/21 09:07 FERNAN  %S        Ver 12/20/21 09:07 FERNAN                                          
+ Rif              %<=0.5    Ver 12/20/21 09:07 FERNAN  %S        Ver 12/20/21 09:07 FERNAN                                          
+ SXT              %<=10     Ver 12/20/21 09:07 FERNAN  S         Ver 12/20/21 09:07 FERNAN                                          
+
+                                                                                                                                   
+  Date: 12/21/21 11:19:26                     Microbiology Detailed Line Listing Report                     Id: GUNOSKEJ            
+  Sequence: HUP Micro Detailed Line Listing                                                                 Page:  17               
+ =========================================================================================================================          
+ Name: Mueller, Christopher J                                      Provider:     Roth, Rudolf MD                                    
+ MRN/Age/Sex:  050582659 HUP/52 years/Male                         Admit Date: 12/15/21 15:56                                       
+ Enc Type: _(O) Outpatient                                         Discharge Date:                                                  
+ Location: PennMedatRadnor/PennMedatRadnor/DRMR Dermatolog                                                                          
+-------------------------------------------------------------------------------------------------------------------------           
+ Procedure:  C RESP                                 Source: Nares                           Collect Date: 12/15/21 15:56            
+ Accession:  21-349-14468                           Body Site:                              Receive Date: 12/15/21 22:38            
+ Serv Res: HUP Micro Resp                           Ft Source:                              Start Date:   12/15/21 22:39            
+ Order Location: PennMedatRadnor/DRMR Dermatolog    Antibiotics:                            Pathogens:                              
+-------------------------------------------------------------------------------------------------------------------------           
+ Date Time      Tech     # Task          Results                                                                                    
+ -------------------------------------------------------------------------------------------------------------------------          
+ 12/16/21 00:27 ENOSE      GS                                                                                                       
+                           Gram Stain Result:                                                                                       
+                           Rare Gram Positive Cocci                                                                                 
+                           Rare Gram Positive Rods                                                                                  
+                           No White Blood Cells                                                                                     
+ 12/18/21 09:34 ASTERINJ   Amend                                                                                                    
+                           Moderate Methicillin-Resistant Staphylococcus aureus                                                     
+                           Few Mixed Upper Respiratory Flora                                                                        
+ 12/18/21 09:34 ASTERINJ   MIC           Organism: MRSA      Panel: GP67        ID#: 21349144681                                    
+                  MIC Dilution                         MIC Interpretation                                                           
+ Amp-sul          %xxx      Ver 12/18/21 09:34 ASTERI  R         Ver 12/18/21 09:34 ASTERI                                          
+ Cefazolin        %xxx      Ver 12/18/21 09:34 ASTERI  R         Ver 12/18/21 09:34 ASTERI                                          
+ Cefoxitin-screen %Pos      Ver 12/18/21 09:34 ASTERI  %Pos      Ver 12/18/21 09:34 ASTERI                                          
+ Pen              %>=0.5    Ver 12/18/21 09:34 ASTERI  R         Ver 12/18/21 09:34 ASTERI                                          
+ Ox               %>=4      Ver 12/18/21 09:34 ASTERI  R         Ver 12/18/21 09:34 ASTERI                                          
+ Gent             %<=0.5    Ver 12/18/21 09:34 ASTERI  %S        Ver 12/18/21 09:34 ASTERI                                          
+ Cipro            %>=8      Ver 12/18/21 09:34 ASTERI  %R        Ver 12/18/21 09:34 ASTERI                                          
+ Levo             %4        Ver 12/18/21 09:34 ASTERI  %R        Ver 12/18/21 09:34 ASTERI                                          
+ Moxi             %2        Ver 12/18/21 09:34 ASTERI  %R        Ver 12/18/21 09:34 ASTERI                                          
+ Clinda-R         %Neg      Ver 12/18/21 09:34 ASTERI  %Neg      Ver 12/18/21 09:34 ASTERI                                          
+ Eryth            %>=8      Ver 12/18/21 09:34 ASTERI  R         Ver 12/18/21 09:34 ASTERI                                          
+ Clinda           %<=0.25   Ver 12/18/21 09:34 ASTERI  S         Ver 12/18/21 09:34 ASTERI                                          
+ Quin-dal         %<=0.25   Ver 12/18/21 09:34 ASTERI  %S        Ver 12/18/21 09:34 ASTERI                                          
+ Linezolid        %2        Ver 12/18/21 09:34 ASTERI  %xxx      Ver 12/18/21 09:34 ASTERI                                          
+ Vanc             %<=0.5    Ver 12/18/21 09:34 ASTERI  S         Ver 12/18/21 09:34 ASTERI                                          
+ Tetra            %<=1      Ver 12/18/21 09:34 ASTERI  S         Ver 12/18/21 09:34 ASTERI                                          
+ Tigec            %<=0.12   Ver 12/18/21 09:34 ASTERI  %S        Ver 12/18/21 09:34 ASTERI                                          
+ Nitro            %<=16     Ver 12/18/21 09:34 ASTERI  %S        Ver 12/18/21 09:34 ASTERI                                          
+ Rif              %<=0.5    Ver 12/18/21 09:34 ASTERI  %S        Ver 12/18/21 09:34 ASTERI                                          
+ SXT              %<=10     Ver 12/18/21 09:34 ASTERI  S         Ver 12/18/21 09:34 ASTERI                                          
+
+                                                                                                                                   
+  Date: 12/21/21 11:19:26                     Microbiology Detailed Line Listing Report                     Id: GUNOSKEJ            
+  Sequence: HUP Micro Detailed Line Listing                                                                 Page:  18               
+Name: Orlando, Kerri A                                            Provider:     Palmer, James N MD                                 
+ MRN/Age/Sex:  471163519 HUP/36 years/Female                       Admit Date: 12/15/21 00:00                                       
+ Enc Type: _(O) Outpatient                                         Discharge Date:                                                  
+ Location: HUP/HUP/ORLS Otorhinola                                                                                                  
+-------------------------------------------------------------------------------------------------------------------------           
+ Procedure:  C RESP                                 Source: Sinus                           Collect Date: 12/14/21 14:30            
+ Accession:  21-348-19051                           Body Site:                              Receive Date: 12/15/21 09:13            
+ Serv Res: HUP Micro Resp                           Ft Source:                              Start Date:   12/15/21 09:15            
+ Order Location: HUP/ORLS Otorhinola                Antibiotics:                            Pathogens:                              
+-------------------------------------------------------------------------------------------------------------------------           
+ Date Time      Tech     # Task          Results                                                                                    
+ -------------------------------------------------------------------------------------------------------------------------          
+
+                                                                                                                                   
+  Date: 12/21/21 11:19:26                     Microbiology Detailed Line Listing Report                     Id: GUNOSKEJ            
+  Sequence: HUP Micro Detailed Line Listing                                                                 Page:  19               
+ =========================================================================================================================          
+ Name: Orlando, Kerri A               Accession:  21-348-19051             Procedure:C RESP                                         
+-------------------------------------------------------------------------------------------------------------------------           
+ Date Time      Tech     # Task          Results                                                                                    
+-------------------------------------------------------------------------------------------------------------------------           
+ 12/15/21 13:06 DULLW      GS                                                                                                       
+                           Gram Stain Result:                                                                                       
+                           Many Gram Positive Cocci                                                                                 
+                           Rare White Blood Cells                                                                                   
+ 12/17/21 11:08 WORRALLA   Final                                                                                                    
+                           Moderate Methicillin-Resistant Staphylococcus aureus                                                     
+ 12/18/21 08:05 ASTERINJ   KB-Check      Organism: MRSA      Panel: Dtest       ID#:                                                
+                  Kirby-Bauer Zone Size                Check Kirby-Bauer Interpretation                                             
+ Dtest            %40mm     Ver 12/18/21 08:05 ASTERI  %POS+     Ver 12/18/21 08:05 ASTERI                                          
+                                                             Panel: GP67-check  ID#:                                                
+                  Kirby-Bauer Zone Size                Check Kirby-Bauer Interpretation                                             
+ Clinda           %23mm     Ver 12/18/21 08:05 ASTERI  %S        Ver 12/18/21 08:05 ASTERI                                          
+ Eryth            %9mm      Ver 12/18/21 08:05 ASTERI  %R        Ver 12/18/21 08:05 ASTERI                                          
+ Cefoxitin                  Ver 12/18/21 08:05 ASTERI  %xxx      Ver 12/18/21 08:05 ASTERI                                          
+ 12/18/21 08:05 ASTERINJ   MIC           Organism: MRSA      Panel: GP67        ID#: 21348190511                                    
+                  MIC Dilution                         MIC Interpretation                                                           
+ Amp-sul          %xxx      Ver 12/17/21 07:15 ANDREA  R         Ver 12/17/21 07:15 ANDREA                                          
+ Cefazolin        %xxx      Ver 12/17/21 07:15 ANDREA  R         Ver 12/17/21 07:15 ANDREA                                          
+ Cefoxitin-screen %Pos      Ver 12/17/21 07:15 ANDREA  %Pos      Ver 12/17/21 07:15 ANDREA                                          
+ Pen              %>=0.5    Ver 12/17/21 07:15 ANDREA  R         Ver 12/17/21 07:15 ANDREA                                          
+ Ox               %>=4      Ver 12/17/21 07:15 ANDREA  R         Ver 12/17/21 07:15 ANDREA                                          
+ Gent             %<=0.5    Ver 12/17/21 07:15 ANDREA  %S        Ver 12/17/21 07:15 ANDREA                                          
+ Cipro            %>=8      Ver 12/17/21 07:15 ANDREA  %R        Ver 12/17/21 07:15 ANDREA                                          
+ Levo             %>=8      Ver 12/17/21 07:15 ANDREA  %R        Ver 12/17/21 07:15 ANDREA                                          
+ Moxi             %>=8      Ver 12/17/21 07:15 ANDREA  %R        Ver 12/17/21 07:15 ANDREA                                          
+ Clinda-R         %Pos      Ver 12/17/21 07:15 ANDREA  %Pos      Ver 12/17/21 07:15 ANDREA                                          
+ Eryth            %2        Ver 12/17/21 07:15 ANDREA  R         Ver 12/18/21 08:05 ASTERI                                          
+ Clinda           %<=0.25   Ver 12/17/21 07:15 ANDREA  R         Ver 12/18/21 08:05 ASTERI                                          
+ Quin-dal         %<=0.25   Ver 12/17/21 07:15 ANDREA  %S        Ver 12/17/21 07:15 ANDREA                                          
+ Linezolid        %2        Ver 12/17/21 07:15 ANDREA  %xxx      Ver 12/17/21 07:15 ANDREA                                          
+ Vanc             %1        Ver 12/17/21 07:15 ANDREA  S         Ver 12/17/21 07:15 ANDREA                                          
+ Tetra            %2        Ver 12/17/21 07:15 ANDREA  S         Ver 12/17/21 07:15 ANDREA                                          
+ Tigec            %<=0.12   Ver 12/17/21 07:15 ANDREA  %S        Ver 12/17/21 07:15 ANDREA                                          
+ Nitro            %<=16     Ver 12/17/21 07:15 ANDREA  %S        Ver 12/17/21 07:15 ANDREA                                          
+ Rif              %<=0.5    Ver 12/17/21 07:15 ANDREA  %S        Ver 12/17/21 07:15 ANDREA                                          
+ SXT              %<=10     Ver 12/17/21 07:15 ANDREA  S         Ver 12/17/21 07:15 ANDREA                                          
+
+                                                                                                                                   
+  Date: 12/21/21 11:19:26                     Microbiology Detailed Line Listing Report                     Id: GUNOSKEJ            
+  Sequence: HUP Micro Detailed Line Listing                                                                 Page:  20               
+ =========================================================================================================================          
+ Name: Ryan, Joseph D                                              Provider:     Kamilaris, Andrew MD                               
+ MRN/Age/Sex:  466339983 HUP/68 years/Male                         Admit Date: 12/14/21 03:41                                       
+ Enc Type: (E) Emergency                                           Discharge Date: 12/14/21 06:59                                   
+ Location: HUP/HUP/ER/210/210                                                                                                       
+-------------------------------------------------------------------------------------------------------------------------           
+ Procedure:  C RESP                                 Source: Sputum                          Collect Date: 12/14/21 03:49            
+ Accession:  21-348-01858                           Body Site:                              Receive Date: 12/14/21 05:34            
+ Serv Res: HUP Micro Resp                           Ft Source:                              Start Date:   12/14/21 05:34            
+ Order Location: HUP/ER                             Antibiotics:                            Pathogens:                              
+-------------------------------------------------------------------------------------------------------------------------           
+ Date Time      Tech     # Task          Results                                                                                    
+ -------------------------------------------------------------------------------------------------------------------------          
+ 12/14/21 15:36 FERNANR    GS                                                                                                       
+                           Gram Stain Result:                                                                                       
+                           Many Gram Negative Rods                                                                                  
+                           Many Gram Positive Cocci                                                                                 
+                           Rare Gram Positive Rods                                                                                  
+                           Rare White Blood Cells                                                                                   
+ 12/17/21 08:28 ANDREACK   Amend                                                                                                    
+                           Moderate Methicillin-Resistant Staphylococcus aureus                                                     
+                           Moderate Gram-Negative Rods, 1st Morphological Type , No Further Identification Because                  
+                           Clinical Significance Of This Finding Is Unclear                                                         
+                           Moderate Gram-Negative Rods, 2nd Morphological Type , No Further Identification Because                  
+                           Clinical Significance Of This Finding Is Unclear                                                         
+                           Moderate Gram-Negative Rods, 3rd Morphological Type , No Further Identification Because                  
+                           Clinical Significance Of This Finding Is Unclear                                                         
+                           Moderate Mouth Flora [Includes >= 1 Of: Oral Strep, Coag Neg Staph, Diphtheroids,                        
+                           Non-pathogenic Neisseria], No Further Identification                                                     
+ 12/17/21 08:28 ANDREACK   MIC           Organism: MRSA      Panel: GP67        ID#: 21348018583                                    
+                  MIC Dilution                         MIC Interpretation                                                           
+ Amp-sul          %xxx      Ver 12/17/21 08:28 ANDREA  R         Ver 12/17/21 08:28 ANDREA                                          
+ Cefazolin        %xxx      Ver 12/17/21 08:28 ANDREA  R         Ver 12/17/21 08:28 ANDREA                                          
+ Cefoxitin-screen %Pos      Ver 12/17/21 08:28 ANDREA  %Pos      Ver 12/17/21 08:28 ANDREA                                          
+ Pen              %>=0.5    Ver 12/17/21 08:28 ANDREA  R         Ver 12/17/21 08:28 ANDREA                                          
+ Ox               %>=4      Ver 12/17/21 08:28 ANDREA  R         Ver 12/17/21 08:28 ANDREA                                          
+ Gent             %<=0.5    Ver 12/17/21 08:28 ANDREA  %S        Ver 12/17/21 08:28 ANDREA                                          
+ Cipro            %>=8      Ver 12/17/21 08:28 ANDREA  %R        Ver 12/17/21 08:28 ANDREA                                          
+ Levo             %>=8      Ver 12/17/21 08:28 ANDREA  %R        Ver 12/17/21 08:28 ANDREA                                          
+ Moxi             %>=8      Ver 12/17/21 08:28 ANDREA  %R        Ver 12/17/21 08:28 ANDREA                                          
+ Clinda-R         %Pos      Ver 12/17/21 08:28 ANDREA  %Pos      Ver 12/17/21 08:28 ANDREA                                          
+ Eryth            %>=8      Ver 12/17/21 08:28 ANDREA  R         Ver 12/17/21 08:28 ANDREA                                          
+ Clinda           %<=0.25   Ver 12/17/21 08:28 ANDREA  R         Ver 12/17/21 08:28 ANDREA                                          
+ Quin-dal         %<=0.25   Ver 12/17/21 08:28 ANDREA  %S        Ver 12/17/21 08:28 ANDREA                                          
+ Linezolid        %2        Ver 12/17/21 08:28 ANDREA  %xxx      Ver 12/17/21 08:28 ANDREA                                          
+ Vanc             %<=0.5    Ver 12/17/21 08:28 ANDREA  S         Ver 12/17/21 08:28 ANDREA                                          
+ Tetra            %<=1      Ver 12/17/21 08:28 ANDREA  S         Ver 12/17/21 08:28 ANDREA                                          
+ Tigec            %<=0.12   Ver 12/17/21 08:28 ANDREA  %S        Ver 12/17/21 08:28 ANDREA                                          
+ Nitro            %<=16     Ver 12/17/21 08:28 ANDREA  %S        Ver 12/17/21 08:28 ANDREA                                          
+ Rif              %<=0.5    Ver 12/17/21 08:28 ANDREA  %S        Ver 12/17/21 08:28 ANDREA                                          
+ SXT              %<=10     Ver 12/17/21 08:28 ANDREA  S         Ver 12/17/21 08:28 ANDREA                                          
+
+                                                                                                                                   
+  Date: 12/21/21 11:19:26                     Microbiology Detailed Line Listing Report                     Id: GUNOSKEJ            
+  Sequence: HUP Micro Detailed Line Listing                                                                 Page:  21               
+=========================================================================================================================          
+ Name: Smith, Willie C                                             Provider:     Deitz, Joel L MD                                   
+ MRN/Age/Sex:  360157366 PMC/69 years/Male                         Admit Date: 11/06/21 09:46                                       
+ Enc Type: (I) Inpatient                                           Discharge Date:                                                  
+ Location: PPMC/PPMC CUPP/HVCA PMC HVICUA/3001/A                                                                                    
+-------------------------------------------------------------------------------------------------------------------------           
+ Procedure:  C RESP                                 Source: Sputum                          Collect Date: 12/15/21 14:35            
+ Accession:  21-349-13013                           Body Site:                              Receive Date: 12/15/21 21:32            
+ Serv Res: HUP Micro Resp                           Ft Source:                              Start Date:   12/15/21 21:33            
+ Order Location: PPMC/PC5B PAC North                Antibiotics:                            Pathogens:                              
+-------------------------------------------------------------------------------------------------------------------------           
+ Date Time      Tech     # Task          Results                                                                                    
+ -------------------------------------------------------------------------------------------------------------------------          
+ 12/16/21 00:51 MAHOA      GS                                                                                                       
+                           Gram Stain Result:                                                                                       
+                           Moderate Gram Positive Cocci                                                                             
+                           Moderate Polymorphonuclear Leukocytes                                                                    
+ 12/18/21 09:33 ASTERINJ   Amend                                                                                                    
+                           Many Methicillin-Resistant Staphylococcus aureus                                                         
+ 12/18/21 09:33 ASTERINJ   MIC           Organism: MRSA      Panel: GP67        ID#: 21349130131                                    
+                  MIC Dilution                         MIC Interpretation                                                           
+ Amp-sul          %xxx      Ver 12/18/21 09:33 ASTERI  R         Ver 12/18/21 09:33 ASTERI                                          
+ Cefazolin        %xxx      Ver 12/18/21 09:33 ASTERI  R         Ver 12/18/21 09:33 ASTERI                                          
+ Cefoxitin-screen %Pos      Ver 12/18/21 09:33 ASTERI  %Pos      Ver 12/18/21 09:33 ASTERI                                          
+ Pen              %>=0.5    Ver 12/18/21 09:33 ASTERI  R         Ver 12/18/21 09:33 ASTERI                                          
+ Ox               %>=4      Ver 12/18/21 09:33 ASTERI  R         Ver 12/18/21 09:33 ASTERI                                          
+ Gent             %<=0.5    Ver 12/18/21 09:33 ASTERI  %S        Ver 12/18/21 09:33 ASTERI                                          
+ Cipro            %>=8      Ver 12/18/21 09:33 ASTERI  %R        Ver 12/18/21 09:33 ASTERI                                          
+ Levo             %>=8      Ver 12/18/21 09:33 ASTERI  %R        Ver 12/18/21 09:33 ASTERI                                          
+ Moxi             %>=8      Ver 12/18/21 09:33 ASTERI  %R        Ver 12/18/21 09:33 ASTERI                                          
+ Clinda-R         %Neg      Ver 12/18/21 09:33 ASTERI  %Neg      Ver 12/18/21 09:33 ASTERI                                          
+ Eryth            %>=8      Ver 12/18/21 09:33 ASTERI  R         Ver 12/18/21 09:33 ASTERI                                          
+ Clinda           %>=8      Ver 12/18/21 09:33 ASTERI  R         Ver 12/18/21 09:33 ASTERI                                          
+ Quin-dal         %<=0.25   Ver 12/18/21 09:33 ASTERI  %S        Ver 12/18/21 09:33 ASTERI                                          
+ Linezolid        %4        Ver 12/18/21 09:33 ASTERI  %xxx      Ver 12/18/21 09:33 ASTERI                                          
+ Vanc             %1        Ver 12/18/21 09:33 ASTERI  S         Ver 12/18/21 09:33 ASTERI                                          
+ Tetra            %8        Ver 12/18/21 09:33 ASTERI  I         Ver 12/18/21 09:33 ASTERI                                          
+ Tigec            %0.5      Ver 12/18/21 09:33 ASTERI  %S        Ver 12/18/21 09:33 ASTERI                                          
+ Nitro            %<=16     Ver 12/18/21 09:33 ASTERI  %S        Ver 12/18/21 09:33 ASTERI                                          
+
+                                                                                                                                   
+  Date: 12/21/21 11:19:26                     Microbiology Detailed Line Listing Report                     Id: GUNOSKEJ            
+  Sequence: HUP Micro Detailed Line Listing                                                                 Page:  23               
+ =========================================================================================================================          
+ Name: Smith, Willie C                Accession:  21-349-13013             Procedure:C RESP                                         
+-------------------------------------------------------------------------------------------------------------------------           
+ Date Time      Tech     # Task          Results                                                                                    
+-------------------------------------------------------------------------------------------------------------------------           
+ 12/18/21 09:33 ASTERINJ   MIC           MRSA                Panel: GP67        ID#: 21349130131                                    
+                  MIC Dilution                         MIC Interpretation                                                           
+ Rif              %<=0.5    Ver 12/18/21 09:33 ASTERI  %S        Ver 12/18/21 09:33 ASTERI                                          
+ SXT              %<=10     Ver 12/18/21 09:33 ASTERI  S         Ver 12/18/21 09:33 ASTERI                                          
+ =========================================================================================================================          
+ Name: Somerville, Lisa D                                          Provider:     Peacock, Andrew B DPM                              
+ MRN/Age/Sex:  346167042 PMC/54 years/Female                       Admit Date: 12/05/21 17:26                                       
+ Enc Type: (I) Inpatient                                           Discharge Date: 12/20/21 13:47                                   
+ Location: PPMC/PPMC CUPP/CP5E/C540/A                                                                                               
+-------------------------------------------------------------------------------------------------------------------------           
+ Procedure:  C ANA                                  Source: Wound                           Collect Date: 12/09/21 13:33            
+ Accession:  21-343-15496                           Body Site: Ankle L                      Receive Date: 12/09/21 18:03            
+ Serv Res: HUP Micro Anaer                          Ft Source: #1-LEFT ANKLE WOUND          Start Date:   12/09/21 18:03            
+ Order Location: PPMC/CP5E                          Antibiotics:                            Pathogens:                              
+-------------------------------------------------------------------------------------------------------------------------           
+ Date Time      Tech     # Task          Results                                                                                    
+ -------------------------------------------------------------------------------------------------------------------------          
+ 12/15/21 07:47 ASTERINJ   Amend                                                                                                    
+                           Rare Methicillin-Resistant Staphylococcus aureus                                                         
+                           Rare Finegoldia magna                                                                                    
+                           Antimicrobial Susceptibility of Some Anaerobic Bacteria Is Not Predictable, Depending On The             
+                           Drug Used. Please Call The Laboratory To Inquire About The Utility Of Susceptibility                     
+                           Testing, If Clinically Indicated.                                                                        
+ 12/15/21 07:47 ASTERINJ   MIC           Organism: MRSA      Panel: GP67        ID#: 21343154964                                    
+                  MIC Dilution                         MIC Interpretation                                                           
+ Amp-sul          %xxx      Ver 12/15/21 07:47 ASTERI  R         Ver 12/15/21 07:47 ASTERI                                          
+ Cefazolin        %xxx      Ver 12/15/21 07:47 ASTERI  R         Ver 12/15/21 07:47 ASTERI                                          
+ Cefoxitin-screen %Pos      Ver 12/15/21 07:47 ASTERI  %Pos      Ver 12/15/21 07:47 ASTERI                                          
+ Pen              %>=0.5    Ver 12/15/21 07:47 ASTERI  R         Ver 12/15/21 07:47 ASTERI                                          
+ Ox               %>=4      Ver 12/15/21 07:47 ASTERI  R         Ver 12/15/21 07:47 ASTERI                                          
+ Gent             %<=0.5    Ver 12/15/21 07:47 ASTERI  %S        Ver 12/15/21 07:47 ASTERI                                          
+ Cipro            %>=8      Ver 12/15/21 07:47 ASTERI  %R        Ver 12/15/21 07:47 ASTERI                                          
+ Levo             %>=8      Ver 12/15/21 07:47 ASTERI  %R        Ver 12/15/21 07:47 ASTERI                                          
+ Moxi             %>=8      Ver 12/15/21 07:47 ASTERI  %R        Ver 12/15/21 07:47 ASTERI                                          
+ Clinda-R         %Pos      Ver 12/15/21 07:47 ASTERI  %Pos      Ver 12/15/21 07:47 ASTERI                                          
+ Eryth            %>=8      Ver 12/15/21 07:47 ASTERI  R         Ver 12/15/21 07:47 ASTERI                                          
+ Clinda           %<=0.25   Ver 12/15/21 07:47 ASTERI  R         Ver 12/15/21 07:47 ASTERI                                          
+ Quin-dal         %<=0.25   Ver 12/15/21 07:47 ASTERI  %S        Ver 12/15/21 07:47 ASTERI                                          
+ Linezolid        %2        Ver 12/15/21 07:47 ASTERI  %xxx      Ver 12/15/21 07:47 ASTERI                                          
+ Vanc             %<=0.5    Ver 12/15/21 07:47 ASTERI  S         Ver 12/15/21 07:47 ASTERI                                          
+ Tetra            %<=1      Ver 12/15/21 07:47 ASTERI  S         Ver 12/15/21 07:47 ASTERI                                          
+ Tigec            %<=0.12   Ver 12/15/21 07:47 ASTERI  %S        Ver 12/15/21 07:47 ASTERI                                          
+ Nitro            %<=16     Ver 12/15/21 07:47 ASTERI  %S        Ver 12/15/21 07:47 ASTERI                                          
+ Rif              %<=0.5    Ver 12/15/21 07:47 ASTERI  %S        Ver 12/15/21 07:47 ASTERI                                          
+ SXT              %<=10     Ver 12/15/21 07:47 ASTERI  S         Ver 12/15/21 07:47 ASTERI                                          
+
+                                                                                                                                   
+  Date: 12/21/21 11:19:26                     Microbiology Detailed Line Listing Report                     Id: GUNOSKEJ            
+  Sequence: HUP Micro Detailed Line Listing                                                                 Page:  24               
+ =========================================================================================================================          
+ Name: Stockton, Synii J                                           Provider:     Kittka, Julia CRNP                                 
+ MRN/Age/Sex:  017194960 HUP/31 years/Female                       Admit Date: 12/07/21 17:29                                       
+ Enc Type: (N) No Phlebotomy Client-CCA                            Discharge Date:                                                  
+ Location: CCA McKee She/CCA Amckee Shep/CCA Amckee Shep                                                                            
+-------------------------------------------------------------------------------------------------------------------------           
+ Procedure:  C RESP                                 Source: Throat                          Collect Date: 12/07/21 17:29            
+ Accession:  21-341-17448                           Body Site:                              Receive Date: 12/07/21 22:16            
+ Serv Res: HUP Micro Resp                           Ft Source:                              Start Date:   12/07/21 22:17            
+ Order Location: CCA McKee She/CCA Amckee Shep      Antibiotics:                            Pathogens:                              
+-------------------------------------------------------------------------------------------------------------------------           
+ Date Time      Tech     # Task          Results                                                                                    
+ -------------------------------------------------------------------------------------------------------------------------          
+ 12/08/21 00:46 DESEIGNJ   GS                                                                                                       
+                           Gram Stain Result:                                                                                       
+                           Many Gram Positive Cocci                                                                                 
+                           Many Gram Negative Rods                                                                                  
+                           Rare White Blood Cells                                                                                   
+ 12/14/21 15:28 DOYLEE     Amend                                                                                                    
+                           Moderate Methicillin-Resistant Staphylococcus aureus                                                     
+                           Many Mouth Flora [Includes >= 1 Of: Oral Strep, Coag Neg Staph, Diphtheroids, Non-pathogenic             
+                           Neisseria], No Further Identification                                                                    
+ 12/11/21 09:25 DULLW      MIC           Organism: MRSA      Panel: GP67        ID#: 21341174481                                    
+                  MIC Dilution                         MIC Interpretation                                                           
+ Amp-sul          %xxx      Ver 12/11/21 09:25 DULLW   R         Ver 12/11/21 09:25 DULLW                                           
+ Cefazolin        %xxx      Ver 12/11/21 09:25 DULLW   R         Ver 12/11/21 09:25 DULLW                                           
+ Cefoxitin-screen %Pos      Ver 12/11/21 09:25 DULLW   %Pos      Ver 12/11/21 09:25 DULLW                                           
+ Pen              %>=0.5    Ver 12/11/21 09:25 DULLW   R         Ver 12/11/21 09:25 DULLW                                           
+ Ox               %>=4      Ver 12/11/21 09:25 DULLW   R         Ver 12/11/21 09:25 DULLW                                           
+ Gent             %<=0.5    Ver 12/11/21 09:25 DULLW   %S        Ver 12/11/21 09:25 DULLW                                           
+ Cipro            %<=0.5    Ver 12/11/21 09:25 DULLW   %S        Ver 12/11/21 09:25 DULLW                                           
+ Levo             %0.25     Ver 12/11/21 09:25 DULLW   %S        Ver 12/11/21 09:25 DULLW                                           
+ Moxi             %<=0.25   Ver 12/11/21 09:25 DULLW   %S        Ver 12/11/21 09:25 DULLW                                           
+ Clinda-R         %Neg      Ver 12/11/21 09:25 DULLW   %Neg      Ver 12/11/21 09:25 DULLW                                           
+ Eryth            %<=0.25   Ver 12/11/21 09:25 DULLW   S         Ver 12/11/21 09:25 DULLW                                           
+ Clinda           %<=0.25   Ver 12/11/21 09:25 DULLW   S         Ver 12/11/21 09:25 DULLW                                           
+ Quin-dal         %<=0.25   Ver 12/11/21 09:25 DULLW   %S        Ver 12/11/21 09:25 DULLW                                           
+ Linezolid        %2        Ver 12/11/21 09:25 DULLW   %xxx      Ver 12/11/21 09:25 DULLW                                           
+ Vanc             %<=0.5    Ver 12/11/21 09:25 DULLW   S         Ver 12/11/21 09:25 DULLW                                           
+ Tetra            %<=1      Ver 12/11/21 09:25 DULLW   S         Ver 12/11/21 09:25 DULLW                                           
+ Tigec            %<=0.12   Ver 12/11/21 09:25 DULLW   %S        Ver 12/11/21 09:25 DULLW                                           
+ Nitro            %32       Ver 12/11/21 09:25 DULLW   %S        Ver 12/11/21 09:25 DULLW                                           
+ Rif              %<=0.5    Ver 12/11/21 09:25 DULLW   %S        Ver 12/11/21 09:25 DULLW                                           
+ SXT              %<=10     Ver 12/11/21 09:25 DULLW   S         Ver 12/11/21 09:25 DULLW                                           
+
+                                                                                                                                   
+  Date: 12/21/21 11:19:26                     Microbiology Detailed Line Listing Report                     Id: GUNOSKEJ            
+  Sequence: HUP Micro Detailed Line Listing                                                                 Page:  25               
+ =========================================================================================================================          
+ Name: Tarlow, Alyssa                                              Provider:     Holler, Phillip MD                                 
+ MRN/Age/Sex:  468854237 HUP/35 years/Female                       Admit Date: 12/16/21 13:32                                       
+ Enc Type: _(O) Outpatient                                         Discharge Date:                                                  
+ Location: HUP/HUP/PDBC Penn Derma                                                                                                  
+-------------------------------------------------------------------------------------------------------------------------           
+ Procedure:  C ROUTINE                              Source: Skin                            Collect Date: 12/16/21 13:32            
+ Accession:  21-350-11289                           Body Site:                              Receive Date: 12/16/21 13:40            
+ Serv Res: HUP Micro Wound                          Ft Source:                              Start Date:   12/16/21 13:40            
+ Order Location: HUP/PDBC Penn Derma                Antibiotics:                            Pathogens:                              
+-------------------------------------------------------------------------------------------------------------------------           
+ Date Time      Tech     # Task          Results                                                                                    
+ -------------------------------------------------------------------------------------------------------------------------          
+ 12/17/21 00:53 DESEIGNJ   Gram Stain                                                                                               
+                           No Bacteria Seen.                                                                                        
+                           No White Blood Cells                                                                                     
+ 12/20/21 08:34 FERNANR    Amend                                                                                                    
+                           Rare Methicillin-Resistant Staphylococcus aureus                                                         
+                           Rare Staphylococcus epidermidis (Coagulase Negative) , Susceptibilities Are Not Performed                
+ 12/20/21 08:33 FERNANR    MIC           Organism: MRSA      Panel: GP67        ID#: 21350112891                                    
+                  MIC Dilution                         MIC Interpretation                                                           
+ Amp-sul          %xxx      Ver 12/20/21 08:33 FERNAN  R         Ver 12/20/21 08:33 FERNAN                                          
+ Cefazolin        %xxx      Ver 12/20/21 08:33 FERNAN  R         Ver 12/20/21 08:33 FERNAN                                          
+ Cefoxitin-screen %Pos      Ver 12/20/21 08:33 FERNAN  %Pos      Ver 12/20/21 08:33 FERNAN                                          
+ Pen              %>=0.5    Ver 12/20/21 08:33 FERNAN  R         Ver 12/20/21 08:33 FERNAN                                          
+ Ox               %>=4      Ver 12/20/21 08:33 FERNAN  R         Ver 12/20/21 08:33 FERNAN                                          
+ Gent             %<=0.5    Ver 12/20/21 08:33 FERNAN  %S        Ver 12/20/21 08:33 FERNAN                                          
+ Cipro            %>=8      Ver 12/20/21 08:33 FERNAN  %R        Ver 12/20/21 08:33 FERNAN                                          
+ Levo             %4        Ver 12/20/21 08:33 FERNAN  %R        Ver 12/20/21 08:33 FERNAN                                          
+ Moxi             %2        Ver 12/20/21 08:33 FERNAN  %R        Ver 12/20/21 08:33 FERNAN                                          
+ Clinda-R         %Neg      Ver 12/20/21 08:33 FERNAN  %Neg      Ver 12/20/21 08:33 FERNAN                                          
+ Eryth            %>=8      Ver 12/20/21 08:33 FERNAN  R         Ver 12/20/21 08:33 FERNAN                                          
+ Clinda           %<=0.25   Ver 12/20/21 08:33 FERNAN  S         Ver 12/20/21 08:33 FERNAN                                          
+ Quin-dal         %<=0.25   Ver 12/20/21 08:33 FERNAN  %S        Ver 12/20/21 08:33 FERNAN                                          
+ Linezolid        %2        Ver 12/20/21 08:33 FERNAN  %xxx      Ver 12/20/21 08:33 FERNAN                                          
+ Vanc             %1        Ver 12/20/21 08:33 FERNAN  S         Ver 12/20/21 08:33 FERNAN                                          
+ Tetra            %<=1      Ver 12/20/21 08:33 FERNAN  S         Ver 12/20/21 08:33 FERNAN                                          
+ Tigec            %<=0.12   Ver 12/20/21 08:33 FERNAN  %S        Ver 12/20/21 08:33 FERNAN                                          
+ Nitro            %<=16     Ver 12/20/21 08:33 FERNAN  %S        Ver 12/20/21 08:33 FERNAN                                          
+ Rif              %<=0.5    Ver 12/20/21 08:33 FERNAN  %S        Ver 12/20/21 08:33 FERNAN                                          
+ SXT              %<=10     Ver 12/20/21 08:33 FERNAN  S         Ver 12/20/21 08:33 FERNAN                                          
+                                                                                                                                   

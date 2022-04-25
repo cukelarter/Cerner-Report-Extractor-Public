@@ -1,0 +1,1171 @@
+  Date: 11/17/21 08:56:07                     Microbiology Detailed Line Listing Report                     Id: GUNOSKEJ            
+  Sequence: HUP Micro Detailed Line Listing                                                                 Page:   1               
+                                                                                                                                    
+  Filter:                                                             Sort(s):                                                      
+  1: Date/Time - Complete - 11/09/21 00:00  -  11/17/21 23:59         1: Name [A]                                                   
+  2: Service Resource - HUP Lab                                                                                                     
+  3: Task - Susceptibility Panel - GP67                                                                                             
+  4: Task Result - Report Organism/Response - MRSA, MRSA 1, MRSA 2,                                                                 
+                                              MRSAscv                                                                               
+ =========================================================================================================================          
+ Name: Benedetto, Joy                                              Provider:     Palevsky, Harold I MD                              
+ MRN/Age/Sex:  448287797 PMC/47 years/Female                       Admit Date: 10/27/21 12:41                                       
+ Enc Type: (I) Inpatient                                           Discharge Date: 11/12/21 13:32                                   
+ Location: PPMC/PPMC CUPP/MCA4 PAC MICU/MICU11/A                                                                                    
+-------------------------------------------------------------------------------------------------------------------------           
+ Procedure:  C RESP                                 Source: Sputum                          Collect Date: 11/10/21 09:20            
+ Accession:  21-314-03923                           Body Site:                              Receive Date: 11/10/21 15:36            
+ Serv Res: HUP Micro Resp                           Ft Source:                              Start Date:   11/10/21 15:36            
+ Order Location: PPMC/MCA4 PAC MICU                 Antibiotics:                            Pathogens:                              
+-------------------------------------------------------------------------------------------------------------------------           
+ Date Time      Tech     # Task          Results                                                                                    
+ -------------------------------------------------------------------------------------------------------------------------          
+ 11/10/21 17:40 DAGADZIK   GS                                                                                                       
+                           Gram Stain Result:                                                                                       
+                           Many Gram Positive Cocci                                                                                 
+                           Rare White Blood Cells                                                                                   
+ 11/12/21 09:18 DULLW      Amend                                                                                                    
+                           Many Methicillin-Resistant Staphylococcus aureus                                                         
+ 11/12/21 09:18 DULLW      MIC           Organism: MRSA      Panel: GP67        ID#: 21314039231                                    
+                  MIC Dilution                         MIC Interpretation                                                           
+ Amp-sul          %xxx      Ver 11/12/21 09:18 DULLW   R         Ver 11/12/21 09:18 DULLW                                           
+ Cefazolin        %xxx      Ver 11/12/21 09:18 DULLW   R         Ver 11/12/21 09:18 DULLW                                           
+ Cefoxitin-screen %Pos      Ver 11/12/21 09:18 DULLW   %Pos      Ver 11/12/21 09:18 DULLW                                           
+ Pen              %>=0.5    Ver 11/12/21 09:18 DULLW   R         Ver 11/12/21 09:18 DULLW                                           
+ Ox               %>=4      Ver 11/12/21 09:18 DULLW   R         Ver 11/12/21 09:18 DULLW                                           
+ Gent             %<=0.5    Ver 11/12/21 09:18 DULLW   %S        Ver 11/12/21 09:18 DULLW                                           
+ Cipro            %>=8      Ver 11/12/21 09:18 DULLW   %R        Ver 11/12/21 09:18 DULLW                                           
+ Levo             %4        Ver 11/12/21 09:18 DULLW   %R        Ver 11/12/21 09:18 DULLW                                           
+ Moxi             %2        Ver 11/12/21 09:18 DULLW   %R        Ver 11/12/21 09:18 DULLW                                           
+ Clinda-R         %Neg      Ver 11/12/21 09:18 DULLW   %Neg      Ver 11/12/21 09:18 DULLW                                           
+ Eryth            %>=8      Ver 11/12/21 09:18 DULLW   R         Ver 11/12/21 09:18 DULLW                                           
+ Clinda           %>=8      Ver 11/12/21 09:18 DULLW   R         Ver 11/12/21 09:18 DULLW                                           
+ Quin-dal         %<=0.25   Ver 11/12/21 09:18 DULLW   %S        Ver 11/12/21 09:18 DULLW                                           
+ Linezolid        %2        Ver 11/12/21 09:18 DULLW   %xxx      Ver 11/12/21 09:18 DULLW                                           
+ Vanc             %<=0.5    Ver 11/12/21 09:18 DULLW   S         Ver 11/12/21 09:18 DULLW                                           
+ Tetra            %>=16     Ver 11/12/21 09:18 DULLW   R         Ver 11/12/21 09:18 DULLW                                           
+ Tigec            %<=0.12   Ver 11/12/21 09:18 DULLW   %S        Ver 11/12/21 09:18 DULLW                                           
+ Nitro            %<=16     Ver 11/12/21 09:18 DULLW   %S        Ver 11/12/21 09:18 DULLW                                           
+ Rif              %<=0.5    Ver 11/12/21 09:18 DULLW   %S        Ver 11/12/21 09:18 DULLW                                           
+ SXT              %<=10     Ver 11/12/21 09:18 DULLW   S         Ver 11/12/21 09:18 DULLW                                           
+
+                                                                                                                                   
+  Date: 11/17/21 08:56:07                     Microbiology Detailed Line Listing Report                     Id: GUNOSKEJ            
+  Sequence: HUP Micro Detailed Line Listing                                                                 Page:   2               
+ =========================================================================================================================          
+ Name: Benedetto, Joy                                              Provider:     Palevsky, Harold I MD                              
+ MRN/Age/Sex:  448287797 PMC/47 years/Female                       Admit Date: 10/27/21 12:41                                       
+ Enc Type: (I) Inpatient                                           Discharge Date: 11/12/21 13:32                                   
+ Location: PPMC/PPMC CUPP/MCA4 PAC MICU/MICU11/A                                                                                    
+-------------------------------------------------------------------------------------------------------------------------           
+ Procedure:  C BC                                   Source: BL P                            Collect Date: 11/10/21 09:20            
+ Accession:  21-314-03927                           Body Site:                              Receive Date: 11/10/21 15:21            
+ Serv Res: HUP Bactec 1                             Ft Source:                              Start Date:   11/10/21 15:21            
+ Order Location: PPMC/MCA4 PAC MICU                 Antibiotics:                            Pathogens:                              
+-------------------------------------------------------------------------------------------------------------------------           
+ Date Time      Tech     # Task          Results                                                                                    
+ -------------------------------------------------------------------------------------------------------------------------          
+ 11/11/21 16:08 LOUKI      GS Cult#2                                                                                                
+                           Gram Positive Cocci in clusters From One Vial                                                            
+                           Telephone Notification Is Made For First-time Positive Cultures Only.  Multiple Blood                    
+                           Cultures With The Same Organism Will Not Be Phoned Unless Greater Than 4 Days Have Elapsed               
+                           Since The Initial Notification Was Made.                                                                 
+                           Initial Positive Results Phoned To And Readback By: INMAN, KYLE W  11/11/2021 16:07:58                   
+ 11/16/21 14:59 LOUKI      Final                                                                                                    
+                           Methicillin-Resistant Staphylococcus aureus detected by molecular assay.                                 
+                           Methicillin-Resistant Staphylococcus aureus From One Vial Confirmed by culture.                          
+                           Staphylococcus aureus bacteremia is associated with significant morbidity and mortality.                 
+                           Infectious Diseases consultation is recommended.                                                         
+ 11/13/21 09:06 DULLW      MIC           Organism: MRSA      Panel: GP67        ID#: 21314039271                                    
+                  MIC Dilution                         MIC Interpretation                                                           
+ Amp-sul          %xxx      Ver 11/13/21 09:06 DULLW   R         Ver 11/13/21 09:06 DULLW                                           
+ Cefazolin        %xxx      Ver 11/13/21 09:06 DULLW   R         Ver 11/13/21 09:06 DULLW                                           
+ Cefoxitin-screen %Pos      Ver 11/13/21 09:06 DULLW   %Pos      Ver 11/13/21 09:06 DULLW                                           
+ Pen              %>=0.5    Ver 11/13/21 09:06 DULLW   R         Ver 11/13/21 09:06 DULLW                                           
+ Ox               %>=4      Ver 11/13/21 09:06 DULLW   R         Ver 11/13/21 09:06 DULLW                                           
+ Gent             %<=0.5    Ver 11/13/21 09:06 DULLW   %S        Ver 11/13/21 09:06 DULLW                                           
+ Cipro            %>=8      Ver 11/13/21 09:06 DULLW   %R        Ver 11/13/21 09:06 DULLW                                           
+ Levo             %4        Ver 11/13/21 09:06 DULLW   %R        Ver 11/13/21 09:06 DULLW                                           
+ Moxi             %2        Ver 11/13/21 09:06 DULLW   %R        Ver 11/13/21 09:06 DULLW                                           
+ Clinda-R         %Neg      Ver 11/13/21 09:06 DULLW   %Neg      Ver 11/13/21 09:06 DULLW                                           
+ Eryth            %>=8      Ver 11/13/21 09:06 DULLW   %R        Ver 11/13/21 09:06 DULLW                                           
+ Clinda           %>=8      Ver 11/13/21 09:06 DULLW   %R        Ver 11/13/21 09:06 DULLW                                           
+ Quin-dal         %<=0.25   Ver 11/13/21 09:06 DULLW   %S        Ver 11/13/21 09:06 DULLW                                           
+ Linezolid        %2        Ver 11/13/21 09:06 DULLW   %xxx      Ver 11/13/21 09:06 DULLW                                           
+ Vanc             %1        Ver 11/13/21 09:06 DULLW   S         Ver 11/13/21 09:06 DULLW                                           
+ Tetra            %<=1      Ver 11/13/21 09:06 DULLW   %S        Ver 11/13/21 09:06 DULLW                                           
+ Tigec            %<=0.12   Ver 11/13/21 09:06 DULLW   %S        Ver 11/13/21 09:06 DULLW                                           
+ Nitro            %<=16     Ver 11/13/21 09:06 DULLW   %S        Ver 11/13/21 09:06 DULLW                                           
+ Rif              %<=0.5    Ver 11/13/21 09:06 DULLW   %S        Ver 11/13/21 09:06 DULLW                                           
+ SXT              %<=10     Ver 11/13/21 09:06 DULLW   S         Ver 11/13/21 09:06 DULLW                                           
+ 11/14/21 11:29 DULLW      ETEST         Organism: MRSA      Panel: Dap         ID#:                                                
+                  E Test Dilution                      E Test Interpretation                                                        
+ Dap              0.19      Ver 11/14/21 11:29 DULLW   S         Ver 11/14/21 11:29 DULLW                                           
+
+                                                                                                                                   
+  Date: 11/17/21 08:56:07                     Microbiology Detailed Line Listing Report                     Id: GUNOSKEJ            
+  Sequence: HUP Micro Detailed Line Listing                                                                 Page:   3               
+ =========================================================================================================================          
+ Name: Carangi, Rocco R                                            Provider:     Singh, Aditi Puri MD                               
+ MRN/Age/Sex:  450229968 HUP/75 years/Male                         Admit Date: 11/10/21 13:55                                       
+ Enc Type: (E) Emergency                                           Discharge Date: 11/11/21 18:21                                   
+ Location: HUP/HUP/ER/15/15                                                                                                         
+-------------------------------------------------------------------------------------------------------------------------           
+ Procedure:  C RESP                                 Source: Sputum                          Collect Date: 11/10/21 22:08            
+ Accession:  21-314-17889                           Body Site:                              Receive Date: 11/11/21 00:50            
+ Serv Res: HUP Micro Resp                           Ft Source:                              Start Date:   11/11/21 00:50            
+ Order Location: HUP/ER                             Antibiotics:                            Pathogens:                              
+-------------------------------------------------------------------------------------------------------------------------           
+ Date Time      Tech     # Task          Results                                                                                    
+ -------------------------------------------------------------------------------------------------------------------------          
+ 11/11/21 08:16 BRAVOB     GS                                                                                                       
+                           Gram Stain Result:                                                                                       
+                           Moderate White Blood Cells                                                                               
+                           Moderate Budding Yeast With Pseudohyphae                                                                 
+                           Few Gram Positive Cocci                                                                                  
+                           Few Gram Negative Rods                                                                                   
+                           Rare Gram Positive Rods                                                                                  
+ 11/13/21 09:18 DULLW      Amend                                                                                                    
+                           Many Methicillin-Resistant Staphylococcus aureus                                                         
+                           Many Yeast, No Further Identification                                                                    
+                           Many Mouth Flora [Includes >= 1 Of: Oral Strep, Coag Neg Staph, Diphtheroids, Non-pathogenic             
+                           Neisseria], No Further Identification                                                                    
+ 11/14/21 11:39 DULLW      KB-Check      Organism: MRSA      Panel: GP67-check  ID#:                                                
+                  Kirby-Bauer Zone Size                Check Kirby-Bauer Interpretation                                             
+ Cefoxitin        %5mm      Ver 11/14/21 11:39 DULLW   %xxx      Ver 11/14/21 11:39 DULLW                                           
+ SXT              %8mm      Ver 11/14/21 11:39 DULLW   %R        Ver 11/14/21 11:39 DULLW                                           
+ 11/14/21 11:39 DULLW      MIC           Organism: MRSA      Panel: GP67        ID#: 21314178891                                    
+                  MIC Dilution                         MIC Interpretation                                                           
+ Amp-sul          %xxx      Ver 11/13/21 09:18 DULLW   R         Ver 11/13/21 09:18 DULLW                                           
+ Cefazolin        %xxx      Ver 11/13/21 09:18 DULLW   R         Ver 11/13/21 09:18 DULLW                                           
+ Cefoxitin-screen %Pos      Ver 11/13/21 09:18 DULLW   %Pos      Ver 11/13/21 09:18 DULLW                                           
+ Pen              %>=0.5    Ver 11/13/21 09:18 DULLW   R         Ver 11/13/21 09:18 DULLW                                           
+ Ox               %>=4      Ver 11/13/21 09:18 DULLW   R         Ver 11/13/21 09:18 DULLW                                           
+ Gent             %<=0.5    Ver 11/13/21 09:18 DULLW   %S        Ver 11/13/21 09:18 DULLW                                           
+ Cipro            %>=8      Ver 11/13/21 09:18 DULLW   %R        Ver 11/13/21 09:18 DULLW                                           
+ Levo             %>=8      Ver 11/13/21 09:18 DULLW   %R        Ver 11/13/21 09:18 DULLW                                           
+ Moxi             %>=8      Ver 11/13/21 09:18 DULLW   %R        Ver 11/13/21 09:18 DULLW                                           
+ Clinda-R         %Neg      Ver 11/13/21 09:18 DULLW   %Neg      Ver 11/13/21 09:18 DULLW                                           
+ Eryth            %>=8      Ver 11/13/21 09:18 DULLW   R         Ver 11/13/21 09:18 DULLW                                           
+ Clinda           %<=0.25   Ver 11/13/21 09:18 DULLW   S         Ver 11/13/21 09:18 DULLW                                           
+ Quin-dal         %<=0.25   Ver 11/13/21 09:18 DULLW   %S        Ver 11/13/21 09:18 DULLW                                           
+ Linezolid        %2        Ver 11/13/21 09:18 DULLW   %xxx      Ver 11/13/21 09:18 DULLW                                           
+ Vanc             %1        Ver 11/13/21 09:18 DULLW   S         Ver 11/13/21 09:18 DULLW                                           
+ Tetra            %<=1      Ver 11/13/21 09:18 DULLW   S         Ver 11/13/21 09:18 DULLW                                           
+ Tigec            %<=0.12   Ver 11/13/21 09:18 DULLW   %S        Ver 11/13/21 09:18 DULLW                                           
+ Nitro            %<=16     Ver 11/13/21 09:18 DULLW   %S        Ver 11/13/21 09:18 DULLW                                           
+ Rif              %<=0.5    Ver 11/13/21 09:18 DULLW   %S        Ver 11/13/21 09:18 DULLW                                           
+ SXT              %>=320    Ver 11/13/21 09:18 DULLW   R         Ver 11/14/21 11:39 DULLW                                           
+
+                                                                                                                                   
+  Date: 11/17/21 08:56:07                     Microbiology Detailed Line Listing Report                     Id: GUNOSKEJ            
+  Sequence: HUP Micro Detailed Line Listing                                                                 Page:   4               
+ =========================================================================================================================          
+ Name: Chalmers, Shirley                                           Provider:     Marcotte, Paul J MD                                
+ MRN/Age/Sex:  471443671 HUP/74 years/Female                       Admit Date: 11/05/21 05:39                                       
+ Enc Type: (I) Inpatient                                           Discharge Date: 11/12/21 18:35                                   
+ Location: HUP/HUP/HETIN P10CntICU/H1052/H1052                                                                                      
+-------------------------------------------------------------------------------------------------------------------------           
+ Procedure:  C ROUTINE                              Source: Swab                            Collect Date: 11/09/21 22:03            
+ Accession:  21-313-18828                           Body Site:                              Receive Date: 11/09/21 23:13            
+ Serv Res: HUP Micro Wound                          Ft Source: Soft tissue Wound Culture  SWStart Date:   11/09/21 23:14            
+ Order Location: HUP/HEOR HUP EastOR                Antibiotics:                            Pathogens:                              
+-------------------------------------------------------------------------------------------------------------------------           
+ Date Time      Tech     # Task          Results                                                                                    
+ -------------------------------------------------------------------------------------------------------------------------          
+ 11/10/21 07:11 BRAVOB     GS                                                                                                       
+                           No Bacteria Seen.                                                                                        
+                           Moderate White Blood Cells                                                                               
+ 11/13/21 09:05 DULLW      Amend                                                                                                    
+                           Rare Methicillin-Resistant Staphylococcus aureus                                                         
+                           Susceptibility results for this isolate are generally available within 24 hours.                         
+ 11/14/21 11:30 DULLW      KB-Check      Organism: MRSA      Panel: Dtest       ID#:                                                
+                  Kirby-Bauer Zone Size                Check Kirby-Bauer Interpretation                                             
+ Dtest            %20mm     Ver 11/14/21 11:30 DULLW   %POS+     Ver 11/14/21 11:30 DULLW                                           
+                                                             Panel: GP67-check  ID#:                                                
+                  Kirby-Bauer Zone Size                Check Kirby-Bauer Interpretation                                             
+ Clinda           %23mm     Ver 11/14/21 11:30 DULLW   %S        Ver 11/14/21 11:30 DULLW                                           
+ Eryth            %9mm      Ver 11/14/21 11:30 DULLW   %R        Ver 11/14/21 11:30 DULLW                                           
+ Cefoxitin        %5mm      Ver 11/14/21 11:30 DULLW   %xxx      Ver 11/14/21 11:30 DULLW                                           
+ 11/14/21 11:30 DULLW      MIC           Organism: MRSA      Panel: GP67        ID#: 21313188281                                    
+                  MIC Dilution                         MIC Interpretation                                                           
+ Amp-sul          %xxx      Ver 11/13/21 09:04 DULLW   R         Ver 11/13/21 09:04 DULLW                                           
+ Cefazolin        %xxx      Ver 11/13/21 09:04 DULLW   R         Ver 11/13/21 09:04 DULLW                                           
+ Cefoxitin-screen %Pos      Ver 11/13/21 09:04 DULLW   %Pos      Ver 11/13/21 09:04 DULLW                                           
+ Pen              %>=0.5    Ver 11/13/21 09:04 DULLW   R         Ver 11/13/21 09:04 DULLW                                           
+ Ox               %>=4      Ver 11/13/21 09:04 DULLW   R         Ver 11/13/21 09:04 DULLW                                           
+ Gent             %<=0.5    Ver 11/13/21 09:04 DULLW   %S        Ver 11/13/21 09:04 DULLW                                           
+ Cipro            %>=8      Ver 11/13/21 09:04 DULLW   %R        Ver 11/13/21 09:04 DULLW                                           
+ Levo             %>=8      Ver 11/13/21 09:04 DULLW   %R        Ver 11/13/21 09:04 DULLW                                           
+ Moxi             %>=8      Ver 11/13/21 09:04 DULLW   %R        Ver 11/13/21 09:04 DULLW                                           
+ Clinda-R         %Pos      Ver 11/13/21 09:04 DULLW   %Pos      Ver 11/13/21 09:04 DULLW                                           
+ Eryth            %4        Ver 11/13/21 09:04 DULLW   R         Ver 11/14/21 11:30 DULLW                                           
+ Clinda           %<=0.25   Ver 11/13/21 09:04 DULLW   R         Ver 11/14/21 11:30 DULLW                                           
+ Quin-dal         %<=0.25   Ver 11/13/21 09:04 DULLW   %S        Ver 11/13/21 09:04 DULLW                                           
+ Linezolid        %2        Ver 11/13/21 09:04 DULLW   %xxx      Ver 11/13/21 09:04 DULLW                                           
+ Vanc             %<=0.5    Ver 11/13/21 09:04 DULLW   S         Ver 11/13/21 09:04 DULLW                                           
+ Tetra            %<=1      Ver 11/13/21 09:04 DULLW   S         Ver 11/13/21 09:04 DULLW                                           
+ Tigec            %<=0.12   Ver 11/13/21 09:04 DULLW   %S        Ver 11/13/21 09:04 DULLW                                           
+ Nitro            %32       Ver 11/13/21 09:04 DULLW   %S        Ver 11/13/21 09:04 DULLW                                           
+ Rif              %<=0.5    Ver 11/13/21 09:04 DULLW   %S        Ver 11/13/21 09:04 DULLW                                           
+ SXT              %<=10     Ver 11/13/21 09:04 DULLW   S         Ver 11/13/21 09:04 DULLW                                           
+
+                                                                                                                                   
+  Date: 11/17/21 08:56:07                     Microbiology Detailed Line Listing Report                     Id: GUNOSKEJ            
+  Sequence: HUP Micro Detailed Line Listing                                                                 Page:   5               
+ =========================================================================================================================          
+ Name: Darby, Margarette A                                         Provider:     Mehta, Samir MD                                    
+ MRN/Age/Sex:  334173630 PMC/87 years/Female                       Admit Date: 11/02/21 14:31                                       
+ Enc Type: (I) Inpatient                                           Discharge Date: 11/05/21 18:46                                   
+ Location: PPMC/PPMC CUPP/CP4E/C435/A                                                                                               
+-------------------------------------------------------------------------------------------------------------------------           
+ Procedure:  C ROUTINE                              Source: Swab                            Collect Date: 11/03/21 21:32            
+ Accession:  21-307-17787                           Body Site:                              Receive Date: 11/04/21 01:57            
+ Serv Res: HUP Micro Wound                          Ft Source: LEFT MEDIAL PLATE            Start Date:   11/04/21 01:57            
+ Order Location: PPMC/PMOR PPMC Opera               Antibiotics:                            Pathogens:                              
+-------------------------------------------------------------------------------------------------------------------------           
+ Date Time      Tech     # Task          Results                                                                                    
+ -------------------------------------------------------------------------------------------------------------------------          
+ 11/04/21 07:52 PERUMPOA   GS                                                                                                       
+                           Gram Stain Result:                                                                                       
+                           Few Gram Positive Cocci                                                                                  
+                           Few White Blood Cells                                                                                    
+ 11/09/21 16:13 WORRALLA   Amend                                                                                                    
+                           Few Methicillin-Resistant Staphylococcus aureus                                                          
+                           Few Gram Positive Diphtheroid-like Rods , No Further Identification , Susceptibilities Are               
+                           Not Performed                                                                                            
+ 11/07/21 12:05 ASTERINJ   MIC-plate     Organism: MRSA      Panel: V-mic       ID#:                                                
+                  MIC Dilution - Plate                 MIC Interpretation - Plate                                                   
+ Vanc             <=1       Ver 11/07/21 12:05 ASTERI  S         Ver 11/07/21 12:05 ASTERI                                          
+ Dap              %<=0.5    Ver 11/07/21 12:05 ASTERI  %S        Ver 11/07/21 12:05 ASTERI                                          
+ Linezolid        %2        Ver 11/07/21 12:05 ASTERI  %S        Ver 11/07/21 12:05 ASTERI                                          
+ 11/06/21 13:17 ASTERINJ   MIC           Organism: MRSA      Panel: GP67        ID#: 21307177871                                    
+                  MIC Dilution                         MIC Interpretation                                                           
+ Amp-sul          %xxx      Ver 11/06/21 13:17 ASTERI  R         Ver 11/06/21 13:17 ASTERI                                          
+ Cefazolin        %xxx      Ver 11/06/21 13:17 ASTERI  R         Ver 11/06/21 13:17 ASTERI                                          
+ Cefoxitin-screen %Pos      Ver 11/06/21 13:17 ASTERI  %Pos      Ver 11/06/21 13:17 ASTERI                                          
+ Pen              %>=0.5    Ver 11/06/21 13:17 ASTERI  R         Ver 11/06/21 13:17 ASTERI                                          
+ Ox               %>=4      Ver 11/06/21 13:17 ASTERI  R         Ver 11/06/21 13:17 ASTERI                                          
+ Gent             %4        Ver 11/06/21 13:17 ASTERI  %S        Ver 11/06/21 13:17 ASTERI                                          
+ Cipro            %1        Ver 11/06/21 13:17 ASTERI  %S        Ver 11/06/21 13:17 ASTERI                                          
+ Levo             %0.5      Ver 11/06/21 13:17 ASTERI  %S        Ver 11/06/21 13:17 ASTERI                                          
+ Moxi             %<=0.25   Ver 11/06/21 13:17 ASTERI  %S        Ver 11/06/21 13:17 ASTERI                                          
+ Clinda-R         %Neg      Ver 11/06/21 13:17 ASTERI  %Neg      Ver 11/06/21 13:17 ASTERI                                          
+ Eryth            %>=8      Ver 11/06/21 13:17 ASTERI  R         Ver 11/06/21 13:17 ASTERI                                          
+ Clinda           %<=0.25   Ver 11/06/21 13:17 ASTERI  S         Ver 11/06/21 13:17 ASTERI                                          
+ Quin-dal         %<=0.25   Ver 11/06/21 13:17 ASTERI  %S        Ver 11/06/21 13:17 ASTERI                                          
+ Linezolid        %<=0.5    Ver 11/06/21 13:17 ASTERI  %xxx      Ver 11/06/21 13:17 ASTERI                                          
+ Vanc             %2        Ver 11/06/21 13:17 ASTERI  %S        Ver 11/06/21 13:17 ASTERI                                          
+ Tetra            %>=16     Ver 11/06/21 13:17 ASTERI  R         Ver 11/06/21 13:17 ASTERI                                          
+ Tigec            %<=0.12   Ver 11/06/21 13:17 ASTERI  %S        Ver 11/06/21 13:17 ASTERI                                          
+ Nitro            %<=16     Ver 11/06/21 13:17 ASTERI  %S        Ver 11/06/21 13:17 ASTERI                                          
+ Rif              %<=0.5    Ver 11/06/21 13:17 ASTERI  %S        Ver 11/06/21 13:17 ASTERI                                          
+ SXT              %<=10     Ver 11/06/21 13:17 ASTERI  S         Ver 11/06/21 13:17 ASTERI                                          
+
+                                                                                                                                   
+  Date: 11/17/21 08:56:07                     Microbiology Detailed Line Listing Report                     Id: GUNOSKEJ            
+  Sequence: HUP Micro Detailed Line Listing                                                                 Page:   6               
+ =========================================================================================================================          
+ Name: Davis, Francesca S                                          Provider:     Dorgan, Daniel J MD                                
+ MRN/Age/Sex:  348747908 PMC/33 years/Female                       Admit Date: 11/04/21 11:23                                       
+ Enc Type: (I) Inpatient                                           Discharge Date:                                                  
+ Location: PPMC/PPMC CUPP/MCA4 PAC MICU/MICU05/A                                                                                    
+-------------------------------------------------------------------------------------------------------------------------           
+ Procedure:  C RESP                                 Source: Endotracheal                    Collect Date: 11/12/21 08:53            
+ Accession:  21-315-15669                           Body Site:                              Receive Date: 11/12/21 11:32            
+ Serv Res: HUP Micro Resp                           Ft Source:                              Start Date:   11/12/21 11:32            
+ Order Location: PPMC/MCA4 PAC MICU                 Antibiotics:                            Pathogens:                              
+-------------------------------------------------------------------------------------------------------------------------           
+ Date Time      Tech     # Task          Results                                                                                    
+ -------------------------------------------------------------------------------------------------------------------------          
+ 11/12/21 19:00 ENOSE      Gram Stain                                                                                               
+                           No Bacteria Seen.                                                                                        
+                           Few White Blood Cells                                                                                    
+ 11/16/21 07:45 CASSOND    Amend                                                                                                    
+                           Rare Methicillin-Resistant Staphylococcus aureus                                                         
+                           Few Streptococcus anginosus , Susceptibilities Are Not Performed                                         
+                           Few Yeast, No Further Identification                                                                     
+                           Few Mouth Flora [Includes >= 1 Of: Oral Strep, Coag Neg Staph, Diphtheroids, Non-pathogenic              
+                           Neisseria], No Further Identification                                                                    
+ 11/16/21 07:45 CASSOND    MIC           Organism: MRSA      Panel: GP67        ID#: 21315156691                                    
+                  MIC Dilution                         MIC Interpretation                                                           
+ Amp-sul          %xxx      Ver 11/16/21 07:45 CASSON  R         Ver 11/16/21 07:45 CASSON                                          
+ Cefazolin        %xxx      Ver 11/16/21 07:45 CASSON  R         Ver 11/16/21 07:45 CASSON                                          
+ Cefoxitin-screen %Pos      Ver 11/16/21 07:45 CASSON  %Pos      Ver 11/16/21 07:45 CASSON                                          
+ Pen              %>=0.5    Ver 11/16/21 07:45 CASSON  R         Ver 11/16/21 07:45 CASSON                                          
+ Ox               %>=4      Ver 11/16/21 07:45 CASSON  R         Ver 11/16/21 07:45 CASSON                                          
+ Gent             %<=0.5    Ver 11/16/21 07:45 CASSON  %S        Ver 11/16/21 07:45 CASSON                                          
+ Cipro            %<=0.5    Ver 11/16/21 07:45 CASSON  %S        Ver 11/16/21 07:45 CASSON                                          
+ Levo             %<=0.12   Ver 11/16/21 07:45 CASSON  %S        Ver 11/16/21 07:45 CASSON                                          
+ Moxi             %<=0.25   Ver 11/16/21 07:45 CASSON  %S        Ver 11/16/21 07:45 CASSON                                          
+ Clinda-R         %Neg      Ver 11/16/21 07:45 CASSON  %Neg      Ver 11/16/21 07:45 CASSON                                          
+ Eryth            %>=8      Ver 11/16/21 07:45 CASSON  R         Ver 11/16/21 07:45 CASSON                                          
+ Clinda           %<=0.25   Ver 11/16/21 07:45 CASSON  S         Ver 11/16/21 07:45 CASSON                                          
+ Quin-dal         %<=0.25   Ver 11/16/21 07:45 CASSON  %S        Ver 11/16/21 07:45 CASSON                                          
+ Linezolid        %2        Ver 11/16/21 07:45 CASSON  %xxx      Ver 11/16/21 07:45 CASSON                                          
+ Vanc             %<=0.5    Ver 11/16/21 07:45 CASSON  S         Ver 11/16/21 07:45 CASSON                                          
+ Tetra            %>=16     Ver 11/16/21 07:45 CASSON  R         Ver 11/16/21 07:45 CASSON                                          
+ Tigec            %<=0.12   Ver 11/16/21 07:45 CASSON  %S        Ver 11/16/21 07:45 CASSON                                          
+ Nitro            %<=16     Ver 11/16/21 07:45 CASSON  %S        Ver 11/16/21 07:45 CASSON                                          
+ Rif              %<=0.5    Ver 11/16/21 07:45 CASSON  %S        Ver 11/16/21 07:45 CASSON                                          
+ SXT              %<=10     Ver 11/16/21 07:45 CASSON  S         Ver 11/16/21 07:45 CASSON                                          
+
+                                                                                                                                   
+  Date: 11/17/21 08:56:07                     Microbiology Detailed Line Listing Report                     Id: GUNOSKEJ            
+  Sequence: HUP Micro Detailed Line Listing                                                                 Page:   7               
+ =========================================================================================================================          
+ Name: Hall, Bryce                                                 Provider:                                                        
+ MRN/Age/Sex:  470862699 PMC/17 years/Male                         Admit Date: 11/06/21 17:35                                       
+ Enc Type: (E) Emergency                                           Discharge Date: 11/06/21 19:32                                   
+ Location: PPMC/PPMC Myrin/ER4 non-Bedded/SUTR04/ST04                                                                               
+-------------------------------------------------------------------------------------------------------------------------           
+ Procedure:  C ROUTINE                              Source: Abscess                         Collect Date: 11/06/21 19:32            
+ Accession:  21-310-08222                           Body Site:                              Receive Date: 11/07/21 01:56            
+ Serv Res: HUP Micro Wound                          Ft Source:                              Start Date:   11/07/21 01:40            
+ Order Location: PPMC/ER4 non-Bedded                Antibiotics:                            Pathogens:                              
+-------------------------------------------------------------------------------------------------------------------------           
+ Date Time      Tech     # Task          Results                                                                                    
+ -------------------------------------------------------------------------------------------------------------------------          
+ 11/07/21 15:52 MORTONP    GS                                                                                                       
+                           Gram Stain Result:                                                                                       
+                           Few Gram Positive Cocci                                                                                  
+                           Rare White Blood Cells                                                                                   
+ 11/09/21 09:25 KEPNERK    Final                                                                                                    
+                           Moderate Methicillin-Resistant Staphylococcus aureus                                                     
+ 11/09/21 09:17 DULLW      MIC           Organism: MRSA      Panel: GP67        ID#: 21310082221                                    
+                  MIC Dilution                         MIC Interpretation                                                           
+ Amp-sul          %xxx      Ver 11/09/21 09:17 DULLW   R         Ver 11/09/21 09:17 DULLW                                           
+ Cefazolin        %xxx      Ver 11/09/21 09:17 DULLW   R         Ver 11/09/21 09:17 DULLW                                           
+ Cefoxitin-screen %Pos      Ver 11/09/21 09:17 DULLW   %Pos      Ver 11/09/21 09:17 DULLW                                           
+ Pen              %>=0.5    Ver 11/09/21 09:17 DULLW   R         Ver 11/09/21 09:17 DULLW                                           
+ Ox               %>=4      Ver 11/09/21 09:17 DULLW   R         Ver 11/09/21 09:17 DULLW                                           
+ Gent             %<=0.5    Ver 11/09/21 09:17 DULLW   %S        Ver 11/09/21 09:17 DULLW                                           
+ Cipro            %<=0.5    Ver 11/09/21 09:17 DULLW   %S        Ver 11/09/21 09:17 DULLW                                           
+ Levo             %0.25     Ver 11/09/21 09:17 DULLW   %S        Ver 11/09/21 09:17 DULLW                                           
+ Moxi             %<=0.25   Ver 11/09/21 09:17 DULLW   %S        Ver 11/09/21 09:17 DULLW                                           
+ Clinda-R         %Neg      Ver 11/09/21 09:17 DULLW   %Neg      Ver 11/09/21 09:17 DULLW                                           
+ Eryth            %>=8      Ver 11/09/21 09:17 DULLW   R         Ver 11/09/21 09:17 DULLW                                           
+ Clinda           %>=8      Ver 11/09/21 09:17 DULLW   R         Ver 11/09/21 09:17 DULLW                                           
+ Quin-dal         %<=0.25   Ver 11/09/21 09:17 DULLW   %S        Ver 11/09/21 09:17 DULLW                                           
+ Linezolid        %2        Ver 11/09/21 09:17 DULLW   %xxx      Ver 11/09/21 09:17 DULLW                                           
+ Vanc             %1        Ver 11/09/21 09:17 DULLW   S         Ver 11/09/21 09:17 DULLW                                           
+ Tetra            %<=1      Ver 11/09/21 09:17 DULLW   S         Ver 11/09/21 09:17 DULLW                                           
+ Tigec            %<=0.12   Ver 11/09/21 09:17 DULLW   %S        Ver 11/09/21 09:17 DULLW                                           
+ Nitro            %<=16     Ver 11/09/21 09:17 DULLW   %S        Ver 11/09/21 09:17 DULLW                                           
+ Rif              %<=0.5    Ver 11/09/21 09:17 DULLW   %S        Ver 11/09/21 09:17 DULLW                                           
+ SXT              %<=10     Ver 11/09/21 09:17 DULLW   S         Ver 11/09/21 09:17 DULLW                                           
+
+                                                                                                                                   
+  Date: 11/17/21 08:56:07                     Microbiology Detailed Line Listing Report                     Id: GUNOSKEJ            
+  Sequence: HUP Micro Detailed Line Listing                                                                 Page:   8               
+ =========================================================================================================================          
+ Name: Hall, Richard                                               Provider:     Chatterjee, Paula MD                               
+ MRN/Age/Sex:  340131416 PMC/48 years/Male                         Admit Date: 11/06/21 04:09                                       
+ Enc Type: (E) Emergency                                           Discharge Date: 11/06/21 14:47                                   
+ Location: PPMC/PPMC Myrin/ER4 non-Bedded/13PPMC/13                                                                                 
+-------------------------------------------------------------------------------------------------------------------------           
+ Procedure:  C BC                                   Source: BL P                            Collect Date: 11/06/21 05:46            
+ Accession:  21-310-02171                           Body Site:                              Receive Date: 11/06/21 10:15            
+ Serv Res: HUP Bactec 1                             Ft Source:                              Start Date:   11/06/21 10:15            
+ Order Location: PPMC/ER4 non-Bedded                Antibiotics:                            Pathogens:                              
+-------------------------------------------------------------------------------------------------------------------------           
+ Date Time      Tech     # Task          Results                                                                                    
+ -------------------------------------------------------------------------------------------------------------------------          
+ 11/07/21 19:27 RUBENSC    GS Cult#2                                                                                                
+                           Gram Positive Cocci in clusters From One Vial                                                            
+                           Initial Positive Results Phoned To And Readback By: Liz Jeitner PMC ER @  11/07/2021 19:27               
+                           Telephone Notification Is Made For First-time Positive Cultures Only.  Multiple Blood                    
+                           Cultures With The Same Organism Will Not Be Phoned Unless Greater Than 4 Days Have Elapsed               
+                           Since The Initial Notification Was Made.                                                                 
+ 11/12/21 13:23 LOUKI      Final                                                                                                    
+                           Methicillin-Resistant Staphylococcus aureus detected by molecular assay.                                 
+                           Methicillin-Resistant Staphylococcus aureus From One Vial Confirmed by culture.                          
+                           Staphylococcus aureus bacteremia is associated with significant morbidity and mortality.                 
+                           Infectious Diseases consultation is recommended.                                                         
+ 11/09/21 09:07 DULLW      MIC           Organism: MRSA      Panel: GP67        ID#: 21310021711                                    
+                  MIC Dilution                         MIC Interpretation                                                           
+ Amp-sul          %xxx      Ver 11/09/21 09:07 DULLW   R         Ver 11/09/21 09:07 DULLW                                           
+ Cefazolin        %xxx      Ver 11/09/21 09:07 DULLW   R         Ver 11/09/21 09:07 DULLW                                           
+ Cefoxitin-screen %Pos      Ver 11/09/21 09:07 DULLW   %Pos      Ver 11/09/21 09:07 DULLW                                           
+ Pen              %>=0.5    Ver 11/09/21 09:07 DULLW   R         Ver 11/09/21 09:07 DULLW                                           
+ Ox               %>=4      Ver 11/09/21 09:07 DULLW   R         Ver 11/09/21 09:07 DULLW                                           
+ Gent             %<=0.5    Ver 11/09/21 09:07 DULLW   %S        Ver 11/09/21 09:07 DULLW                                           
+ Cipro            %1        Ver 11/09/21 09:07 DULLW   %S        Ver 11/09/21 09:07 DULLW                                           
+ Levo             %1        Ver 11/09/21 09:07 DULLW   %S        Ver 11/09/21 09:07 DULLW                                           
+ Moxi             %<=0.25   Ver 11/09/21 09:07 DULLW   %S        Ver 11/09/21 09:07 DULLW                                           
+ Clinda-R         %Neg      Ver 11/09/21 09:07 DULLW   %Neg      Ver 11/09/21 09:07 DULLW                                           
+ Eryth            %<=0.25   Ver 11/09/21 09:07 DULLW   %S        Ver 11/09/21 09:07 DULLW                                           
+ Clinda           %<=0.25   Ver 11/09/21 09:07 DULLW   %S        Ver 11/09/21 09:07 DULLW                                           
+ Quin-dal         %<=0.25   Ver 11/09/21 09:07 DULLW   %S        Ver 11/09/21 09:07 DULLW                                           
+ Linezolid        %2        Ver 11/09/21 09:07 DULLW   %xxx      Ver 11/09/21 09:07 DULLW                                           
+ Vanc             %<=0.5    Ver 11/09/21 09:07 DULLW   S         Ver 11/09/21 09:07 DULLW                                           
+ Tetra            %>=16     Ver 11/09/21 09:07 DULLW   %R        Ver 11/09/21 09:07 DULLW                                           
+ Tigec            %<=0.12   Ver 11/09/21 09:07 DULLW   %S        Ver 11/09/21 09:07 DULLW                                           
+ Nitro            %32       Ver 11/09/21 09:07 DULLW   %S        Ver 11/09/21 09:07 DULLW                                           
+ Rif              %<=0.5    Ver 11/09/21 09:07 DULLW   %S        Ver 11/09/21 09:07 DULLW                                           
+ SXT              %<=10     Ver 11/09/21 09:07 DULLW   S         Ver 11/09/21 09:07 DULLW                                           
+ 11/10/21 12:06 DULLW      ETEST         Organism: MRSA      Panel: Dap         ID#:                                                
+                  E Test Dilution                      E Test Interpretation                                                        
+ Dap              0.5       Ver 11/10/21 12:06 DULLW   S         Ver 11/10/21 12:06 DULLW                                           
+
+                                                                                                                                   
+  Date: 11/17/21 08:56:07                     Microbiology Detailed Line Listing Report                     Id: GUNOSKEJ            
+  Sequence: HUP Micro Detailed Line Listing                                                                 Page:   9               
+ =========================================================================================================================          
+ Name: Hong, Soon K                                                Provider:     Barta, Stefan Klaus MD                             
+ MRN/Age/Sex:  445406424 HUP/69 years/Female                       Admit Date: 11/08/21 11:58                                       
+ Enc Type: (I) Inpatient                                           Discharge Date:                                                  
+ Location: HUP/HUP/HECL HUPPavCath/PP/616                                                                                           
+-------------------------------------------------------------------------------------------------------------------------           
+ Procedure:  C UC                                   Source: Urine                           Collect Date: 11/08/21 17:12            
+ Accession:  21-312-09862                           Body Site:                              Receive Date: 11/08/21 21:48            
+ Serv Res: HUP Micro UR/ST                          Ft Source:                              Start Date:   11/08/21 21:48            
+ Order Location: HUP/ER                             Antibiotics:                            Pathogens:                              
+-------------------------------------------------------------------------------------------------------------------------           
+ Date Time      Tech     # Task          Results                                                                                    
+ -------------------------------------------------------------------------------------------------------------------------          
+ 11/11/21 08:50 ANDREACK   Amend                                                                                                    
+                           10,000 - 49,000 CFU/ml Methicillin-Resistant Staphylococcus aureus                                       
+ 11/11/21 08:49 ANDREACK   MIC           Organism: MRSA      Panel: GP67        ID#: 21312098621                                    
+                  MIC Dilution                         MIC Interpretation                                                           
+ Amp-sul          %xxx      Ver 11/11/21 08:49 ANDREA  R         Ver 11/11/21 08:49 ANDREA                                          
+ Cefazolin        %xxx      Ver 11/11/21 08:49 ANDREA  R         Ver 11/11/21 08:49 ANDREA                                          
+ Cefoxitin-screen %Pos      Ver 11/11/21 08:49 ANDREA  %Pos      Ver 11/11/21 08:49 ANDREA                                          
+ Pen              %>=0.5    Ver 11/11/21 08:49 ANDREA  R         Ver 11/11/21 08:49 ANDREA                                          
+ Ox               %>=4      Ver 11/11/21 08:49 ANDREA  R         Ver 11/11/21 08:49 ANDREA                                          
+ Gent             %<=0.5    Ver 11/11/21 08:49 ANDREA  %S        Ver 11/11/21 08:49 ANDREA                                          
+ Cipro            %<=0.5    Ver 11/11/21 08:49 ANDREA  %S        Ver 11/11/21 08:49 ANDREA                                          
+ Levo             %0.25     Ver 11/11/21 08:49 ANDREA  S         Ver 11/11/21 08:49 ANDREA                                          
+ Moxi             %<=0.25   Ver 11/11/21 08:49 ANDREA  %S        Ver 11/11/21 08:49 ANDREA                                          
+ Clinda-R         %Pos      Ver 11/11/21 08:49 ANDREA  %Pos      Ver 11/11/21 08:49 ANDREA                                          
+ Eryth            %>=8      Ver 11/11/21 08:49 ANDREA  %R        Ver 11/11/21 08:49 ANDREA                                          
+ Clinda           %<=0.25   Ver 11/11/21 08:49 ANDREA  %R        Ver 11/11/21 08:49 ANDREA                                          
+ Quin-dal         %<=0.25   Ver 11/11/21 08:49 ANDREA  %S        Ver 11/11/21 08:49 ANDREA                                          
+ Linezolid        %2        Ver 11/11/21 08:49 ANDREA  %xxx      Ver 11/11/21 08:49 ANDREA                                          
+ Vanc             %<=0.5    Ver 11/11/21 08:49 ANDREA  S         Ver 11/11/21 08:49 ANDREA                                          
+ Tetra            %<=1      Ver 11/11/21 08:49 ANDREA  %S        Ver 11/11/21 08:49 ANDREA                                          
+ Tigec            %<=0.12   Ver 11/11/21 08:49 ANDREA  %S        Ver 11/11/21 08:49 ANDREA                                          
+ Nitro            %<=16     Ver 11/11/21 08:49 ANDREA  S         Ver 11/11/21 08:49 ANDREA                                          
+ Rif              %<=0.5    Ver 11/11/21 08:49 ANDREA  %S        Ver 11/11/21 08:49 ANDREA                                          
+ SXT              %<=10     Ver 11/11/21 08:49 ANDREA  S         Ver 11/11/21 08:49 ANDREA                                          
+ =========================================================================================================================          
+ Name: Hong, Soon K                                                Provider:     Barta, Stefan Klaus MD                             
+ MRN/Age/Sex:  445406424 HUP/69 years/Female                       Admit Date: 11/08/21 11:58                                       
+ Enc Type: (I) Inpatient                                           Discharge Date:                                                  
+ Location: HUP/HUP/HECL HUPPavCath/PP/616                                                                                           
+-------------------------------------------------------------------------------------------------------------------------           
+ Procedure:  C BC                                   Source: BL P                            Collect Date: 11/08/21 12:20            
+ Accession:  21-312-09864                           Body Site:                              Receive Date: 11/08/21 13:42            
+ Serv Res: HUP Bactec 1                             Ft Source:                              Start Date:   11/08/21 13:42            
+ Order Location: HUP/ER                             Antibiotics:                            Pathogens:                              
+-------------------------------------------------------------------------------------------------------------------------           
+ Date Time      Tech     # Task          Results                                                                                    
+ -------------------------------------------------------------------------------------------------------------------------          
+ 11/09/21 01:45 BRAVOB     GS Cult#2                                                                                                
+                           Gram Positive Cocci From Both Vials                                                                      
+                           Initial Positive Results Phoned To And Readback By: Brookes, Peter J, PA-C  11/09/2021 01:45             
+                           Telephone Notification Is Made For First-time Positive Cultures Only.  Multiple Blood                    
+                           Cultures With The Same Organism Will Not Be Phoned Unless Greater Than 4 Days Have Elapsed               
+                           Since The Initial Notification Was Made.                                                                 
+
+                                                                                                                                   
+  Date: 11/17/21 08:56:07                     Microbiology Detailed Line Listing Report                     Id: GUNOSKEJ            
+  Sequence: HUP Micro Detailed Line Listing                                                                 Page:  10               
+ =========================================================================================================================          
+ Name: Hong, Soon K                   Accession:  21-312-09864             Procedure:C BC                                           
+-------------------------------------------------------------------------------------------------------------------------           
+ Date Time      Tech     # Task          Results                                                                                    
+-------------------------------------------------------------------------------------------------------------------------           
+ 11/11/21 11:23 LOUKI      Final                                                                                                    
+                           Methicillin-Resistant Staphylococcus aureus detected by molecular assay.                                 
+                           Methicillin-Resistant Staphylococcus aureus From Both Vials Confirmed by culture.                        
+                           Staphylococcus aureus bacteremia is associated with significant morbidity and mortality.                 
+                           Infectious Diseases consultation is recommended.                                                         
+ 11/11/21 08:50 ANDREACK   MIC           Organism: MRSA      Panel: GP67        ID#: 21312098641                                    
+                  MIC Dilution                         MIC Interpretation                                                           
+ Amp-sul          %xxx      Ver 11/11/21 08:50 ANDREA  R         Ver 11/11/21 08:50 ANDREA                                          
+ Cefazolin        %xxx      Ver 11/11/21 08:50 ANDREA  R         Ver 11/11/21 08:50 ANDREA                                          
+ Cefoxitin-screen %Pos      Ver 11/11/21 08:50 ANDREA  %Pos      Ver 11/11/21 08:50 ANDREA                                          
+ Pen              %0.25     Ver 11/11/21 08:50 ANDREA  R         Ver 11/11/21 08:50 ANDREA                                          
+ Ox               %>=4      Ver 11/11/21 08:50 ANDREA  R         Ver 11/11/21 08:50 ANDREA                                          
+ Gent             %<=0.5    Ver 11/11/21 08:50 ANDREA  %S        Ver 11/11/21 08:50 ANDREA                                          
+ Cipro            %<=0.5    Ver 11/11/21 08:50 ANDREA  %S        Ver 11/11/21 08:50 ANDREA                                          
+ Levo             %0.25     Ver 11/11/21 08:50 ANDREA  %S        Ver 11/11/21 08:50 ANDREA                                          
+ Moxi             %<=0.25   Ver 11/11/21 08:50 ANDREA  %S        Ver 11/11/21 08:50 ANDREA                                          
+ Clinda-R         %Pos      Ver 11/11/21 08:50 ANDREA  %Pos      Ver 11/11/21 08:50 ANDREA                                          
+ Eryth            %>=8      Ver 11/11/21 08:50 ANDREA  %R        Ver 11/11/21 08:50 ANDREA                                          
+ Clinda           %<=0.25   Ver 11/11/21 08:50 ANDREA  %R        Ver 11/11/21 08:50 ANDREA                                          
+ Quin-dal         %<=0.25   Ver 11/11/21 08:50 ANDREA  %S        Ver 11/11/21 08:50 ANDREA                                          
+ Linezolid        %2        Ver 11/11/21 08:50 ANDREA  %xxx      Ver 11/11/21 08:50 ANDREA                                          
+ Vanc             %<=0.5    Ver 11/11/21 08:50 ANDREA  S         Ver 11/11/21 08:50 ANDREA                                          
+ Tetra            %<=1      Ver 11/11/21 08:50 ANDREA  %S        Ver 11/11/21 08:50 ANDREA                                          
+ Tigec            %<=0.12   Ver 11/11/21 08:50 ANDREA  %S        Ver 11/11/21 08:50 ANDREA                                          
+ Nitro            %<=16     Ver 11/11/21 08:50 ANDREA  %S        Ver 11/11/21 08:50 ANDREA                                          
+ Rif              %<=0.5    Ver 11/11/21 08:50 ANDREA  %S        Ver 11/11/21 08:50 ANDREA                                          
+ SXT              %<=10     Ver 11/11/21 08:50 ANDREA  S         Ver 11/11/21 08:50 ANDREA                                          
+ 11/11/21 11:02 ANDREACK   ETEST         Organism: MRSA      Panel: Dap         ID#:                                                
+                  E Test Dilution                      E Test Interpretation                                                        
+ Dap              0.125     Ver 11/11/21 11:02 ANDREA  S         Ver 11/11/21 11:02 ANDREA                                          
+ =========================================================================================================================          
+ Name: Hunsicker, Thomas                                           Provider:     Brennan, Traci Lynne CRNP                          
+ MRN/Age/Sex:  453604597 HUP/47 years/Male                         Admit Date: 11/08/21 15:07                                       
+ Enc Type: (N) No Phlebotomy Client-CCA                            Discharge Date:                                                  
+ Location: CCA ROYM Royer/CCA ROYM Royer/CCA ROYM Royers                                                                            
+-------------------------------------------------------------------------------------------------------------------------           
+ Procedure:  C ROUTINE                              Source: Abscess                         Collect Date: 11/08/21 15:07            
+ Accession:  21-312-14028                           Body Site:                              Receive Date: 11/09/21 00:42            
+ Serv Res: HUP Micro Wound                          Ft Source:                              Start Date:   11/09/21 00:42            
+ Order Location: CCA ROYM Royer/CCA ROYM Royers     Antibiotics:                            Pathogens:                              
+-------------------------------------------------------------------------------------------------------------------------           
+ Date Time      Tech     # Task          Results                                                                                    
+ -------------------------------------------------------------------------------------------------------------------------          
+ 11/09/21 07:51 DULLW      GS                                                                                                       
+                           Gram Stain Result:                                                                                       
+                           Many Gram Positive Cocci                                                                                 
+                           Rare White Blood Cells                                                                                   
+ 11/11/21 08:41 FERNANR    Final                                                                                                    
+                           Moderate Methicillin-Resistant Staphylococcus aureus                                                     
+ 11/12/21 07:56 ANDREACK   KB-Check      Organism: MRSA      Panel: Dtest       ID#:                                                
+                  Kirby-Bauer Zone Size                Check Kirby-Bauer Interpretation                                             
+ Dtest            %40mm     Ver 11/12/21 07:56 ANDREA  %NEG-     Ver 11/12/21 07:56 ANDREA                                          
+                                                             Panel: GP67-check  ID#:                                                
+
+                                                                                                                                   
+  Date: 11/17/21 08:56:07                     Microbiology Detailed Line Listing Report                     Id: GUNOSKEJ            
+  Sequence: HUP Micro Detailed Line Listing                                                                 Page:  11               
+ =========================================================================================================================          
+ Name: Hunsicker, Thomas              Accession:  21-312-14028             Procedure:C ROUTINE                                      
+-------------------------------------------------------------------------------------------------------------------------           
+ Date Time      Tech     # Task          Results                                                                                    
+-------------------------------------------------------------------------------------------------------------------------           
+                  Kirby-Bauer Zone Size                Check Kirby-Bauer Interpretation                                             
+ Clinda           %22mm     Ver 11/12/21 07:56 ANDREA  %S        Ver 11/12/21 07:56 ANDREA                                          
+ Eryth            %16mm     Ver 11/12/21 07:56 ANDREA  %I        Ver 11/12/21 07:56 ANDREA                                          
+ Cefoxitin        %7mm      Ver 11/12/21 07:56 ANDREA  %xxx      Ver 11/12/21 07:56 ANDREA                                          
+ 11/12/21 07:56 ANDREACK   MIC           Organism: MRSA      Panel: GP67        ID#: 21312140281                                    
+                  MIC Dilution                         MIC Interpretation                                                           
+ Amp-sul          %xxx      Ver 11/11/21 07:16 ANDREA  R         Ver 11/11/21 07:16 ANDREA                                          
+ Cefazolin        %xxx      Ver 11/11/21 07:16 ANDREA  R         Ver 11/11/21 07:16 ANDREA                                          
+ Cefoxitin-screen %Pos      Ver 11/11/21 07:16 ANDREA  %Pos      Ver 11/11/21 07:16 ANDREA                                          
+ Pen              %>=0.5    Ver 11/11/21 07:16 ANDREA  R         Ver 11/11/21 07:16 ANDREA                                          
+ Ox               %>=4      Ver 11/11/21 07:16 ANDREA  R         Ver 11/11/21 07:16 ANDREA                                          
+ Gent             %<=0.5    Ver 11/11/21 07:16 ANDREA  %S        Ver 11/11/21 07:16 ANDREA                                          
+ Cipro            %>=8      Ver 11/11/21 07:16 ANDREA  %R        Ver 11/11/21 07:16 ANDREA                                          
+ Levo             %4        Ver 11/11/21 07:16 ANDREA  %R        Ver 11/11/21 07:16 ANDREA                                          
+ Moxi             %1        Ver 11/11/21 07:16 ANDREA  %I        Ver 11/11/21 07:16 ANDREA                                          
+ Clinda-R         %Neg      Ver 11/11/21 07:16 ANDREA  %Neg      Ver 11/11/21 07:16 ANDREA                                          
+ Eryth            %1        Ver 11/11/21 07:16 ANDREA  I         Ver 11/12/21 07:56 ANDREA                                          
+ Clinda           %<=0.25   Ver 11/11/21 07:16 ANDREA  S         Ver 11/12/21 07:56 ANDREA                                          
+ Quin-dal         %<=0.25   Ver 11/11/21 07:16 ANDREA  %S        Ver 11/11/21 07:16 ANDREA                                          
+ Linezolid        %2        Ver 11/11/21 07:16 ANDREA  %xxx      Ver 11/11/21 07:16 ANDREA                                          
+ Vanc             %1        Ver 11/11/21 07:16 ANDREA  S         Ver 11/11/21 07:16 ANDREA                                          
+ Tetra            %<=1      Ver 11/11/21 07:16 ANDREA  S         Ver 11/11/21 07:16 ANDREA                                          
+ Tigec            %<=0.12   Ver 11/11/21 07:16 ANDREA  %S        Ver 11/11/21 07:16 ANDREA                                          
+ Nitro            %<=16     Ver 11/11/21 07:16 ANDREA  %S        Ver 11/11/21 07:16 ANDREA                                          
+ Rif              %<=0.5    Ver 11/11/21 07:16 ANDREA  %S        Ver 11/11/21 07:16 ANDREA                                          
+ SXT              %<=10     Ver 11/11/21 07:16 ANDREA  S         Ver 11/11/21 07:16 ANDREA                                          
+ =========================================================================================================================          
+ Name: Kirk JR., Donald C                                          Provider:     Karakousis, Giorgos C MD                           
+ MRN/Age/Sex:  013412390 HUP/72 years/Male                         Admit Date: 11/09/21 18:09                                       
+ Enc Type: (H) Hemonc                                              Discharge Date:                                                  
+ Location: HUP/HUP/PCS3 SurgCncr3                                                                                                   
+-------------------------------------------------------------------------------------------------------------------------           
+ Procedure:  C ROUTINE                              Source: Fluid                           Collect Date: 11/09/21 18:09            
+ Accession:  21-313-17077                           Body Site:                              Receive Date: 11/09/21 18:22            
+ Serv Res: HUP Micro Wound                          Ft Source:                              Start Date:   11/09/21 18:22            
+ Order Location: HUP/PCS3 SurgCncr3                 Antibiotics:                            Pathogens:                              
+-------------------------------------------------------------------------------------------------------------------------           
+ Date Time      Tech     # Task          Results                                                                                    
+ -------------------------------------------------------------------------------------------------------------------------          
+ 11/10/21 01:12 DAGADZIK   GS                                                                                                       
+                           Gram Stain Result:                                                                                       
+                           Moderate Gram Positive Cocci                                                                             
+                           No White Blood Cells                                                                                     
+ 11/11/21 10:38 FERNANR    Final                                                                                                    
+                           Moderate Methicillin-Resistant Staphylococcus aureus                                                     
+ 11/11/21 09:22 ANDREACK   MIC           Organism: MRSA      Panel: GP67        ID#: 21313170771                                    
+                  MIC Dilution                         MIC Interpretation                                                           
+ Amp-sul          %xxx      Ver 11/11/21 09:22 ANDREA  R         Ver 11/11/21 09:22 ANDREA                                          
+ Cefazolin        %xxx      Ver 11/11/21 09:22 ANDREA  R         Ver 11/11/21 09:22 ANDREA                                          
+ Cefoxitin-screen %Pos      Ver 11/11/21 09:22 ANDREA  %Pos      Ver 11/11/21 09:22 ANDREA                                          
+ Pen              %>=0.5    Ver 11/11/21 09:22 ANDREA  R         Ver 11/11/21 09:22 ANDREA                                          
+ Ox               %>=4      Ver 11/11/21 09:22 ANDREA  R         Ver 11/11/21 09:22 ANDREA                                          
+
+                                                                                                                                   
+  Date: 11/17/21 08:56:07                     Microbiology Detailed Line Listing Report                     Id: GUNOSKEJ            
+  Sequence: HUP Micro Detailed Line Listing                                                                 Page:  12               
+ =========================================================================================================================          
+ Name: Kirk JR., Donald C             Accession:  21-313-17077             Procedure:C ROUTINE                                      
+-------------------------------------------------------------------------------------------------------------------------           
+ Date Time      Tech     # Task          Results                                                                                    
+-------------------------------------------------------------------------------------------------------------------------           
+ 11/11/21 09:22 ANDREACK   MIC           MRSA                Panel: GP67        ID#: 21313170771                                    
+                  MIC Dilution                         MIC Interpretation                                                           
+ Gent             %<=0.5    Ver 11/11/21 09:22 ANDREA  %S        Ver 11/11/21 09:22 ANDREA                                          
+ Cipro            %>=8      Ver 11/11/21 09:22 ANDREA  %R        Ver 11/11/21 09:22 ANDREA                                          
+ Levo             %>=8      Ver 11/11/21 09:22 ANDREA  %R        Ver 11/11/21 09:22 ANDREA                                          
+ Moxi             %>=8      Ver 11/11/21 09:22 ANDREA  %R        Ver 11/11/21 09:22 ANDREA                                          
+ Clinda-R         %Pos      Ver 11/11/21 09:22 ANDREA  %Pos      Ver 11/11/21 09:22 ANDREA                                          
+ Eryth            %>=8      Ver 11/11/21 09:22 ANDREA  %R        Ver 11/11/21 09:22 ANDREA                                          
+ Clinda           %<=0.25   Ver 11/11/21 09:22 ANDREA  %R        Ver 11/11/21 09:22 ANDREA                                          
+ Quin-dal         %<=0.25   Ver 11/11/21 09:22 ANDREA  %S        Ver 11/11/21 09:22 ANDREA                                          
+ Linezolid        %2        Ver 11/11/21 09:22 ANDREA  %xxx      Ver 11/11/21 09:22 ANDREA                                          
+ Vanc             %<=0.5    Ver 11/11/21 09:22 ANDREA  S         Ver 11/11/21 09:22 ANDREA                                          
+ Tetra            %<=1      Ver 11/11/21 09:22 ANDREA  %S        Ver 11/11/21 09:22 ANDREA                                          
+ Tigec            %<=0.12   Ver 11/11/21 09:22 ANDREA  %S        Ver 11/11/21 09:22 ANDREA                                          
+ Nitro            %<=16     Ver 11/11/21 09:22 ANDREA  %S        Ver 11/11/21 09:22 ANDREA                                          
+ Rif              %<=0.5    Ver 11/11/21 09:22 ANDREA  %S        Ver 11/11/21 09:22 ANDREA                                          
+ SXT              %<=10     Ver 11/11/21 09:22 ANDREA  S         Ver 11/11/21 09:22 ANDREA                                          
+ =========================================================================================================================          
+ Name: Klugmann, Gabriel                                           Provider:     Patel, Neha N MD                                   
+ MRN/Age/Sex:  470647595 HUP/69 years/Male                         Admit Date: 10/17/21 18:13                                       
+ Enc Type: (I) Inpatient                                           Discharge Date:                                                  
+ Location: HUP/HUP/FP12/1283/A                                                                                                      
+-------------------------------------------------------------------------------------------------------------------------           
+ Procedure:  C TISS                                 Source: Skin                            Collect Date: 11/05/21 16:41            
+ Accession:  21-309-13624                           Body Site:                              Receive Date: 11/05/21 17:24            
+ Serv Res: HUP Micro Wound                          Ft Source: SKIN Bilateral sacral ulcer SStart Date:   11/05/21 17:24            
+ Order Location: HUP/DL4N Dulles 4 N                Antibiotics:                            Pathogens:                              
+-------------------------------------------------------------------------------------------------------------------------           
+ Date Time      Tech     # Task          Results                                                                                    
+ -------------------------------------------------------------------------------------------------------------------------          
+ 11/05/21 22:24 BERGMANA   GS                                                                                                       
+                           Gram Stain Result:                                                                                       
+                           Many Gram Negative Rods                                                                                  
+                           Rare Gram Positive Cocci                                                                                 
+                           Moderate Gram Positive Rods                                                                              
+                           Moderate White Blood Cells                                                                               
+ 11/09/21 10:29 KEPNERK    Amend#2                                                                                                  
+                           Rare Methicillin-Resistant Staphylococcus aureus                                                         
+                           Few Enterococcus faecalis Susceptibility results for this isolate are generally available                
+                           within 24 hours.                                                                                         
+                           Rare Citrobacter freundii complex Susceptibility results for this isolate are generally                  
+                           available within 24 hours.                                                                               
+                           Many Lactobacillus species , Susceptibilities Are Not Performed This Organism Is                         
+                           Intrinsically Resistant To Vancomycin.                                                                   
+ 11/09/21 08:58 DULLW      MIC           Organism: MRSA      Panel: GP67        ID#: 21309136241                                    
+                  MIC Dilution                         MIC Interpretation                                                           
+ Amp-sul          %xxx      Ver 11/09/21 08:58 DULLW   R         Ver 11/09/21 08:58 DULLW                                           
+ Cefazolin        %xxx      Ver 11/09/21 08:58 DULLW   R         Ver 11/09/21 08:58 DULLW                                           
+ Cefoxitin-screen %Pos      Ver 11/09/21 08:58 DULLW   %Pos      Ver 11/09/21 08:58 DULLW                                           
+ Pen              %>=0.5    Ver 11/09/21 08:58 DULLW   R         Ver 11/09/21 08:58 DULLW                                           
+ Ox               %>=4      Ver 11/09/21 08:58 DULLW   R         Ver 11/09/21 08:58 DULLW                                           
+ Gent             %<=0.5    Ver 11/09/21 08:58 DULLW   %S        Ver 11/09/21 08:58 DULLW                                           
+
+                                                                                                                                   
+  Date: 11/17/21 08:56:07                     Microbiology Detailed Line Listing Report                     Id: GUNOSKEJ            
+  Sequence: HUP Micro Detailed Line Listing                                                                 Page:  13               
+ =========================================================================================================================          
+ Name: Klugmann, Gabriel              Accession:  21-309-13624             Procedure:C TISS                                         
+-------------------------------------------------------------------------------------------------------------------------           
+ Date Time      Tech     # Task          Results                                                                                    
+-------------------------------------------------------------------------------------------------------------------------           
+ 11/09/21 08:58 DULLW      MIC           MRSA                Panel: GP67        ID#: 21309136241                                    
+                  MIC Dilution                         MIC Interpretation                                                           
+ Cipro            %>=8      Ver 11/09/21 08:58 DULLW   %R        Ver 11/09/21 08:58 DULLW                                           
+ Levo             %>=8      Ver 11/09/21 08:58 DULLW   %R        Ver 11/09/21 08:58 DULLW                                           
+ Moxi             %4        Ver 11/09/21 08:58 DULLW   %R        Ver 11/09/21 08:58 DULLW                                           
+ Clinda-R         %Neg      Ver 11/09/21 08:58 DULLW   %Neg      Ver 11/09/21 08:58 DULLW                                           
+ Eryth            %>=8      Ver 11/09/21 08:58 DULLW   R         Ver 11/09/21 08:58 DULLW                                           
+ Clinda           %<=0.25   Ver 11/09/21 08:58 DULLW   S         Ver 11/09/21 08:58 DULLW                                           
+ Quin-dal         %<=0.25   Ver 11/09/21 08:58 DULLW   %S        Ver 11/09/21 08:58 DULLW                                           
+ Linezolid        %2        Ver 11/09/21 08:58 DULLW   %xxx      Ver 11/09/21 08:58 DULLW                                           
+ Vanc             %1        Ver 11/09/21 08:58 DULLW   S         Ver 11/09/21 08:58 DULLW                                           
+ Tetra            %>=16     Ver 11/09/21 08:58 DULLW   R         Ver 11/09/21 08:58 DULLW                                           
+ Tigec            %<=0.12   Ver 11/09/21 08:58 DULLW   %S        Ver 11/09/21 08:58 DULLW                                           
+ Nitro            %32       Ver 11/09/21 08:58 DULLW   %S        Ver 11/09/21 08:58 DULLW                                           
+ Rif              %<=0.5    Ver 11/09/21 08:58 DULLW   %S        Ver 11/09/21 08:58 DULLW                                           
+ SXT              %<=10     Ver 11/09/21 08:58 DULLW   S         Ver 11/09/21 08:58 DULLW                                           
+ 11/10/21 08:57 DULLW      MIC           Organism: Citfre    Panel: GN81        ID#: 21309136242                                    
+                  MIC Dilution                         MIC Interpretation                                                           
+ Amp              %4        Ver 11/10/21 08:57 DULLW   R         Ver 11/10/21 08:57 DULLW                                           
+ Amox-clav        %4        Ver 11/10/21 08:57 DULLW   R         Ver 11/10/21 08:57 DULLW                                           
+ Pip-tazo         %<=4      Ver 11/10/21 08:57 DULLW   S         Ver 11/10/21 08:57 DULLW                                           
+ Cefazolin        %>=64     Ver 11/10/21 08:57 DULLW   R         Ver 11/10/21 08:57 DULLW                                           
+ Cefoxitin        %16       Ver 11/10/21 08:57 DULLW   %R        Ver 11/10/21 08:57 DULLW                                           
+ Ceftazidime      %<=1      Ver 11/10/21 08:57 DULLW   S         Ver 11/10/21 08:57 DULLW                                           
+ Ceftriaxone      %<=1      Ver 11/10/21 08:57 DULLW   S         Ver 11/10/21 08:57 DULLW                                           
+ Cefepime         %<=1      Ver 11/10/21 08:57 DULLW   S         Ver 11/10/21 08:57 DULLW                                           
+ Ertapenem        %<=0.5    Ver 11/10/21 08:57 DULLW   %S        Ver 11/10/21 08:57 DULLW                                           
+ Meropenem        %<=0.25   Ver 11/10/21 08:57 DULLW   S         Ver 11/10/21 08:57 DULLW                                           
+ Amik             %<=2      Ver 11/10/21 08:57 DULLW   S         Ver 11/10/21 08:57 DULLW                                           
+ Gent             %<=1      Ver 11/10/21 08:57 DULLW   S         Ver 11/10/21 08:57 DULLW                                           
+ Tobra            %<=1      Ver 11/10/21 08:57 DULLW   S         Ver 11/10/21 08:57 DULLW                                           
+ Cipro            %<=0.25   Ver 11/10/21 08:57 DULLW   %S        Ver 11/10/21 08:57 DULLW                                           
+ Levo             %<=0.12   Ver 11/10/21 08:57 DULLW   S         Ver 11/10/21 08:57 DULLW                                           
+ Tetra            %<=1      Ver 11/10/21 08:57 DULLW   %S        Ver 11/10/21 08:57 DULLW                                           
+ Nitro            %32       Ver 11/10/21 08:57 DULLW   %S        Ver 11/10/21 08:57 DULLW                                           
+ SXT              %<=20     Ver 11/10/21 08:57 DULLW   S         Ver 11/10/21 08:57 DULLW                                           
+ 11/09/21 08:59 DULLW      MIC           Organism: Entfaeca  Panel: ECOC        ID#: 21309136244                                    
+                  MIC Dilution                         MIC Interpretation                                                           
+ Amp              %<=2      Ver 11/09/21 08:59 DULLW   S         Ver 11/09/21 08:59 DULLW                                           
+ Eryth            %>=8      Ver 11/09/21 08:59 DULLW   %R        Ver 11/09/21 08:59 DULLW                                           
+ Gent-HL          %Syn-R    Ver 11/09/21 08:59 DULLW   %R        Ver 11/09/21 08:59 DULLW                                           
+ Levo             %>=8      Ver 11/09/21 08:59 DULLW   %R        Ver 11/09/21 08:59 DULLW                                           
+ Linezolid        %1        Ver 11/09/21 08:59 DULLW   %S        Ver 11/09/21 08:59 DULLW                                           
+ Nitro            %<=16     Ver 11/09/21 08:59 DULLW   %S        Ver 11/09/21 08:59 DULLW                                           
+ Pen              %8        Ver 11/09/21 08:59 DULLW   %S        Ver 11/09/21 08:59 DULLW                                           
+ Quin-dal         %4        Ver 11/09/21 08:59 DULLW   %xxx      Ver 11/09/21 08:59 DULLW                                           
+ Strep-HL         %Syn-S    Ver 11/09/21 08:59 DULLW   %S        Ver 11/09/21 08:59 DULLW                                           
+ Tetra            %>=16     Ver 11/09/21 08:59 DULLW   %R        Ver 11/09/21 08:59 DULLW                                           
+ Vanc             %1        Ver 11/09/21 08:59 DULLW   S         Ver 11/09/21 08:59 DULLW                                           
+
+                                                                                                                                   
+  Date: 11/17/21 08:56:07                     Microbiology Detailed Line Listing Report                     Id: GUNOSKEJ            
+  Sequence: HUP Micro Detailed Line Listing                                                                 Page:  14               
+ =========================================================================================================================          
+ Name: Komorowski, Kelli                                           Provider:     Mirza, Natasha MD                                  
+ MRN/Age/Sex:  467757001 HUP/43 years/Female                       Admit Date: 11/11/21 11:04                                       
+ Enc Type: _(O) Outpatient                                         Discharge Date: 11/11/21 15:50                                   
+ Location: HUP/HUP/CAMS Perelmn3SC                                                                                                  
+-------------------------------------------------------------------------------------------------------------------------           
+ Procedure:  C RESP                                 Source: Bronchial                       Collect Date: 11/11/21 14:50            
+ Accession:  21-315-13104                           Body Site:                              Receive Date: 11/11/21 16:18            
+ Serv Res: HUP Micro Resp                           Ft Source: Lung  BRONCHIAL              Start Date:   11/11/21 15:39            
+ Order Location: HUP/CAMS Perelmn3SC                Antibiotics:                            Pathogens:                              
+-------------------------------------------------------------------------------------------------------------------------           
+ Date Time      Tech     # Task          Results                                                                                    
+ -------------------------------------------------------------------------------------------------------------------------          
+ 11/11/21 17:49 MAHOA      GS                                                                                                       
+                           Gram Stain Result:                                                                                       
+                           Moderate Gram Positive Cocci                                                                             
+                           Rare Gram Positive Rods                                                                                  
+                           Moderate Polymorphonuclear Leukocytes                                                                    
+ 11/13/21 09:31 DULLW      Amend                                                                                                    
+                           Many Methicillin-Resistant Staphylococcus aureus                                                         
+ 11/13/21 09:31 DULLW      MIC           Organism: MRSA      Panel: GP67        ID#: 21315131041                                    
+                  MIC Dilution                         MIC Interpretation                                                           
+ Amp-sul          %xxx      Ver 11/13/21 09:31 DULLW   R         Ver 11/13/21 09:31 DULLW                                           
+ Cefazolin        %xxx      Ver 11/13/21 09:31 DULLW   R         Ver 11/13/21 09:31 DULLW                                           
+ Cefoxitin-screen %Pos      Ver 11/13/21 09:31 DULLW   %Pos      Ver 11/13/21 09:31 DULLW                                           
+ Pen              %>=0.5    Ver 11/13/21 09:31 DULLW   R         Ver 11/13/21 09:31 DULLW                                           
+ Ox               %>=4      Ver 11/13/21 09:31 DULLW   R         Ver 11/13/21 09:31 DULLW                                           
+ Gent             %<=0.5    Ver 11/13/21 09:31 DULLW   %S        Ver 11/13/21 09:31 DULLW                                           
+ Cipro            %>=8      Ver 11/13/21 09:31 DULLW   %R        Ver 11/13/21 09:31 DULLW                                           
+ Levo             %4        Ver 11/13/21 09:31 DULLW   %R        Ver 11/13/21 09:31 DULLW                                           
+ Moxi             %2        Ver 11/13/21 09:31 DULLW   %R        Ver 11/13/21 09:31 DULLW                                           
+ Clinda-R         %Neg      Ver 11/13/21 09:31 DULLW   %Neg      Ver 11/13/21 09:31 DULLW                                           
+ Eryth            %>=8      Ver 11/13/21 09:31 DULLW   R         Ver 11/13/21 09:31 DULLW                                           
+ Clinda           %<=0.25   Ver 11/13/21 09:31 DULLW   S         Ver 11/13/21 09:31 DULLW                                           
+ Quin-dal         %<=0.25   Ver 11/13/21 09:31 DULLW   %S        Ver 11/13/21 09:31 DULLW                                           
+ Linezolid        %2        Ver 11/13/21 09:31 DULLW   %xxx      Ver 11/13/21 09:31 DULLW                                           
+ Vanc             %<=0.5    Ver 11/13/21 09:31 DULLW   S         Ver 11/13/21 09:31 DULLW                                           
+ Tetra            %<=1      Ver 11/13/21 09:31 DULLW   S         Ver 11/13/21 09:31 DULLW                                           
+ Tigec            %<=0.12   Ver 11/13/21 09:31 DULLW   %S        Ver 11/13/21 09:31 DULLW                                           
+ Nitro            %<=16     Ver 11/13/21 09:31 DULLW   %S        Ver 11/13/21 09:31 DULLW                                           
+ Rif              %<=0.5    Ver 11/13/21 09:31 DULLW   %S        Ver 11/13/21 09:31 DULLW                                           
+ SXT              %<=10     Ver 11/13/21 09:31 DULLW   S         Ver 11/13/21 09:31 DULLW                                           
+ =========================================================================================================================          
+ Name: Lynch, Thomas                                               Provider:     Childs, Claiborne Bernard MD                       
+ MRN/Age/Sex:  352648547 PMC/45 years/Male                         Admit Date: 11/05/21 22:46                                       
+ Enc Type: (I) Inpatient                                           Discharge Date: 11/13/21 17:27                                   
+ Location: PPMC/PPMC CUPP/CP5S/C569/A                                                                                               
+-------------------------------------------------------------------------------------------------------------------------           
+ Procedure:  C ROUTINE                              Source: Abscess                         Collect Date: 11/07/21 12:40            
+ Accession:  21-311-06682                           Body Site: Neck                         Receive Date: 11/07/21 23:13            
+ Serv Res: HUP Micro Wound                          Ft Source: NECK - ABSCESS               Start Date:   11/07/21 23:13            
+ Order Location: PPMC/CP5S                          Antibiotics:                            Pathogens:                              
+-------------------------------------------------------------------------------------------------------------------------           
+ Date Time      Tech     # Task          Results                                                                                    
+ -------------------------------------------------------------------------------------------------------------------------          
+
+                                                                                                                                   
+  Date: 11/17/21 08:56:07                     Microbiology Detailed Line Listing Report                     Id: GUNOSKEJ            
+  Sequence: HUP Micro Detailed Line Listing                                                                 Page:  15               
+ =========================================================================================================================          
+ Name: Lynch, Thomas                  Accession:  21-311-06682             Procedure:C ROUTINE                                      
+-------------------------------------------------------------------------------------------------------------------------           
+ Date Time      Tech     # Task          Results                                                                                    
+-------------------------------------------------------------------------------------------------------------------------           
+ 11/08/21 10:29 JARGBAHH   Gram Stain                                                                                               
+                           Rare Gram Positive Cocci                                                                                 
+                           Rare White Blood Cells                                                                                   
+ 11/10/21 09:47 KEPNERK    Final                                                                                                    
+                           Few Methicillin-Resistant Staphylococcus aureus                                                          
+ 11/10/21 09:18 DULLW      MIC           Organism: MRSA      Panel: GP67        ID#: 21311066821                                    
+                  MIC Dilution                         MIC Interpretation                                                           
+ Amp-sul          %xxx      Ver 11/10/21 09:17 DULLW   R         Ver 11/10/21 09:17 DULLW                                           
+ Cefazolin        %xxx      Ver 11/10/21 09:17 DULLW   R         Ver 11/10/21 09:17 DULLW                                           
+ Cefoxitin-screen %Pos      Ver 11/10/21 09:17 DULLW   %Pos      Ver 11/10/21 09:17 DULLW                                           
+ Pen              %>=0.5    Ver 11/10/21 09:17 DULLW   R         Ver 11/10/21 09:17 DULLW                                           
+ Ox               %>=4      Ver 11/10/21 09:17 DULLW   R         Ver 11/10/21 09:17 DULLW                                           
+ Gent             %<=0.5    Ver 11/10/21 09:17 DULLW   %S        Ver 11/10/21 09:17 DULLW                                           
+ Cipro            %>=8      Ver 11/10/21 09:17 DULLW   %R        Ver 11/10/21 09:17 DULLW                                           
+ Levo             %4        Ver 11/10/21 09:17 DULLW   %R        Ver 11/10/21 09:17 DULLW                                           
+ Moxi             %2        Ver 11/10/21 09:17 DULLW   %R        Ver 11/10/21 09:17 DULLW                                           
+ Clinda-R         %Neg      Ver 11/10/21 09:17 DULLW   %Neg      Ver 11/10/21 09:17 DULLW                                           
+ Eryth            %>=8      Ver 11/10/21 09:17 DULLW   R         Ver 11/10/21 09:17 DULLW                                           
+ Clinda           %>=8      Ver 11/10/21 09:17 DULLW   R         Ver 11/10/21 09:17 DULLW                                           
+ Quin-dal         %<=0.25   Ver 11/10/21 09:17 DULLW   %S        Ver 11/10/21 09:17 DULLW                                           
+ Linezolid        %2        Ver 11/10/21 09:17 DULLW   %xxx      Ver 11/10/21 09:17 DULLW                                           
+ Vanc             %<=0.5    Ver 11/10/21 09:17 DULLW   S         Ver 11/10/21 09:17 DULLW                                           
+ Tetra            %<=1      Ver 11/10/21 09:17 DULLW   S         Ver 11/10/21 09:17 DULLW                                           
+ Tigec            %<=0.12   Ver 11/10/21 09:17 DULLW   %S        Ver 11/10/21 09:17 DULLW                                           
+ Nitro            %<=16     Ver 11/10/21 09:17 DULLW   %S        Ver 11/10/21 09:17 DULLW                                           
+ Rif              %<=0.5    Ver 11/10/21 09:17 DULLW   %S        Ver 11/10/21 09:17 DULLW                                           
+ SXT              %160      Ver 11/10/21 09:17 DULLW   %R        Ver 11/10/21 09:18 DULLW                                           
+ =========================================================================================================================          
+ Name: Lynch, Thomas                                               Provider:     Childs, Claiborne Bernard MD                       
+ MRN/Age/Sex:  352648547 PMC/45 years/Male                         Admit Date: 11/05/21 22:46                                       
+ Enc Type: (I) Inpatient                                           Discharge Date: 11/13/21 17:27                                   
+ Location: PPMC/PPMC CUPP/CP5S/C569/A                                                                                               
+-------------------------------------------------------------------------------------------------------------------------           
+ Procedure:  C BF                                   Source: Synov Fl                        Collect Date: 11/07/21 12:46            
+ Accession:  21-311-06551                           Body Site: Hip R                        Receive Date: 11/07/21 23:16            
+ Serv Res: HUP Micro Wound                          Ft Source: #1 - RIGHT HIP - SYNOVIAL FLUStart Date:   11/07/21 23:16            
+ Order Location: PPMC/CP5S                          Antibiotics:                            Pathogens:                              
+-------------------------------------------------------------------------------------------------------------------------           
+ Date Time      Tech     # Task          Results                                                                                    
+ -------------------------------------------------------------------------------------------------------------------------          
+ 11/08/21 00:38 MAHOA      Gram Stain                                                                                               
+                           No Bacteria Seen.                                                                                        
+                           Few Polymorphonuclear Leukocytes                                                                         
+ 11/12/21 08:24 CHAUHUON   Final                                                                                                    
+                           Few Methicillin-Resistant Staphylococcus aureus                                                          
+ 11/10/21 09:16 DULLW      MIC           Organism: MRSA      Panel: GP67        ID#: 21311065511                                    
+                  MIC Dilution                         MIC Interpretation                                                           
+ Amp-sul          %xxx      Ver 11/10/21 09:14 DULLW   R         Ver 11/10/21 09:14 DULLW                                           
+ Cefazolin        %xxx      Ver 11/10/21 09:14 DULLW   R         Ver 11/10/21 09:14 DULLW                                           
+ Cefoxitin-screen %Pos      Ver 11/10/21 09:14 DULLW   %Pos      Ver 11/10/21 09:14 DULLW                                           
+ Pen              %>=0.5    Ver 11/10/21 09:14 DULLW   R         Ver 11/10/21 09:14 DULLW                                           
+ Ox               %>=4      Ver 11/10/21 09:14 DULLW   R         Ver 11/10/21 09:14 DULLW                                           
+
+                                                                                                                                   
+  Date: 11/17/21 08:56:07                     Microbiology Detailed Line Listing Report                     Id: GUNOSKEJ            
+  Sequence: HUP Micro Detailed Line Listing                                                                 Page:  16               
+ =========================================================================================================================          
+ Name: Lynch, Thomas                  Accession:  21-311-06551             Procedure:C BF                                           
+-------------------------------------------------------------------------------------------------------------------------           
+ Date Time      Tech     # Task          Results                                                                                    
+-------------------------------------------------------------------------------------------------------------------------           
+ 11/10/21 09:16 DULLW      MIC           MRSA                Panel: GP67        ID#: 21311065511                                    
+                  MIC Dilution                         MIC Interpretation                                                           
+ Gent             %<=0.5    Ver 11/10/21 09:14 DULLW   %S        Ver 11/10/21 09:14 DULLW                                           
+ Cipro            %>=8      Ver 11/10/21 09:14 DULLW   %R        Ver 11/10/21 09:14 DULLW                                           
+ Levo             %4        Ver 11/10/21 09:14 DULLW   %R        Ver 11/10/21 09:14 DULLW                                           
+ Moxi             %1        Ver 11/10/21 09:14 DULLW   %I        Ver 11/10/21 09:14 DULLW                                           
+ Clinda-R         %Neg      Ver 11/10/21 09:14 DULLW   %Neg      Ver 11/10/21 09:14 DULLW                                           
+ Eryth            %>=8      Ver 11/10/21 09:14 DULLW   %R        Ver 11/10/21 09:14 DULLW                                           
+ Clinda           %>=8      Ver 11/10/21 09:14 DULLW   %R        Ver 11/10/21 09:14 DULLW                                           
+ Quin-dal         %<=0.25   Ver 11/10/21 09:14 DULLW   %S        Ver 11/10/21 09:14 DULLW                                           
+ Linezolid        %2        Ver 11/10/21 09:14 DULLW   %xxx      Ver 11/10/21 09:14 DULLW                                           
+ Vanc             %<=0.5    Ver 11/10/21 09:14 DULLW   S         Ver 11/10/21 09:14 DULLW                                           
+ Tetra            %<=1      Ver 11/10/21 09:14 DULLW   %S        Ver 11/10/21 09:14 DULLW                                           
+ Tigec            %<=0.12   Ver 11/10/21 09:14 DULLW   %S        Ver 11/10/21 09:14 DULLW                                           
+ Nitro            %<=16     Ver 11/10/21 09:14 DULLW   %S        Ver 11/10/21 09:14 DULLW                                           
+ Rif              %<=0.5    Ver 11/10/21 09:14 DULLW   %S        Ver 11/10/21 09:14 DULLW                                           
+ SXT              %160      Ver 11/10/21 09:14 DULLW   %R        Ver 11/10/21 09:16 DULLW                                           
+ =========================================================================================================================          
+ Name: Mills, Stephen                                              Provider:     Binkley, Mark D MD                                 
+ MRN/Age/Sex:  700039014 PMC/74 years/Male                         Admit Date: 11/08/21 23:49                                       
+ Enc Type: _(O) Outpatient                                         Discharge Date:                                                  
+ Location: PPMC/PPMC CUPP/WCUC Wound Care                                                                                           
+-------------------------------------------------------------------------------------------------------------------------           
+ Procedure:  C ROUTINE                              Source: Wound                           Collect Date: 11/08/21 23:49            
+ Accession:  21-312-19468                           Body Site: Leg R                        Receive Date: 11/09/21 11:18            
+ Serv Res: HUP Micro Wound                          Ft Source:                              Start Date:   11/09/21 11:18            
+ Order Location: PPMC/WCUC Wound Care               Antibiotics:                            Pathogens:                              
+-------------------------------------------------------------------------------------------------------------------------           
+ Date Time      Tech     # Task          Results                                                                                    
+ -------------------------------------------------------------------------------------------------------------------------          
+ 11/09/21 15:36 ROSTIM     GS                                                                                                       
+                           Gram Stain Result:                                                                                       
+                           No White Blood Cells Seen                                                                                
+                           Few Gram Positive Cocci                                                                                  
+ 11/13/21 08:58 DULLW      Amend                                                                                                    
+                           Many Methicillin-Resistant Staphylococcus aureus                                                         
+                           Many Pseudomonas aeruginosa                                                                              
+                           Many Streptococcus agalactiae (Group B) , Susceptibilities Are Not Performed                             
+ 11/13/21 08:57 DULLW      MIC           Organism: MRSA      Panel: GP67        ID#: 21312194681                                    
+                  MIC Dilution                         MIC Interpretation                                                           
+ Amp-sul          %xxx      Ver 11/13/21 08:57 DULLW   R         Ver 11/13/21 08:57 DULLW                                           
+ Cefazolin        %xxx      Ver 11/13/21 08:57 DULLW   R         Ver 11/13/21 08:57 DULLW                                           
+ Cefoxitin-screen %Pos      Ver 11/13/21 08:57 DULLW   %Pos      Ver 11/13/21 08:57 DULLW                                           
+ Pen              %>=0.5    Ver 11/13/21 08:57 DULLW   R         Ver 11/13/21 08:57 DULLW                                           
+ Ox               %>=4      Ver 11/13/21 08:57 DULLW   R         Ver 11/13/21 08:57 DULLW                                           
+ Gent             %<=0.5    Ver 11/13/21 08:57 DULLW   %S        Ver 11/13/21 08:57 DULLW                                           
+ Cipro            %<=0.5    Ver 11/13/21 08:57 DULLW   %S        Ver 11/13/21 08:57 DULLW                                           
+ Levo             %<=0.12   Ver 11/13/21 08:57 DULLW   %S        Ver 11/13/21 08:57 DULLW                                           
+ Moxi             %<=0.25   Ver 11/13/21 08:57 DULLW   %S        Ver 11/13/21 08:57 DULLW                                           
+ Clinda-R         %Neg      Ver 11/13/21 08:57 DULLW   %Neg      Ver 11/13/21 08:57 DULLW                                           
+ Eryth            %>=8      Ver 11/13/21 08:57 DULLW   R         Ver 11/13/21 08:57 DULLW                                           
+ Clinda           %<=0.25   Ver 11/13/21 08:57 DULLW   S         Ver 11/13/21 08:57 DULLW                                           
+
+                                                                                                                                   
+  Date: 11/17/21 08:56:07                     Microbiology Detailed Line Listing Report                     Id: GUNOSKEJ            
+  Sequence: HUP Micro Detailed Line Listing                                                                 Page:  17               
+ =========================================================================================================================          
+ Name: Mills, Stephen                 Accession:  21-312-19468             Procedure:C ROUTINE                                      
+-------------------------------------------------------------------------------------------------------------------------           
+ Date Time      Tech     # Task          Results                                                                                    
+-------------------------------------------------------------------------------------------------------------------------           
+ 11/13/21 08:57 DULLW      MIC           MRSA                Panel: GP67        ID#: 21312194681                                    
+                  MIC Dilution                         MIC Interpretation                                                           
+ Quin-dal         %<=0.25   Ver 11/13/21 08:57 DULLW   %S        Ver 11/13/21 08:57 DULLW                                           
+ Linezolid        %2        Ver 11/13/21 08:57 DULLW   %xxx      Ver 11/13/21 08:57 DULLW                                           
+ Vanc             %<=0.5    Ver 11/13/21 08:57 DULLW   S         Ver 11/13/21 08:57 DULLW                                           
+ Tetra            %<=1      Ver 11/13/21 08:57 DULLW   S         Ver 11/13/21 08:57 DULLW                                           
+ Tigec            %<=0.12   Ver 11/13/21 08:57 DULLW   %S        Ver 11/13/21 08:57 DULLW                                           
+ Nitro            %<=16     Ver 11/13/21 08:57 DULLW   %S        Ver 11/13/21 08:57 DULLW                                           
+ Rif              %<=0.5    Ver 11/13/21 08:57 DULLW   %S        Ver 11/13/21 08:57 DULLW                                           
+ SXT              %<=10     Ver 11/13/21 08:57 DULLW   S         Ver 11/13/21 08:57 DULLW                                           
+ 11/11/21 09:05 ANDREACK   MIC           Organism: PA        Panel: OX81        ID#: 21312194683                                    
+                  MIC Dilution                         MIC Interpretation                                                           
+ Pip-tazo         %8        Ver 11/11/21 09:05 ANDREA  S         Ver 11/11/21 09:05 ANDREA                                          
+ Ceftazidime      %2        Ver 11/11/21 09:05 ANDREA  S         Ver 11/11/21 09:05 ANDREA                                          
+ Cefepime         %<=1      Ver 11/11/21 09:05 ANDREA  S         Ver 11/11/21 09:05 ANDREA                                          
+ Meropenem        %<=0.25   Ver 11/11/21 09:05 ANDREA  S         Ver 11/11/21 09:05 ANDREA                                          
+ Amik             %<=2      Ver 11/11/21 09:05 ANDREA  S         Ver 11/11/21 09:05 ANDREA                                          
+ Gent             %<=1      Ver 11/11/21 09:05 ANDREA  S         Ver 11/11/21 09:05 ANDREA                                          
+ Tobra            %<=1      Ver 11/11/21 09:05 ANDREA  S         Ver 11/11/21 09:05 ANDREA                                          
+ Cipro            %<=0.25   Ver 11/11/21 09:05 ANDREA  %S        Ver 11/11/21 09:05 ANDREA                                          
+ Levo             %0.5      Ver 11/11/21 09:05 ANDREA  S         Ver 11/11/21 09:05 ANDREA                                          
+ =========================================================================================================================          
+ Name: Molyneux, Joseph                                            Provider:     Redfield, Robert R MD                              
+ MRN/Age/Sex:  452971120 HUP/70 years/Male                         Admit Date: 11/14/21 01:53                                       
+ Enc Type: (I) Inpatient                                           Discharge Date:                                                  
+ Location: HUP/HUP/HUETX P11 City/H1166/H1166                                                                                       
+-------------------------------------------------------------------------------------------------------------------------           
+ Procedure:  C ROUTINE                              Source: Abscess                         Collect Date: 11/14/21 12:27            
+ Accession:  21-318-04616                           Body Site:                              Receive Date: 11/14/21 15:00            
+ Serv Res: HUP Micro Wound                          Ft Source:                              Start Date:   11/14/21 15:00            
+ Order Location: HUP/HUETX P11 City                 Antibiotics:                            Pathogens:                              
+-------------------------------------------------------------------------------------------------------------------------           
+ Date Time      Tech     # Task          Results                                                                                    
+ -------------------------------------------------------------------------------------------------------------------------          
+ 11/14/21 16:34 JOHNSKIE   GS                                                                                                       
+                           Gram Stain Result:                                                                                       
+                           Moderate Gram Positive Cocci                                                                             
+                           Few White Blood Cells                                                                                    
+ 11/16/21 08:14 CASSOND    Amend                                                                                                    
+                           Many Methicillin-Resistant Staphylococcus aureus                                                         
+ 11/16/21 08:14 CASSOND    MIC           Organism: MRSA      Panel: GP67        ID#: 21318046161                                    
+                  MIC Dilution                         MIC Interpretation                                                           
+ Amp-sul          %xxx      Ver 11/16/21 08:14 CASSON  R         Ver 11/16/21 08:14 CASSON                                          
+ Cefazolin        %xxx      Ver 11/16/21 08:14 CASSON  R         Ver 11/16/21 08:14 CASSON                                          
+ Cefoxitin-screen %Pos      Ver 11/16/21 08:14 CASSON  %Pos      Ver 11/16/21 08:14 CASSON                                          
+ Pen              %>=0.5    Ver 11/16/21 08:14 CASSON  R         Ver 11/16/21 08:14 CASSON                                          
+ Ox               %>=4      Ver 11/16/21 08:14 CASSON  R         Ver 11/16/21 08:14 CASSON                                          
+ Gent             %<=0.5    Ver 11/16/21 08:14 CASSON  %S        Ver 11/16/21 08:14 CASSON                                          
+ Cipro            %<=0.5    Ver 11/16/21 08:14 CASSON  %S        Ver 11/16/21 08:14 CASSON                                          
+ Levo             %<=0.12   Ver 11/16/21 08:14 CASSON  %S        Ver 11/16/21 08:14 CASSON                                          
+ Moxi             %<=0.25   Ver 11/16/21 08:14 CASSON  %S        Ver 11/16/21 08:14 CASSON                                          
+ Clinda-R         %Neg      Ver 11/16/21 08:14 CASSON  %Neg      Ver 11/16/21 08:14 CASSON                                          
+
+                                                                                                                                   
+  Date: 11/17/21 08:56:07                     Microbiology Detailed Line Listing Report                     Id: GUNOSKEJ            
+  Sequence: HUP Micro Detailed Line Listing                                                                 Page:  18               
+ =========================================================================================================================          
+ Name: Molyneux, Joseph               Accession:  21-318-04616             Procedure:C ROUTINE                                      
+-------------------------------------------------------------------------------------------------------------------------           
+ Date Time      Tech     # Task          Results                                                                                    
+-------------------------------------------------------------------------------------------------------------------------           
+ 11/16/21 08:14 CASSOND    MIC           MRSA                Panel: GP67        ID#: 21318046161                                    
+                  MIC Dilution                         MIC Interpretation                                                           
+ Eryth            %>=8      Ver 11/16/21 08:14 CASSON  R         Ver 11/16/21 08:14 CASSON                                          
+ Clinda           %<=0.25   Ver 11/16/21 08:14 CASSON  S         Ver 11/16/21 08:14 CASSON                                          
+ Quin-dal         %0.5      Ver 11/16/21 08:14 CASSON  %S        Ver 11/16/21 08:14 CASSON                                          
+ Linezolid        %2        Ver 11/16/21 08:14 CASSON  %xxx      Ver 11/16/21 08:14 CASSON                                          
+ Vanc             %1        Ver 11/16/21 08:14 CASSON  S         Ver 11/16/21 08:14 CASSON                                          
+ Tetra            %<=1      Ver 11/16/21 08:14 CASSON  S         Ver 11/16/21 08:14 CASSON                                          
+ Tigec            %<=0.12   Ver 11/16/21 08:14 CASSON  %S        Ver 11/16/21 08:14 CASSON                                          
+ Nitro            %<=16     Ver 11/16/21 08:14 CASSON  %S        Ver 11/16/21 08:14 CASSON                                          
+ Rif              %<=0.5    Ver 11/16/21 08:14 CASSON  %S        Ver 11/16/21 08:14 CASSON                                          
+ SXT              %<=10     Ver 11/16/21 08:14 CASSON  S         Ver 11/16/21 08:14 CASSON                                          
+ =========================================================================================================================          
+ Name: Mummini, Lalita                                             Provider:     O'Neil, Michael MD                                 
+ MRN/Age/Sex:  471056325 HUP/68 years/Female                       Admit Date: 11/08/21 21:58                                       
+ Enc Type: (E) Emergency                                           Discharge Date: 11/09/21 07:00                                   
+ Location: HUP/HUP/ER/220/220                                                                                                       
+-------------------------------------------------------------------------------------------------------------------------           
+ Procedure:  C ROUTINE                              Source: Body Fl                         Collect Date: 11/09/21 06:53            
+ Accession:  21-313-02982                           Body Site:                              Receive Date: 11/09/21 11:00            
+ Serv Res: HUP Micro Wound                          Ft Source:                              Start Date:   11/09/21 11:01            
+ Order Location: HUP/ER                             Antibiotics:                            Pathogens:                              
+-------------------------------------------------------------------------------------------------------------------------           
+ Date Time      Tech     # Task          Results                                                                                    
+ -------------------------------------------------------------------------------------------------------------------------          
+ 11/09/21 14:45 ROSTIM     GS                                                                                                       
+                           Gram Stain Result:                                                                                       
+                           Moderate White Blood Cells                                                                               
+                           Many Gram Positive Cocci                                                                                 
+ 11/11/21 09:54 FERNANR    Final                                                                                                    
+                           Many Methicillin-Resistant Staphylococcus aureus                                                         
+ 11/11/21 09:07 ANDREACK   MIC           Organism: MRSA      Panel: GP67        ID#: 21313029821                                    
+                  MIC Dilution                         MIC Interpretation                                                           
+ Amp-sul          %xxx      Ver 11/11/21 09:06 ANDREA  R         Ver 11/11/21 09:06 ANDREA                                          
+ Cefazolin        %xxx      Ver 11/11/21 09:06 ANDREA  R         Ver 11/11/21 09:06 ANDREA                                          
+ Cefoxitin-screen %Pos      Ver 11/11/21 09:06 ANDREA  %Pos      Ver 11/11/21 09:06 ANDREA                                          
+ Pen              %>=0.5    Ver 11/11/21 09:06 ANDREA  R         Ver 11/11/21 09:06 ANDREA                                          
+ Ox               %>=4      Ver 11/11/21 09:06 ANDREA  R         Ver 11/11/21 09:06 ANDREA                                          
+ Gent             %<=0.5    Ver 11/11/21 09:06 ANDREA  %S        Ver 11/11/21 09:06 ANDREA                                          
+ Cipro            %>=8      Ver 11/11/21 09:06 ANDREA  %R        Ver 11/11/21 09:06 ANDREA                                          
+ Levo             %>=8      Ver 11/11/21 09:06 ANDREA  %R        Ver 11/11/21 09:06 ANDREA                                          
+ Moxi             %4        Ver 11/11/21 09:06 ANDREA  %R        Ver 11/11/21 09:06 ANDREA                                          
+ Clinda-R         %Neg      Ver 11/11/21 09:06 ANDREA  %Neg      Ver 11/11/21 09:06 ANDREA                                          
+ Eryth            %>=8      Ver 11/11/21 09:06 ANDREA  R         Ver 11/11/21 09:07 ANDREA                                          
+ Clinda           %>=8      Ver 11/11/21 09:06 ANDREA  R         Ver 11/11/21 09:07 ANDREA                                          
+ Quin-dal         %<=0.25   Ver 11/11/21 09:06 ANDREA  %S        Ver 11/11/21 09:06 ANDREA                                          
+ Linezolid        %2        Ver 11/11/21 09:06 ANDREA  %xxx      Ver 11/11/21 09:06 ANDREA                                          
+ Vanc             %<=0.5    Ver 11/11/21 09:06 ANDREA  S         Ver 11/11/21 09:06 ANDREA                                          
+ Tetra            %<=1      Ver 11/11/21 09:06 ANDREA  %S        Ver 11/11/21 09:06 ANDREA                                          
+ Tigec            %<=0.12   Ver 11/11/21 09:06 ANDREA  %S        Ver 11/11/21 09:06 ANDREA                                          
+ Nitro            %<=16     Ver 11/11/21 09:06 ANDREA  %S        Ver 11/11/21 09:06 ANDREA                                          
+ Rif              %<=0.5    Ver 11/11/21 09:06 ANDREA  %S        Ver 11/11/21 09:06 ANDREA                                          
+
+                                                                                                                                   
+  Date: 11/17/21 08:56:07                     Microbiology Detailed Line Listing Report                     Id: GUNOSKEJ            
+  Sequence: HUP Micro Detailed Line Listing                                                                 Page:  19               
+ =========================================================================================================================          
+ Name: Mummini, Lalita                Accession:  21-313-02982             Procedure:C ROUTINE                                      
+-------------------------------------------------------------------------------------------------------------------------           
+ Date Time      Tech     # Task          Results                                                                                    
+-------------------------------------------------------------------------------------------------------------------------           
+ 11/11/21 09:07 ANDREACK   MIC           MRSA                Panel: GP67        ID#: 21313029821                                    
+                  MIC Dilution                         MIC Interpretation                                                           
+ SXT              %<=10     Ver 11/11/21 09:06 ANDREA  S         Ver 11/11/21 09:06 ANDREA                                          
+ =========================================================================================================================          
+ Name: Perry, Melissa                                              Provider:     Kohanski, Michael A MD                             
+ MRN/Age/Sex:  471392183 HUP/53 years/Female                       Admit Date: 11/10/21 23:38                                       
+ Enc Type: (I) Inpatient                                           Discharge Date:                                                  
+ Location: HUP/HUP/RP1/1039/A                                                                                                       
+-------------------------------------------------------------------------------------------------------------------------           
+ Procedure:  C ROUTINE                              Source: Excision Site                   Collect Date: 11/11/21 10:42            
+ Accession:  21-315-07381                           Body Site:                              Receive Date: 11/11/21 12:11            
+ Serv Res: HUP Micro Wound                          Ft Source:                              Start Date:   11/11/21 12:11            
+ Order Location: HUP/R9                             Antibiotics:                            Pathogens:                              
+-------------------------------------------------------------------------------------------------------------------------           
+ Date Time      Tech     # Task          Results                                                                                    
+ -------------------------------------------------------------------------------------------------------------------------          
+ 11/11/21 16:27 JOHNSKIE   Gram Stain                                                                                               
+                           No Bacteria Seen.                                                                                        
+                           Few White Blood Cells                                                                                    
+ 11/13/21 09:25 DULLW      Amend                                                                                                    
+                           Few Methicillin-Resistant Staphylococcus aureus                                                          
+ 11/13/21 09:25 DULLW      MIC           Organism: MRSA      Panel: GP67        ID#: 21315073811                                    
+                  MIC Dilution                         MIC Interpretation                                                           
+ Amp-sul          %xxx      Ver 11/13/21 09:25 DULLW   R         Ver 11/13/21 09:25 DULLW                                           
+ Cefazolin        %xxx      Ver 11/13/21 09:25 DULLW   R         Ver 11/13/21 09:25 DULLW                                           
+ Cefoxitin-screen %Pos      Ver 11/13/21 09:25 DULLW   %Pos      Ver 11/13/21 09:25 DULLW                                           
+ Pen              %>=0.5    Ver 11/13/21 09:25 DULLW   R         Ver 11/13/21 09:25 DULLW                                           
+ Ox               %>=4      Ver 11/13/21 09:25 DULLW   R         Ver 11/13/21 09:25 DULLW                                           
+ Gent             %<=0.5    Ver 11/13/21 09:25 DULLW   %S        Ver 11/13/21 09:25 DULLW                                           
+ Cipro            %<=0.5    Ver 11/13/21 09:25 DULLW   %S        Ver 11/13/21 09:25 DULLW                                           
+ Levo             %<=0.12   Ver 11/13/21 09:25 DULLW   %S        Ver 11/13/21 09:25 DULLW                                           
+ Moxi             %<=0.25   Ver 11/13/21 09:25 DULLW   %S        Ver 11/13/21 09:25 DULLW                                           
+ Clinda-R         %Neg      Ver 11/13/21 09:25 DULLW   %Neg      Ver 11/13/21 09:25 DULLW                                           
+ Eryth            %>=8      Ver 11/13/21 09:25 DULLW   R         Ver 11/13/21 09:25 DULLW                                           
+ Clinda           %<=0.25   Ver 11/13/21 09:25 DULLW   S         Ver 11/13/21 09:25 DULLW                                           
+ Quin-dal         %<=0.25   Ver 11/13/21 09:25 DULLW   %S        Ver 11/13/21 09:25 DULLW                                           
+ Linezolid        %2        Ver 11/13/21 09:25 DULLW   %xxx      Ver 11/13/21 09:25 DULLW                                           
+ Vanc             %<=0.5    Ver 11/13/21 09:25 DULLW   S         Ver 11/13/21 09:25 DULLW                                           
+ Tetra            %<=1      Ver 11/13/21 09:25 DULLW   S         Ver 11/13/21 09:25 DULLW                                           
+ Tigec            %<=0.12   Ver 11/13/21 09:25 DULLW   %S        Ver 11/13/21 09:25 DULLW                                           
+ Nitro            %<=16     Ver 11/13/21 09:25 DULLW   %S        Ver 11/13/21 09:25 DULLW                                           
+ Rif              %<=0.5    Ver 11/13/21 09:25 DULLW   %S        Ver 11/13/21 09:25 DULLW                                           
+ SXT              %<=10     Ver 11/13/21 09:25 DULLW   S         Ver 11/13/21 09:25 DULLW                                           
+
+                                                                                                                                   
+  Date: 11/17/21 08:56:07                     Microbiology Detailed Line Listing Report                     Id: GUNOSKEJ            
+  Sequence: HUP Micro Detailed Line Listing                                                                 Page:  20               
+ =========================================================================================================================          
+ Name: Shabazz, Fateen                                             Provider:     Lee, Bryan Walker MD                               
+ MRN/Age/Sex:  442450128 PMC/28 years/Male                         Admit Date: 11/06/21 05:50                                       
+ Enc Type: (E) Emergency                                           Discharge Date: 11/06/21 10:14                                   
+ Location: PPMC/PPMC Myrin/ER4 non-Bedded                                                                                           
+-------------------------------------------------------------------------------------------------------------------------           
+ Procedure:  C BC                                   Source: BL P                            Collect Date: 11/06/21 08:23            
+ Accession:  21-310-03357                           Body Site:                              Receive Date: 11/06/21 16:49            
+ Serv Res: HUP Bactec 1                             Ft Source:                              Start Date:   11/06/21 16:50            
+ Order Location: PPMC/ER4 non-Bedded                Antibiotics:                            Pathogens:                              
+-------------------------------------------------------------------------------------------------------------------------           
+ Date Time      Tech     # Task          Results                                                                                    
+ -------------------------------------------------------------------------------------------------------------------------          
+ 11/08/21 03:08 PERUMPOA   GS Cult#3                                                                                                
+                           Gram Positive Cocci in clusters From Both Vials                                                          
+                           Telephone Notification Is Made For First-time Positive Cultures Only.  Multiple Blood                    
+                           Cultures With The Same Organism Will Not Be Phoned Unless Greater Than 4 Days Have Elapsed               
+                           Since The Initial Notification Was Made.                                                                 
+                           Initial Positive Results Phoned To And Readback By: Liz Jeigner MD, 11/07/21 at 1221                     
+ 11/12/21 13:25 LOUKI      Final                                                                                                    
+                           Methicillin-Resistant Staphylococcus aureus detected by molecular assay.                                 
+                           Methicillin-Resistant Staphylococcus aureus From Both Vials Confirmed by culture.                        
+                           Staphylococcus aureus bacteremia is associated with significant morbidity and mortality.                 
+                           Infectious Diseases consultation is recommended.                                                         
+ 11/09/21 09:07 DULLW      MIC           Organism: MRSA      Panel: GP67        ID#: 21310033571                                    
+                  MIC Dilution                         MIC Interpretation                                                           
+ Amp-sul          %xxx      Ver 11/09/21 09:07 DULLW   R         Ver 11/09/21 09:07 DULLW                                           
+ Cefazolin        %xxx      Ver 11/09/21 09:07 DULLW   R         Ver 11/09/21 09:07 DULLW                                           
+ Cefoxitin-screen %Pos      Ver 11/09/21 09:07 DULLW   %Pos      Ver 11/09/21 09:07 DULLW                                           
+ Pen              %>=0.5    Ver 11/09/21 09:07 DULLW   R         Ver 11/09/21 09:07 DULLW                                           
+ Ox               %>=4      Ver 11/09/21 09:07 DULLW   R         Ver 11/09/21 09:07 DULLW                                           
+ Gent             %<=0.5    Ver 11/09/21 09:07 DULLW   %S        Ver 11/09/21 09:07 DULLW                                           
+ Cipro            %>=8      Ver 11/09/21 09:07 DULLW   %R        Ver 11/09/21 09:07 DULLW                                           
+ Levo             %4        Ver 11/09/21 09:07 DULLW   %R        Ver 11/09/21 09:07 DULLW                                           
+ Moxi             %2        Ver 11/09/21 09:07 DULLW   %R        Ver 11/09/21 09:07 DULLW                                           
+ Clinda-R         %Neg      Ver 11/09/21 09:07 DULLW   %Neg      Ver 11/09/21 09:07 DULLW                                           
+ Eryth            %>=8      Ver 11/09/21 09:07 DULLW   %R        Ver 11/09/21 09:07 DULLW                                           
+ Clinda           %<=0.25   Ver 11/09/21 09:07 DULLW   %S        Ver 11/09/21 09:07 DULLW                                           
+ Quin-dal         %<=0.25   Ver 11/09/21 09:07 DULLW   %S        Ver 11/09/21 09:07 DULLW                                           
+ Linezolid        %2        Ver 11/09/21 09:07 DULLW   %xxx      Ver 11/09/21 09:07 DULLW                                           
+ Vanc             %<=0.5    Ver 11/09/21 09:07 DULLW   S         Ver 11/09/21 09:07 DULLW                                           
+ Tetra            %<=1      Ver 11/09/21 09:07 DULLW   %S        Ver 11/09/21 09:07 DULLW                                           
+ Tigec            %<=0.12   Ver 11/09/21 09:07 DULLW   %S        Ver 11/09/21 09:07 DULLW                                           
+ Nitro            %<=16     Ver 11/09/21 09:07 DULLW   %S        Ver 11/09/21 09:07 DULLW                                           
+ Rif              %<=0.5    Ver 11/09/21 09:07 DULLW   %S        Ver 11/09/21 09:07 DULLW                                           
+ SXT              %<=10     Ver 11/09/21 09:07 DULLW   S         Ver 11/09/21 09:07 DULLW                                           
+ 11/10/21 12:07 DULLW      ETEST         Organism: MRSA      Panel: Dap         ID#:                                                
+                  E Test Dilution                      E Test Interpretation                                                        
+ Dap              0.38      Ver 11/10/21 12:07 DULLW   S         Ver 11/10/21 12:07 DULLW                                           
+
+                                                                                                                                   
+  Date: 11/17/21 08:56:07                     Microbiology Detailed Line Listing Report                     Id: GUNOSKEJ            
+  Sequence: HUP Micro Detailed Line Listing                                                                 Page:  21               
+ =========================================================================================================================          
+ Name: Smith, David L                                              Provider:     Ortega-Legaspi, Juan Manuel MD PhD                 
+ MRN/Age/Sex:  041043803 HUP/58 years/Male                         Admit Date: 11/05/21 10:07                                       
+ Enc Type: (I) Inpatient                                           Discharge Date: 11/11/21 16:29                                   
+ Location: HUP/HUP/HECRD Pav 8Ctr/H814/H814                                                                                         
+-------------------------------------------------------------------------------------------------------------------------           
+ Procedure:  C ROUTINE                              Source: Wound                           Collect Date: 11/06/21 13:23            
+ Accession:  21-310-06101                           Body Site:                              Receive Date: 11/06/21 14:30            
+ Serv Res: HUP Micro Wound                          Ft Source: driveline                    Start Date:   11/06/21 14:39            
+ Order Location: HUP/HECRD Pav 8Ctr                 Antibiotics:                            Pathogens:                              
+-------------------------------------------------------------------------------------------------------------------------           
+ Date Time      Tech     # Task          Results                                                                                    
+ -------------------------------------------------------------------------------------------------------------------------          
+ 11/06/21 16:34 JOHNSKIE   GS                                                                                                       
+                           Gram Stain Result:                                                                                       
+                           Rare Gram Positive Cocci                                                                                 
+                           Rare White Blood Cells                                                                                   
+ 11/10/21 09:05 DULLW      Amend                                                                                                    
+                           Few Methicillin-Resistant Staphylococcus aureus                                                          
+                           Few Mixed Gram Positive Bacteria                                                                         
+ 11/10/21 09:04 DULLW      MIC           Organism: MRSA      Panel: GP67        ID#: 21310061011                                    
+                  MIC Dilution                         MIC Interpretation                                                           
+ Amp-sul          %xxx      Ver 11/10/21 09:04 DULLW   R         Ver 11/10/21 09:04 DULLW                                           
+ Cefazolin        %xxx      Ver 11/10/21 09:04 DULLW   R         Ver 11/10/21 09:04 DULLW                                           
+ Cefoxitin-screen %Pos      Ver 11/10/21 09:04 DULLW   %Pos      Ver 11/10/21 09:04 DULLW                                           
+ Pen              %>=0.5    Ver 11/10/21 09:04 DULLW   R         Ver 11/10/21 09:04 DULLW                                           
+ Ox               %>=4      Ver 11/10/21 09:04 DULLW   R         Ver 11/10/21 09:04 DULLW                                           
+ Gent             %<=0.5    Ver 11/10/21 09:04 DULLW   %S        Ver 11/10/21 09:04 DULLW                                           
+ Cipro            %>=8      Ver 11/10/21 09:04 DULLW   %R        Ver 11/10/21 09:04 DULLW                                           
+ Levo             %>=8      Ver 11/10/21 09:04 DULLW   %R        Ver 11/10/21 09:04 DULLW                                           
+ Moxi             %4        Ver 11/10/21 09:04 DULLW   %R        Ver 11/10/21 09:04 DULLW                                           
+ Clinda-R         %Neg      Ver 11/10/21 09:04 DULLW   %Neg      Ver 11/10/21 09:04 DULLW                                           
+ Eryth            %>=8      Ver 11/10/21 09:04 DULLW   R         Ver 11/10/21 09:04 DULLW                                           
+ Clinda           %>=8      Ver 11/10/21 09:04 DULLW   R         Ver 11/10/21 09:04 DULLW                                           
+ Quin-dal         %0.5      Ver 11/10/21 09:04 DULLW   %S        Ver 11/10/21 09:04 DULLW                                           
+ Linezolid        %2        Ver 11/10/21 09:04 DULLW   %xxx      Ver 11/10/21 09:04 DULLW                                           
+ Vanc             %<=0.5    Ver 11/10/21 09:04 DULLW   S         Ver 11/10/21 09:04 DULLW                                           
+ Tetra            %<=1      Ver 11/10/21 09:04 DULLW   S         Ver 11/10/21 09:04 DULLW                                           
+ Tigec            %<=0.12   Ver 11/10/21 09:04 DULLW   %S        Ver 11/10/21 09:04 DULLW                                           
+ Nitro            %<=16     Ver 11/10/21 09:04 DULLW   %S        Ver 11/10/21 09:04 DULLW                                           
+ Rif              %<=0.5    Ver 11/10/21 09:04 DULLW   %S        Ver 11/10/21 09:04 DULLW                                           
+ SXT              %<=10     Ver 11/10/21 09:04 DULLW   S         Ver 11/10/21 09:04 DULLW                                           
+ =========================================================================================================================          
+  Total accession selected:           22                                                                                            
+                                                                                                                                    
+                                            ********** END OF REPORT **********                                                     
+
+
