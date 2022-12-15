@@ -1,3 +1,7 @@
 */input/*.xlsx
 */old/*
 */output/*.xlsx
+*/output-master/*.xlsx
+
+*/archive/*.xlsx
+*/archive/*.txt
