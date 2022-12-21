@@ -1,7 +1,8 @@
-*/input/*.xlsx
-*/old/*
-*/output/*.xlsx
-*/output-master/*.xlsx
+**/input/*.xlsx
+**/old/*
+**/output/*.xlsx
+**/output-master/*.xlsx
 
-*/archive/*.xlsx
-*/archive/*.txt
+**/archive/*.xlsx
+**/archive/*.txt
+.idea
