@@ -26,7 +26,6 @@ df_id = df_id.dropna()
 # Inner join mapping on labvantage output.
 df_mapped = df_id.merge(df_lv, how='left', on='Sample')
 
-print(len(df_mapped))
 
 # %% Remap to new header
 columns = {
