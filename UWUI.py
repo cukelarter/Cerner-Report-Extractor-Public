@@ -7,7 +7,8 @@ Merge all ARIES functions into one executable file that has cute graphics.
 
 from pipelines import cerner,metadata,growthcurve
 from tkinter import Tk, Canvas, PhotoImage, Button    # from tkinter import Tk for Python 3.x
-
+import os
+import sys
 # make a cute GUI!
 class UWUI(object):
     def __init__(self, root):
@@ -30,8 +31,8 @@ class UWUI(object):
         # process report
         try:
             cerner.process()
-        except:
-            print('Error: Failed to process cerner.')
+        except Exception as error:
+            print(f'Error: Failed to process cerner.\n {repr(error)}')
         # enable button presses
         self.enable_buttons()
     def process_metadata(self):
@@ -39,17 +40,17 @@ class UWUI(object):
         # process report
         try:
             metadata.process()
-        except:
-            print('Error: Failed to process metadata.')
+        except Exception as error:
+            print(f'Error: Failed to process metadata.\n {repr(error)}')
         # enable button presses
         self.enable_buttons()
     def process_growthcurve(self):
         self.disable_buttons()
         # process report
-        #try:
-        growthcurve.process()
-        #except:
-        #print('Error: Failed to process growthcurve.')
+        try:
+            growthcurve.process()
+        except Exception as error:
+            print(f'Error: Failed to process growthcurve.\n {repr(error)}')
         # enable button presses
         self.enable_buttons()
     # enable buttons
@@ -57,12 +58,14 @@ class UWUI(object):
         # enable button presses
         self.button_cerner['state']="normal"
         self.button_metadata['state']="normal"
+        self.button_growthcurve['state']="normal"
 
     # disable buttons
     def disable_buttons(self):
         # disable button presses
         self.button_cerner['state']="disabled"
         self.button_metadata['state']="disabled"
+        self.button_growthcurve['state']="disabled"
 
     # Animation sucks, I'm over it (archived)
     """
@@ -83,6 +86,17 @@ class UWUI(object):
             self.frameindex+=1
         return self.frames[self.frameindex]
     """
+# Get resource path
+def resource_path(relative_path):
+    """ Get absolute path to resource, works for dev and for PyInstaller """
+    try:
+        # PyInstaller creates a temp folder and stores path in _MEIPASS
+        base_path = sys._MEIPASS
+    except Exception:
+        base_path = os.path.abspath(".")
+
+    return os.path.join(base_path, relative_path)
+
 #%% run it!
 
 if __name__=="__main__":
@@ -91,7 +105,7 @@ if __name__=="__main__":
     # display attributes
     canvas=Canvas(root, width=256, height=256)
     # import static gif frame
-    IMAGEFILE='src/scienceloop.gif'
+    IMAGEFILE=resource_path('src/scienceloop.gif')
     image=PhotoImage(file=IMAGEFILE,
                      format=f"gif -index 0")
     # create image on canvas? idk whatever

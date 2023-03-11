@@ -8,7 +8,7 @@ a = Analysis(
     ['UWUI.py'],
     pathex=[],
     binaries=[],
-    datas=[('src/scienceloop.gif','src/scienceloop.gif')],
+    datas=[('src/scienceloop.gif', 'src/')],
     hiddenimports=[],
     hookspath=[],
     hooksconfig={},
@@ -41,4 +41,5 @@ exe = EXE(
     target_arch=None,
     codesign_identity=None,
     entitlements_file=None,
+    icon=['src\\icon.ico'],
 )
