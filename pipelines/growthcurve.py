@@ -25,7 +25,7 @@ def process():
     root.withdraw() # we don't want to see root window
 
     # get input filepath manually through specification
-    inpath = askdirectory(title="Select Project Directory (Metadata)") # show an "Open" dialog box and return the path to the selected file
+    inpath = askdirectory(title="Select Project Directory (Growthcurve)") # show an "Open" dialog box and return the path to the selected file
     
     filenames=glob.glob(f'{inpath}/*.xlsx')
 
