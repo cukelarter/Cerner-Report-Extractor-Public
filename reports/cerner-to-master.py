@@ -10,7 +10,7 @@ import re
 import pandas as pd
 import os
 
-#fullpath=r'C:/Users/cukel/OneDrive/Documents/PyScripts/jessie/cerner reports/'
+#fullpath=r'C:\Users\Luke\OneDrive\Documents\PyScripts\jessie\cerner reports\reports'
 fullpath=r'C:/Users/loloi/OneDrive/Desktop/cerner/'
 # get infile
 os.chdir(fullpath)
