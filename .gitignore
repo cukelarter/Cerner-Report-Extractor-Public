@@ -6,3 +6,8 @@
 **/archive/*.xlsx
 **/archive/*.txt
 .idea
+
+dist/*
+build/*
+*.py
+*.spec
