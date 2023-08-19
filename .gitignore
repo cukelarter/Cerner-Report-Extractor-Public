@@ -9,5 +9,8 @@
 
 dist/*
 build/*
+reports/build/*
+reports/dist/*
 *.py
+*.pyc
 *.spec
